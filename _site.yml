@@ -1,0 +1,22 @@
+name: "Mirko Signorelli - statistician and R programmer"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "R packages"
+      href: r.html
+    - text: "Presentations"
+      href: talks.html
+    - text: "Awards"
+      href: awards.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Contact"
+      href: contact.html
+output_dir: "."
