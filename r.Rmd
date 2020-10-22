@@ -1,5 +1,6 @@
 ---
 title: "R packages and contributions"
+pagetitle: "R packages of Mirko Signorelli"
 ---
 
 ### Overview
@@ -10,9 +11,9 @@ My involvement in the R community can be summarized as follows:
 
 * I am the **author and mantainer of the R packages neat and ptmixed**;
 
-* I was one of the organizers of the European R Users Meeting 2020 (e-Rum2020) conference.
+* I was one of the organizers of the European R Users Meeting 2020 (e-Rum2020) conference;
 
-* I contributed code to the R package EnrichmentBrowser;
+* I contributed code to the R package EnrichmentBrowser.
 
 Below you can find more details about my contributions.
 
@@ -62,7 +63,7 @@ To find out more about ptmixed:
 
 I was one of the organizers of the **European R Users Meeting 2020 conference** (e-Rum2020), both as member of the [organizing committee](https://2020.erum.io/about/organizers) and as responsible of the promotion of the conference. 
 
-e-Rum2020 was originally planned as a physical event to be held in Milan in May 2020. However, due to the COVID19 pandemic we decided to turn the event into a free virtual conference - the very first fully virtual R conference ever!
+e-Rum2020 was originally planned as a physical event to be held in Milan in May 2020. However, due to the COVID19 pandemic we decided to turn the event into a free virtual conference - **the very first fully virtual R conference ever!**
 
 Wanna find more about e-Rum2020?
 

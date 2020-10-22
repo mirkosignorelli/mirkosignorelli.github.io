@@ -1,3 +1,6 @@
+---
+pagetitle: "Mirko Signorelli - statistician and R programmer"
+---
 
 <div class="alert alert-dismissible alert-warning">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
@@ -20,7 +23,7 @@ Over the years, I worked on different projects, both methodological and applied.
 
 ### Research interests
 
-My research is centered on the **development of new statistical models** for the analysis of **dependent data**, focusing in particular on *statistical modelling of networks* and on the **longitudinal analysis of omics and biomedical data**. I also work together with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), analysing a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+My research is centered on the **development of new statistical models** for the analysis of **dependent data**, focusing in particular on **statistical modelling of networks** and on the **longitudinal analysis of omics and biomedical data**. I also work together with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), analysing a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
 More broadly, I am interested in:
 

@@ -6,17 +6,31 @@ output:
 navbar:
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Publications"
+      icon: fa-book
       href: publications.html
     - text: "R packages"
+      icon: fa-laptop
       href: r.html
     - text: "Presentations"
+      icon: fa-bullhorn
       href: talks.html
     - text: "Awards"
+      icon: fas fa-trophy
       href: awards.html
     - text: "Teaching"
+      icon: fa-chalkboard-teacher
       href: teaching.html
     - text: "Contact"
+      icon: fa-info
       href: contact.html
+  right:
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/signormirko
+    - text: ""
+      icon: fa-github
+      href: https://github.com/mirkosignorelli
 output_dir: "."

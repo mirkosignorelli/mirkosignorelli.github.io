@@ -1,5 +1,6 @@
 ---
 title: "Awards"
+pagetitle: "Mirko Signorelli's awards"
 ---
 
 ### IBC2020's Young Statistician Showcase Award
@@ -12,9 +13,9 @@ This award was based on a world-wide competition whereby young statisticians cou
 
 In June 2018 I received the **Best PhD Thesis Award of the Italian Statistical Society**. 
 
-This is a biennial award for PhD theses belonging to one of the following categories: methological statistics, applied statistics and demography. My PhD thesis, entitled "Inferring Community-driven Structure in Complex Networks", was awarded in the applied statistics category.
+This award is awarded every other year to PhD theses belonging to one of the following categories: methological statistics, applied statistics and demography. My PhD thesis, entitled "Inferring Community-driven Structure in Complex Networks", was selected for the award in the applied statistics category.
 
-After I received the award, I was interviewed by the Italian newspaper Corriere della Sera; [you can read the interview (in Italian) here](https://bergamo.corriere.it/notizie/cronaca/18_ottobre_05/da-chiuduno-all-olanda-premiato-la-ricerca-statistica-politica-8bce14cc-c87b-11e8-81ab-863c582a99f0.shtml).
+After I received the award, I was interviewed by the Italian newspaper *Corriere della Sera*; [you can read the interview (in Italian) here](https://bergamo.corriere.it/notizie/cronaca/18_ottobre_05/da-chiuduno-all-olanda-premiato-la-ricerca-statistica-politica-8bce14cc-c87b-11e8-81ab-863c582a99f0.shtml).
 
 ### Best Student Paper Award
 
@@ -26,4 +27,4 @@ This award was based on a competition between all short papers submitted by PhD 
 
 In 2017 I received the **Research Award 2016 of the Department of Statistics of the University of Padova**.
 
-This award is based on a competition whereby all junior researchers affiliated to the Department of Statistics can submit one of their published articles for consideration. I received the award based on my article [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6) that is published in BMC Bioinformatics
+This award is based on a competition whereby all junior researchers affiliated to the Department of Statistics can submit one of their published articles for consideration. I received the award based on my article [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6) that is published in BMC Bioinformatics.

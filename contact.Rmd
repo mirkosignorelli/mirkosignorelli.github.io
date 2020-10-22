@@ -1,0 +1,25 @@
+---
+title: "Contact information"
+---
+
+### Affiliation
+
+Mirko Signorelli  
+Department of Biomedical Data Sciences, Section of Medical Statistics  
+Leiden University Medical Center  
+Einthovenweg 20, 2333 ZC Leiden (NL)  
+Office: S5-10
+
+### Social media links
+
+* ResearchGate: [Mirko_Signorelli](https://www.researchgate.net/profile/Mirko_Signorelli)
+
+* Twitter: [signormirko](https://twitter.com/signormirko)
+
+* Github: [mirkosignorelli](https://github.com/mirkosignorelli)
+
+* LinkedIn: [signorelli](https://www.linkedin.com/in/signorelli)
+
+* Google Scholar: [Mirko Signorelli](https://scholar.google.it/citations?user=ap5ZHWcAAAAJ&hl=it&oi=ao)
+
+* ORCID: [0000-0002-8102-3356](http://orcid.org/0000-0002-8102-3356)
