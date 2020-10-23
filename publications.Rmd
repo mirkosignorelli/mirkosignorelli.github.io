@@ -13,7 +13,7 @@ Statistical Modelling.
 [Model-based clustering for populations of networks](https://journals.sagepub.com/doi/full/10.1177/1471082X19871128). 
 Statistical Modelling, 20 (1), 9-29.  
 <span style="color: orchid;">
-A shorter, preliminary version of this article (in the form of conference proceedings) received the *Student Paper Toyota Corporation Award*, awarded by the *Statistical Modelling Society* at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
+A conference proceedings version of this article was awarded the [Best Student Paper Award of the Statistical Modelling Society](awards.html) (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
 </span>
 
 * **Signorelli, M.**, Wit, E. C. (2018). 
@@ -24,7 +24,7 @@ Journal of the Royal Statistical Society: Series C (Applied Statistics), 67 (2),
 ISBN: 978-90-367-9575-3.  
 NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.  
 <span style="color: orchid;">
-My PhD thesis received the *Best PhD Thesis Award* of the *Italian Statistical Society* (SIS) in the category Applied Statistics. After I received the award, I was interviewed by the Italian newspaper Corriere della Sera; [you can read the interview (in Italian) here](https://bergamo.corriere.it/notizie/cronaca/18_ottobre_05/da-chiuduno-all-olanda-premiato-la-ricerca-statistica-politica-8bce14cc-c87b-11e8-81ab-863c582a99f0.shtml).
+My PhD thesis was awarded the [Best PhD Thesis Award of the Italian Statistical Society](awards.html) (SIS) in the category Applied Statistics.
 </span>
 
 * **Signorelli, M.** (2017). 
@@ -35,7 +35,7 @@ In: Petrucci, A., Verde, R. (editors), SIS 2017. Statistics and Data Science: ne
 [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6).
 BMC Bioinformatics, 17, 352.  
 <span style="color: orchid;">
-This article received the *Research Award 2016*, awarded by the *Department of Statistics of the University of Padova*.
+With this article I won the competition for the [Research Award 2016 of the Department of Statistical Sciences of the University of Padova](awards.html).
 </span>
 
 
