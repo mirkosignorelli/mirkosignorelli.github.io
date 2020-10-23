@@ -2,12 +2,7 @@
 pagetitle: "Mirko Signorelli - statistician and R programmer"
 ---
 
-<div class="alert alert-dismissible alert-warning">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <h4 class="alert-heading">Warning!</h4>
-  <p class="mb-0">This website is currently work in progress. For the time being,
-  [use my old website as main reference](https://mirkosignorelli.wixsite.com/home/)</p>
-</div>
+###
 
 ### Introduction
 
