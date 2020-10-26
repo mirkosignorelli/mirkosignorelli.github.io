@@ -2,8 +2,42 @@
 title: "Teaching"
 ---
 
-<div class="alert alert-dismissible alert-warning">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <h4 class="alert-heading">Warning!</h4>
-  <p class="mb-0">This page is currently being prepared. Check back soon!</p>
-</div>
+### Teaching experience
+
+Hereafter is the list of courses for which I have been teaching assistant:
+
+* **Statistics and Probability** (2017-2021)  
+Master's programme in *Statistical Science*  
+Mathematical Institute, Leiden University
+
+* **Analysis of repeated measurements** (2018)  
+Boerhaave Nascholing foundation  
+Leiden University Medical Center
+
+* **Basic methods and reasoning in biostatistics** (2017-2019)  
+Boerhaave Nascholing foundation  
+Leiden University Medical Center
+
+* **Clinical Research in Practice** (2019-2020)  
+Master's programme in *Biomedical Sciences*  
+Leiden University Medical Center
+
+* **Design and Analysis of Biomedical Studies** (2019-2020)  
+Bachelor's programme in *Biomedical Sciences*  
+Leiden University Medical Center
+
+* **Statistics II** (2012-2013)  
+Master's programmes in *Biostatistics and Experimental Statistics*, and in *Statistics and Economics*  
+Faculty of Statistics, University of Milano-Bicocca
+
+### Supervisions
+
+Hereafter is the list of students whom I have cosupervised:
+
+* F. Lefeber (2016-17)  
+Master's programme in *Education and Communication in Mathematics and Natural Sciences*  
+Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
+
+* H. Dijkstra (2015-16)  
+Master's programme in *Mathematics at the University of Groningen*  
+Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
