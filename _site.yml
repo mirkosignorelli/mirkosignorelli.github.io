@@ -3,6 +3,8 @@ output:
   html_document:
     theme: cerulean
     highlight: textmate
+    includes: 
+      in_header: analytics.html # for google analytics
 navbar:
   left:
     - text: "Home"
