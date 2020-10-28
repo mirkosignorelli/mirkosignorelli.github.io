@@ -2,6 +2,15 @@
 title: "Awards"
 pagetitle: "Mirko Signorelli's awards"
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZHFRKZJ8Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZHFRKZJ8Y');
+</script>
 
 <img src="images/award_YSS_IBS.png" align="right" alt="" width="200" />
 
