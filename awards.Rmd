@@ -2,6 +2,7 @@
 title: "Awards"
 pagetitle: "Mirko Signorelli's awards"
 ---
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZHFRKZJ8Y"></script>
 <script>
@@ -11,6 +12,7 @@ pagetitle: "Mirko Signorelli's awards"
 
   gtag('config', 'G-XZHFRKZJ8Y');
 </script>
+</head>
 
 <img src="images/award_YSS_IBS.png" align="right" alt="" width="200" />
 
