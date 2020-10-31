@@ -1,4 +1,10 @@
-.go-away-p-margin > * {
+.fp-jumbo p {
   margin: 0 !important;
+  font-size: 16px !important;
 }
-
+.fp-jumbo {
+  background-color: #efeddc;
+}
+.main-container {
+  max-width: 800px !important;
+}

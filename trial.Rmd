@@ -4,12 +4,12 @@ pagetitle: Mirko Signorelli - statistician and R programmer
 
 ##
 
-<div class="jumbotron">
+<div class="jumbotron fp-jumbo">
 <div class="row">
 <div class="col-12 col-md-6 go-away-p-margin">
 <img src="images/foto5.jpg" class="img-responsive" />
 </div>
-<div class="col-12 col-md-6">
+<div class="col-12 col-md-6" style="margin-top: 10px;">
 ## Mirko Signorelli
 
 #### STATISTICIAN AND R PROGRAMMER
