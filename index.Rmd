@@ -24,8 +24,6 @@ Office: S5-10
 </div>
 </div>
 
-### Introduction
-
 Welcome! My name is **Mirko Signorelli**, I am a **(bio)statistician and R programmer**. In this website you can find information about my research and work.
 
 ### Short bio
@@ -38,21 +36,21 @@ Over the years, I worked on different projects, both methodological and applied.
 
 ### Research interests
 
-My research is centered on the **development of new statistical models** for the analysis of **dependent data**, focusing in particular on **statistical modelling of networks** and on the **longitudinal analysis of omics and biomedical data**. I also work together with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), analysing a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data**, focusing in particular on the **longitudinal analysis of omics and biomedical data** and on **statistical modelling of networks**. 
+
+Besides developing new statistical methods, I work together with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), analysing a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
 More broadly, I am interested in:
 
 * biostatistics, statistical genetics and bioinformatics;
 
+* variable selection and high dimensional statistics;
+
 * generalized, linear, and mixed models;
-
-* variable selection, penalized and high dimensional inference;
-
-* statistical network science;
 
 * survival analysis;
 
-* model-based clustering;
+* statistical network science;
 
 * applications of statistics in life and social sciences.
 
