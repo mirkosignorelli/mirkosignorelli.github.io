@@ -1,8 +1,28 @@
 ---
-pagetitle: "Mirko Signorelli - statistician and R programmer"
+pagetitle: Mirko Signorelli - statistician and R programmer
 ---
 
-###
+##
+
+<div class="jumbotron fp-jumbo">
+<div class="row">
+<div class="col-12 col-md-6 go-away-p-margin">
+<img src="images/mirkosignorelli.jpg" class="img-responsive" />
+</div>
+<div class="col-12 col-md-6" style="margin-top: 10px;">
+## Mirko Signorelli
+
+#### STATISTICIAN AND R PROGRAMMER
+
+Section of Medical Statistics  
+Department of Biomedical Data Sciences  
+Leiden University Medical Center  
+Einthovenweg 20, 2333 ZC Leiden (NL)  
+Office: S5-10
+
+</div>
+</div>
+</div>
 
 ### Introduction
 
@@ -36,3 +56,4 @@ More broadly, I am interested in:
 
 * applications of statistics in life and social sciences.
 
+</section>
