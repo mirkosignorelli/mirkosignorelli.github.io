@@ -17,12 +17,12 @@ navbar:
     - text: "R packages"
       icon: fa-laptop
       href: r.html
-    - text: "Presentations"
-      icon: fa-bullhorn
-      href: talks.html
     - text: "Awards"
       icon: fas fa-trophy
       href: awards.html
+    - text: "Presentations"
+      icon: fa-bullhorn
+      href: talks.html
     - text: "Teaching"
       icon: fa-chalkboard-teacher
       href: teaching.html

@@ -48,7 +48,7 @@ More broadly, I am interested in:
 
 * generalized, linear, and mixed models;
 
-* survival analysis;
+* longitudinal data analysis and survival analysis;
 
 * statistical network science;
 

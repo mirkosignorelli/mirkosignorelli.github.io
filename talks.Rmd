@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-pagetitle: "Mirko Signorelli's list of presentation"
+pagetitle: "Mirko Signorelli's list of presentations"
 ---
 
 ### Invited talks

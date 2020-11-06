@@ -9,11 +9,11 @@ All of the statistical methods that I have developed so far are implemented usin
 
 My involvement in the R community can be summarized as follows:
 
-* I am the **author and mantainer of the R packages neat and ptmixed**;
+* I am the **author and mantainer of the R packages `neat` and `ptmixed`**;
 
 * I was one of the organizers of the European R Users Meeting 2020 (e-Rum2020) conference;
 
-* I contributed code to the R package EnrichmentBrowser.
+* I contributed code to the R package `EnrichmentBrowser`.
 
 Below you can find more details about my contributions.
 
@@ -23,7 +23,7 @@ Below you can find more details about my contributions.
 
 **NEAT** is an acronym that stands for *Network Enrichment Analysis Test*, a test that can be used to assess relations between sets of nodes (typically genes) in a network.
 
-The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. BMC Bioinformatics, 17:352, and it is implemented in the R package neat, available from CRAN.
+The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. BMC Bioinformatics, 17:352, and it is implemented in the R package `neat`, available from CRAN.
 
 If you want to learn more about NEAT, you can:
 
@@ -35,7 +35,7 @@ If you want to learn more about NEAT, you can:
 
 * check out the [package manual](https://cran.r-project.org/web/packages/neat/neat.pdf).
 
-News: since October 2020, the NEAT test can be computed also using the Bioconductor package EnrichmentBrowser.
+News: since November 2020, the NEAT test can be computed also using the Bioconductor package `EnrichmentBrowser`.
 
 ### R package ptmixed
 
@@ -43,7 +43,7 @@ News: since October 2020, the NEAT test can be computed also using the Bioconduc
 
 **ptmixed** is an abbreviation that stands for *Poisson-Tweedie generalized linear mixed model*, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails. 
 
-The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. Statistical Modelling, 20 (1), 9-29, and it is implemented in the R package ptmixed, available from CRAN.
+The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. Statistical Modelling, 20 (1), 9-29, and it is implemented in the R package `ptmixed`, available from CRAN.
 
 To find out more about ptmixed:
 
