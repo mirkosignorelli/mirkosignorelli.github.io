@@ -9,7 +9,7 @@ All of the statistical methods that I have developed so far are implemented usin
 
 My involvement in the R community can be summarized as follows:
 
-* I am the **author and mantainer of the R packages `neat` and `ptmixed`**;
+* I am the **author and mantainer of the R packages `neat`, `ptmixed` and `pencal`**;
 
 * I was one of the organizers of the European R Users Meeting 2020 (e-Rum2020) conference;
 
@@ -56,6 +56,12 @@ To find out more about ptmixed:
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/ptmixed);
 
 * check out the [package manual](https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf).
+
+### R package pencal
+
+**pencal** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
+
+A [first version of the `R` package](https://cran.r-project.org/web/packages/pencal) is currently available from CRAN. Note that the package is still under development: more functionalities, vignettes and a preprint describing PRC will be made available soon!
 
 ### European R Users Meeting 2020 conference (e-Rum2020)
 
