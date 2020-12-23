@@ -63,7 +63,7 @@ Journal of Neuromuscular Diseases, 7 (3), 231-246.
 
 ### Articles in review / in preparation:
 
-* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., Tsonaka, R. (in preparation). 
+* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in preparation). 
 Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.
 
 * **Signorelli, M.**, Ebrahimpoor, M. et al. (2020, in review). 
