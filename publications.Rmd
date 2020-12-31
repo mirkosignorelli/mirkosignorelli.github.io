@@ -5,6 +5,12 @@ pagetitle: "Publications of Mirko Signorelli"
 
 ### Methodological articles
 
+* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in review). 
+Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.
+
+* **Signorelli, M.**, Cutillo, L. (in review). 
+[On community structure validation in real networks](https://arxiv.org/abs/1710.06611). arXiv preprint number: arXiv:1710.0661.
+
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2020).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017). 
 Statistical Modelling.
@@ -38,8 +44,13 @@ BMC Bioinformatics, 17, 352.
 With this article I won the competition for the [Research Award 2016 of the Department of Statistical Sciences of the University of Padova](awards.html).
 </span>
 
-
 ### Applied statistics articles
+
+* **Signorelli, M.**, Ebrahimpoor, M. et al. (in review). 
+Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients.
+
+* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (in review). 
+Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
 
 * **Signorelli, M.**, Ayoglu, B. et al. (2020). 
 [Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517). 
@@ -54,29 +65,16 @@ Scientific Reports, 10, 17547.
 Human Molecular Genetics, 29 (5), 745-755.
 
 * Previtali, S., Gidaro, T. et al [including **Signorelli, M.**] (2020). 
-[Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy](https://www.sciencedirect.com/science/article/pii/S1043661820313074). 
-Pharmacological Research, 159, 104999.
+[Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy](https://www.sciencedirect.com/science/article/pii/S1043661820313074). Pharmacological Research, 159, 104999.
 
 * Strandberg, K., Ayoglu, B. et al [including **Signorelli, M.**] (2020). 
 [Blood-derived biomarkers correlate with clinical progression in Duchenne muscular dystrophy](https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd190454). 
 Journal of Neuromuscular Diseases, 7 (3), 231-246.
 
-### Articles in review / in preparation:
+### General outreach articles
 
-* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in preparation). 
-Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.
-
-* **Signorelli, M.**, Ebrahimpoor, M. et al. (2020, in review). 
-Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients.
-
-* Cutillo, L., **Signorelli, M.** (2020, in review). 
-[On community structure validation in real networks](https://arxiv.org/abs/1710.06611). arXiv preprint: arXiv:1710.0661.
-
-* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (in preparation). 
+* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (in review). 
 e-Rum2020: how we turned a physical conference into a successful virtual event.
-
-* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (2020, in review). 
-Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
 
 ### Conference proceedings and technical reports
 
