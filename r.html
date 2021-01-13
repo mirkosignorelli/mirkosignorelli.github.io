@@ -33,6 +33,15 @@
   gtag('config', 'G-XZHFRKZJ8Y');
 </script>
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -77,6 +86,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -284,49 +294,49 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fa fa-book"></span>
+    <span class="fas fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fa fa-laptop"></span>
+    <span class="fas fa-laptop"></span>
      
     R packages
   </a>
 </li>
 <li>
   <a href="awards.html">
-    <span class="fas fa fas fa-trophy"></span>
+    <span class="fas fa-trophy"></span>
      
     Awards
   </a>
 </li>
 <li>
   <a href="talks.html">
-    <span class="fa fa-bullhorn"></span>
+    <span class="fas fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-chalkboard-teacher"></span>
+    <span class="fas fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-info"></span>
+    <span class="fas fa-info"></span>
      
     Contact
   </a>
@@ -335,14 +345,14 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://twitter.com/signormirko">
-    <span class="fa fa-twitter"></span>
+    <span class="fas fa-twitter"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://github.com/mirkosignorelli">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
     
   </a>
@@ -403,7 +413,14 @@ $(document).ready(function () {
 <div id="r-package-pencal" class="section level3">
 <h3>R package pencal</h3>
 <p><strong>pencal</strong> is an abbreviation that stands for <em>Penalized Regression Calibration (PRC)</em>, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.</p>
-<p>A <a href="https://cran.r-project.org/web/packages/pencal">first version of the <code>R</code> package</a> is currently available from CRAN. Note that the package is still under development: more functionalities, vignettes and a preprint describing PRC will be made available soon!</p>
+<p>The method is described in Signorelli <em>et al.</em> (in review). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. arXiv preprint: arXiv:2101.04426, and it is implemented in the R package <code>pencal</code>, available from CRAN.</p>
+<p>To find out more about PRC and <code>pencal</code>, check out the following resources:</p>
+<ul>
+<li><p><a href="https://arxiv.org/abs/2101.04426">read the arXiv preprint</a> that describes PRC;</p></li>
+<li><p>read the <a href="https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html">vignette: An introduction to the R package pencal</a>;</p></li>
+<li><p>visit the <a href="https://cran.r-project.org/web/packages/pencal">package page on CRAN</a>;</p></li>
+<li><p>check out the <a href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package manual</a>.</p></li>
+</ul>
 </div>
 <div id="european-r-users-meeting-2020-conference-e-rum2020" class="section level3">
 <h3>European R Users Meeting 2020 conference (e-Rum2020)</h3>
@@ -435,7 +452,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

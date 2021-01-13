@@ -6,10 +6,15 @@ pagetitle: "Publications of Mirko Signorelli"
 ### Methodological articles
 
 * **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in review). 
-Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.
+[Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.](https://arxiv.org/abs/2101.04426)
+arXiv preprint number: arXiv:2101.04426.  
+<span style="color: orchid;">
+A shorter version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
+</span>
 
 * **Signorelli, M.**, Cutillo, L. (in review). 
-[On community structure validation in real networks](https://arxiv.org/abs/1710.06611). arXiv preprint number: arXiv:1710.0661.
+[On community structure validation in real networks](https://arxiv.org/abs/1710.06611). 
+arXiv preprint number: arXiv:1710.0661.
 
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2020).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017). 
@@ -41,7 +46,7 @@ In: Petrucci, A., Verde, R. (editors), SIS 2017. Statistics and Data Science: ne
 [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6).
 BMC Bioinformatics, 17, 352.  
 <span style="color: orchid;">
-With this article I won the competition for the [Research Award 2016 of the Department of Statistical Sciences of the University of Padova](awards.html).
+With this article I won the competition for the [Research Award 2016](awards.html) of the Department of Statistical Sciences of the University of Padova.
 </span>
 
 ### Applied statistics articles
