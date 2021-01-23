@@ -51,11 +51,13 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 ### Applied statistics articles
 
-* **Signorelli, M.**, Ebrahimpoor, M. et al. (in review). 
-Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients.
+* **Signorelli, M.**, Ebrahimpoor, M. et al. (accepted). 
+Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients. 
+To appear in EMBO Molecular Medicine.
 
-* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (in review). 
+* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (accepted). 
 Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
+To appear in Scientific Reports.
 
 * **Signorelli, M.**, Ayoglu, B. et al. (2020). 
 [Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517). 
