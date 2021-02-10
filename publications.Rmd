@@ -80,8 +80,9 @@ Journal of Neuromuscular Diseases, 7 (3), 231-246.
 
 ### Public outreach articles
 
-* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (in review). 
-e-Rum2020: how we turned a physical conference into a successful virtual event.
+* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (2020). 
+e-Rum2020: how we turned a physical conference into a successful virtual event. 
+The R Journal, 12 (2), 416-424.
 
 ### Conference proceedings and technical reports
 
