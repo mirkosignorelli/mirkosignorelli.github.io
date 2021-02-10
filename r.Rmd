@@ -81,7 +81,9 @@ I was one of the organizers of the **European R Users Meeting 2020 conference** 
 
 e-Rum2020 was originally planned as a physical event to be held in Milan in May 2020. However, due to the COVID19 pandemic we decided to turn the event into a free virtual conference - **the very first fully virtual R conference ever!**
 
-Wanna find more about e-Rum2020?
+If you would like to know more about e-Rum2020, you can:
+
+* read the article [e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/archive/2020-2/erum.pdf), published in *The R Journal*, in which we summarized our adventure as conference organizers in the middle of a pandemic outbreak;
 
 * check out the [website of e-Rum2020](https://2020.erum.io/);
 
