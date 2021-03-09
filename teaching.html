@@ -33,6 +33,15 @@
   gtag('config', 'G-XZHFRKZJ8Y');
 </script>
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -77,6 +86,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -284,49 +294,49 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fa fa-book"></span>
+    <span class="fas fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fa fa-laptop"></span>
+    <span class="fas fa-laptop"></span>
      
     R packages
   </a>
 </li>
 <li>
   <a href="awards.html">
-    <span class="fas fa fas fa-trophy"></span>
+    <span class="fas fa-trophy"></span>
      
     Awards
   </a>
 </li>
 <li>
   <a href="talks.html">
-    <span class="fa fa-bullhorn"></span>
+    <span class="fas fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-chalkboard-teacher"></span>
+    <span class="fas fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-info"></span>
+    <span class="fas fa-info"></span>
      
     Contact
   </a>
@@ -335,14 +345,14 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://twitter.com/signormirko">
-    <span class="fa fa-twitter"></span>
+    <span class="fas fa-twitter"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://github.com/mirkosignorelli">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
     
   </a>
@@ -363,7 +373,7 @@ $(document).ready(function () {
 
 <div id="teaching-experience" class="section level3">
 <h3>Teaching experience</h3>
-<p>Hereafter is the list of courses for which I have been teaching assistant:</p>
+<p>I have worked as teaching assistant for the following courses:</p>
 <ul>
 <li><p><strong>Statistics and Probability</strong> (2017-2021)<br />
 Master’s programme in <em>Statistical Science</em><br />
@@ -380,6 +390,9 @@ Leiden University Medical Center</p></li>
 <li><p><strong>Design and Analysis of Biomedical Studies</strong> (2019-2020)<br />
 Bachelor’s programme in <em>Biomedical Sciences</em><br />
 Leiden University Medical Center</p></li>
+<li><p><strong>Methoden en Technieken</strong> (2021)<br />
+Bachelor’s programme in <em>Biomedical Sciences</em><br />
+Leiden University Medical Center</p></li>
 <li><p><strong>Statistics II</strong> (2012-2013)<br />
 Master’s programmes in <em>Biostatistics and Experimental Statistics</em>, and in <em>Statistics and Economics</em><br />
 Faculty of Statistics, University of Milano-Bicocca</p></li>
@@ -387,13 +400,13 @@ Faculty of Statistics, University of Milano-Bicocca</p></li>
 </div>
 <div id="supervisions" class="section level3">
 <h3>Supervisions</h3>
-<p>Hereafter is the list of students whom I have cosupervised:</p>
+<p>I have cosupervised the following students:</p>
 <ul>
 <li><p>F. Lefeber (2016-17)<br />
 Master’s programme in <em>Education and Communication in Mathematics and Natural Sciences</em><br />
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen</p></li>
 <li><p>H. Dijkstra (2015-16)<br />
-Master’s programme in <em>Mathematics at the University of Groningen</em><br />
+Master’s programme in <em>Mathematics</em><br />
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen</p></li>
 </ul>
 </div>
@@ -407,7 +420,7 @@ Johann Bernoulli Institute for Mathematics and Computer Science, University of G
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

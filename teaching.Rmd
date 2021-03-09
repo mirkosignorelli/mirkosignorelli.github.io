@@ -4,7 +4,7 @@ title: "Teaching"
 
 ### Teaching experience
 
-Hereafter is the list of courses for which I have been teaching assistant:
+I have worked as teaching assistant for the following courses:
 
 * **Statistics and Probability** (2017-2021)  
 Master's programme in *Statistical Science*  
@@ -26,18 +26,22 @@ Leiden University Medical Center
 Bachelor's programme in *Biomedical Sciences*  
 Leiden University Medical Center
 
+* **Methoden en Technieken** (2021)  
+Bachelor's programme in *Biomedical Sciences*  
+Leiden University Medical Center
+
 * **Statistics II** (2012-2013)  
 Master's programmes in *Biostatistics and Experimental Statistics*, and in *Statistics and Economics*  
 Faculty of Statistics, University of Milano-Bicocca
 
 ### Supervisions
 
-Hereafter is the list of students whom I have cosupervised:
+I have cosupervised the following students:
 
 * F. Lefeber (2016-17)  
 Master's programme in *Education and Communication in Mathematics and Natural Sciences*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
 
 * H. Dijkstra (2015-16)  
-Master's programme in *Mathematics at the University of Groningen*  
+Master's programme in *Mathematics*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
