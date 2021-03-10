@@ -51,13 +51,9 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 ### Applied statistics articles
 
-* **Signorelli, M.**, Ebrahimpoor, M. et al. (accepted). 
-Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients. 
-To appear in EMBO Molecular Medicine.
-
-* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (accepted). 
-Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
-To appear in Scientific Reports.
+* **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
+[Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients](http://doi.org/10.15252/emmm.202013328). 
+EMBO Molecular Medicine, e13328.
 
 * **Signorelli, M.**, Ayoglu, B. et al. (2020). 
 [Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517). 
@@ -70,6 +66,11 @@ Scientific Reports, 10, 17547.
 * Tsonaka, R., **Signorelli, M.**, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). 
 [Longitudinal metabolomic analysis of plasma enables modelling disease progression in Duchenne muscular dystrophy mouse models](https://academic.oup.com/hmg/article/29/5/745/5698697). 
 Human Molecular Genetics, 29 (5), 745-755.
+
+
+* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (accepted). 
+Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
+To appear in Scientific Reports.
 
 * Previtali, S., Gidaro, T. et al [including **Signorelli, M.**] (2020). 
 [Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy](https://www.sciencedirect.com/science/article/pii/S1043661820313074). Pharmacological Research, 159, 104999.
