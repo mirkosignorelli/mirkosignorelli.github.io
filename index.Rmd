@@ -32,8 +32,6 @@ I currently work as **assistant professor in Statistical Science** at the [Mathe
 I received a **double PhD in Statistics** from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
 
 
-Over the years, I worked on different projects, both methodological and applied. You can find out more about them by checking out my [publications](publications.html) and my [R packages](r.html).
-
 ### Research interests
 
 Over the years, I have carried out both methodological and applied research.
