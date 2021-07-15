@@ -38,6 +38,6 @@ Over the years, I have carried out both methodological and applied research.
 
 My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. 
 
-As concerns applied research, I have mostly worked on applications of statistics to biomedical problems and to social network analysis. In particular, I have worked with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+As concerns applied research, I have mostly worked on **applications of statistics to biomedical problems and to social network analysis**. In particular, I have worked with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omic data** on muscular dystrophies, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
 </section>
