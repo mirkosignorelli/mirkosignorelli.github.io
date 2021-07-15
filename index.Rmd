@@ -12,46 +12,34 @@ pagetitle: Mirko Signorelli - statistician and R programmer
 <div class="col-12 col-md-6" style="margin-top: 10px;">
 ## Mirko Signorelli
 
-#### STATISTICIAN AND R PROGRAMMER
+#### ASSISTANT PROFESSOR IN STATISTICAL SCIENCE
 
-Section of Medical Statistics  
-Department of Biomedical Data Sciences  
-Leiden University Medical Center  
-Einthovenweg 20, 2333 ZC Leiden (NL)  
-Office: S5-10
+Mathematical Institute  
+Leiden University  
+Niels Bohrweg 1, 2333 CA Leiden (NL)  
+Office: room 221
 
 </div>
 </div>
 </div>
 
-Welcome! My name is **Mirko Signorelli**, I am a **(bio)statistician and R programmer**. In this website you can find information about my research and work.
+Welcome! My name is **Mirko Signorelli**, and I work as **assistant professor in Statistical Science** at Leiden University. In this website you can find information about my research and work.
 
 ### Short bio
 
-I currently work as **postdoctoral researcher in biostatistics** at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
+I currently work as **assistant professor in Statistical Science** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us).
 
-I received a **double PhD in Statistics** from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. I wrote my PhD dissertation, entitled "Inferring Community-driven Structure in Complex Networks", under the supervision of Professors [Ernst Wit](https://www.math.rug.nl/~ernst/) and [Monica Chiogna](https://www.unibo.it/sitoweb/monica.chiogna2/en).
+I received a **double PhD in Statistics** from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
+
 
 Over the years, I worked on different projects, both methodological and applied. You can find out more about them by checking out my [publications](publications.html) and my [R packages](r.html).
 
 ### Research interests
 
-My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data**, focusing in particular on the **longitudinal analysis of omics and biomedical data** and on **statistical modelling of networks**. 
+Over the years, I have carried out both methodological and applied research.
 
-Besides developing new statistical methods, I work together with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), analysing a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. 
 
-More broadly, I am interested in:
-
-* biostatistics, statistical genetics and bioinformatics;
-
-* variable selection and high dimensional statistics;
-
-* generalized, linear, and mixed models;
-
-* longitudinal data analysis and survival analysis;
-
-* statistical network science;
-
-* applications of statistics in life and social sciences.
+As concerns applied research, I have mostly worked on applications of statistics to biomedical problems and to social network analysis. In particular, I have worked with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omics data on muscular dystrophies**, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
 </section>
