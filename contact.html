@@ -33,6 +33,15 @@
   gtag('config', 'G-XZHFRKZJ8Y');
 </script>
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -77,6 +86,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -284,49 +294,49 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fa fa-book"></span>
+    <span class="fas fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fa fa-laptop"></span>
+    <span class="fas fa-laptop"></span>
      
     R packages
   </a>
 </li>
 <li>
   <a href="awards.html">
-    <span class="fas fa fas fa-trophy"></span>
+    <span class="fas fa-trophy"></span>
      
     Awards
   </a>
 </li>
 <li>
   <a href="talks.html">
-    <span class="fa fa-bullhorn"></span>
+    <span class="fas fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-chalkboard-teacher"></span>
+    <span class="fas fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-info"></span>
+    <span class="fas fa-info"></span>
      
     Contact
   </a>
@@ -335,14 +345,14 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://twitter.com/signormirko">
-    <span class="fa fa-twitter"></span>
+    <span class="fab fa-twitter"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://github.com/mirkosignorelli">
-    <span class="fa fa-github"></span>
+    <span class="fab fa-github"></span>
      
     
   </a>
@@ -364,13 +374,14 @@ $(document).ready(function () {
 <div id="affiliation" class="section level3">
 <h3>Affiliation</h3>
 <p>Mirko Signorelli<br />
-Department of Biomedical Data Sciences, Section of Medical Statistics<br />
-Leiden University Medical Center<br />
-Einthovenweg 20, 2333 ZC Leiden (NL)<br />
-Email: m.signorelli (at) lumc.nl</p>
+Mathematical Institute<br />
+Leiden University<br />
+Niels Bohrweg 1, 2333 CA Leiden (NL)<br />
+Office: Snellius, room 221<br />
+Email: m [dot] signorelli [at] math [dot] leidenuniv [dot] nl</p>
 </div>
-<div id="social-media-links" class="section level3">
-<h3>Social media links</h3>
+<div id="social-media-profiles" class="section level3">
+<h3>Social media profiles</h3>
 <ul>
 <li><p>ResearchGate: <a href="https://www.researchgate.net/profile/Mirko_Signorelli">Mirko_Signorelli</a></p></li>
 <li><p>Twitter: <a href="https://twitter.com/signormirko">signormirko</a></p></li>
@@ -390,7 +401,7 @@ Email: m.signorelli (at) lumc.nl</p>
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

@@ -53,7 +53,7 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 * **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
 [Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients](http://doi.org/10.15252/emmm.202013328). 
-EMBO Molecular Medicine, e13328.
+EMBO Molecular Medicine, 13, e13328.
 
 * Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (2021). 
 [Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay](https://www.nature.com/articles/s41598-021-84863-w).

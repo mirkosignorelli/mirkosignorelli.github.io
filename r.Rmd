@@ -5,7 +5,7 @@ pagetitle: "R packages of Mirko Signorelli"
 
 ### Overview
 
-All of the statistical methods that I have developed so far are implemented using the [R programming language](https://www.r-project.org/). When time and funding allowed it, I have created R packages that make it easy to everyone to apply these methods; when this was not possible, I have uploaded the R scripts used to estimate a given model on [my github page](https://github.com/mirkosignorelli).
+All of the statistical methods that I have developed so far are implemented using the [R programming language](https://www.r-project.org/). When time and funding allowed it, I have created R packages that make it easier to apply these methods; when this was not possible, I have uploaded the R scripts used to estimate a given model on [my github page](https://github.com/mirkosignorelli).
 
 My involvement in the R community can be summarized as follows:
 

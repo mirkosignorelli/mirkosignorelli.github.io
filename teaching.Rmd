@@ -2,9 +2,21 @@
 title: "Teaching"
 ---
 
-### Teaching experience
+### Courses from 2021 onwards
 
-I have worked as teaching assistant for the following courses:
+I currently teach the following courses:
+
+* [**Statistical Computing with R**](https://studiegids.universiteitleiden.nl/en/courses/110098/statistical-computing-with-r) (2021-)  
+Master's programme in *Statistics \& Data Science*  
+Mathematical Institute, Leiden University
+
+* [**Advanced Statistical Computing**](https://studiegids.universiteitleiden.nl/en/courses/105113/advanced-statistical-computing) (2021-)  
+Master's programme in *Statistics \& Data Science*  
+Mathematical Institute, Leiden University
+
+### Courses up until 2021
+
+Up until 2021, I worked as teaching assistant for the following courses:
 
 * **Statistics and Probability** (2017-2021)  
 Master's programme in *Statistical Science*  
@@ -36,12 +48,16 @@ Faculty of Statistics, University of Milano-Bicocca
 
 ### Supervisions
 
-I have cosupervised the following students:
+I have (co)supervised the following students:
 
-* F. Lefeber (2016-17)  
+* G. Talyigas (2021). *A systematic comparison of methods for the validation of binary classification models*  
+Master's programme in *Statistics for the Life and Behavioural Sciences*  
+Mathematical Institute, Leiden University
+
+* F. Lefeber (2017).  *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*  
 Master's programme in *Education and Communication in Mathematics and Natural Sciences*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
 
-* H. Dijkstra (2015-16)  
+* H. Dijkstra (2016). *Generalized linear models for network analysis*  
 Master's programme in *Mathematics*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen

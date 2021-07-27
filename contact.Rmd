@@ -5,12 +5,13 @@ title: "Contact information"
 ### Affiliation
 
 Mirko Signorelli  
-Department of Biomedical Data Sciences, Section of Medical Statistics  
-Leiden University Medical Center  
-Einthovenweg 20, 2333 ZC Leiden (NL)  
-Email: m.signorelli (at) lumc.nl
+Mathematical Institute  
+Leiden University  
+Niels Bohrweg 1, 2333 CA Leiden (NL)  
+Office: Snellius, room 221  
+Email: m [dot] signorelli [at] math [dot] leidenuniv [dot] nl
 
-### Social media links
+### Social media profiles
 
 * ResearchGate: [Mirko_Signorelli](https://www.researchgate.net/profile/Mirko_Signorelli)
 
