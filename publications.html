@@ -13,12 +13,22 @@
 
 <title>Publications of Mirko Signorelli</title>
 
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -43,11 +53,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -60,32 +65,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
@@ -97,10 +76,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -117,40 +92,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -178,7 +126,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -190,7 +138,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -201,10 +149,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -216,7 +177,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -294,21 +254,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -322,21 +282,21 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -362,7 +322,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -374,45 +334,45 @@ $(document).ready(function () {
 <div id="methodological-articles" class="section level3">
 <h3>Methodological articles</h3>
 <ul>
-<li><p><strong>Signorelli, M.</strong>, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in review). <a href="https://arxiv.org/abs/2101.04426">Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.</a> arXiv preprint number: arXiv:2101.04426.<br />
+<li><p><strong>Signorelli, M.</strong>, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (accepted). <a href="https://arxiv.org/abs/2101.04426">Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data</a>. To appear in <em>Statistics in Medicine</em>. arXiv preprint number: arXiv:2101.04426.<br />
 <span style="color: orchid;"> A shorter version of this article was awarded the <a href="awards.html">Young Statistician Award</a> by the International Biometric Society. </span></p></li>
 <li><p><strong>Signorelli, M.</strong>, Cutillo, L. (in review). <a href="https://arxiv.org/abs/1710.06611">On community structure validation in real networks</a>. arXiv preprint number: arXiv:1710.0661.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Spitali, P., Tsonaka, R. (2020). <a href="https://journals.sagepub.com/doi/10.1177/1471082X20936017">Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data</a>. Statistical Modelling.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2020). <a href="https://journals.sagepub.com/doi/full/10.1177/1471082X19871128">Model-based clustering for populations of networks</a>. Statistical Modelling, 20 (1), 9-29.<br />
+<li><p><strong>Signorelli, M.</strong>, Spitali, P., Tsonaka, R. (2020). <a href="https://journals.sagepub.com/doi/10.1177/1471082X20936017">Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data</a>. <em>Statistical Modelling</em>.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2020). <a href="https://journals.sagepub.com/doi/full/10.1177/1471082X19871128">Model-based clustering for populations of networks</a>. <em>Statistical Modelling</em>, 20 (1), 9-29.<br />
 <span style="color: orchid;"> A conference proceedings version of this article was awarded the <a href="awards.html">Best Student Paper Award of the Statistical Modelling Society</a> (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017). </span></p></li>
-<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12234">A penalized inference approach to stochastic block modelling of community structure in the Italian Parliament</a>. Journal of the Royal Statistical Society: Series C (Applied Statistics), 67 (2), 355-369.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12234">A penalized inference approach to stochastic block modelling of community structure in the Italian Parliament</a>. <em>Journal of the Royal Statistical Society: Series C (Applied Statistics)</em>, 67 (2), 355-369.</p></li>
 <li><p><strong>Signorelli, M.</strong> (2017). <a href="https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks">Inferring Community-driven Structure in Complex Networks</a>. University of Groningen and University of Padova. ISBN: 978-90-367-9575-3.<br />
 NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.<br />
 <span style="color: orchid;"> My PhD thesis was awarded the <a href="awards.html">Best PhD Thesis Award of the Italian Statistical Society</a> (SIS) in the category Applied Statistics. </span></p></li>
-<li><p><strong>Signorelli, M.</strong> (2017). <a href="https://www.researchgate.net/publication/315716028_Variable_selection_for_realistic_stochastic_blockmodels">Variable selection for (realistic) stochastic blockmodels</a>. In: Petrucci, A., Verde, R. (editors), SIS 2017. Statistics and Data Science: new challenges, new generations, pp. 927-934. Firenze University Press. ISBN: 978-88-6453-521-0.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Vinciotti, V., Wit, E. C. (2016). <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6">NEAT: an efficient network enrichment analysis test</a>. BMC Bioinformatics, 17, 352.<br />
+<li><p><strong>Signorelli, M.</strong> (2017). <a href="https://www.researchgate.net/publication/315716028_Variable_selection_for_realistic_stochastic_blockmodels">Variable selection for (realistic) stochastic blockmodels</a>. In: Petrucci, A., Verde, R. (editors), <em>SIS 2017. Statistics and Data Science: new challenges, new generations</em>, pp. 927-934. Firenze University Press. ISBN: 978-88-6453-521-0.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Vinciotti, V., Wit, E. C. (2016). <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6">NEAT: an efficient network enrichment analysis test</a>. <em>BMC Bioinformatics</em>, 17, 352.<br />
 <span style="color: orchid;"> With this article I won the competition for the <a href="awards.html">Research Award 2016</a> of the Department of Statistical Sciences of the University of Padova. </span></p></li>
 </ul>
 </div>
 <div id="applied-statistics-articles" class="section level3">
 <h3>Applied statistics articles</h3>
 <ul>
-<li><p><strong>Signorelli, M.</strong>, Ebrahimpoor, M. et al. (2021). <a href="http://doi.org/10.15252/emmm.202013328">Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients</a>. EMBO Molecular Medicine, 13, e13328.</p></li>
-<li><p>Koeks, Z., Janson, A. A. et al. [including <strong>Signorelli, M.</strong>] (2021). <a href="https://www.nature.com/articles/s41598-021-84863-w">Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay</a>. Scientific Reports, 11, 5952.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Ayoglu, B. et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517">Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy</a>. Journal of Cachexia, Sarcopenia and Muscle, 11, 505-517.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Mason, A. et al. (2020). <a href="https://www.nature.com/articles/s41598-020-74687-5">Evaluation of blood gene expression levels in facioscapulohumeral muscular dystrophy patients</a>. Scientific Reports, 10, 17547.</p></li>
-<li><p>Tsonaka, R., <strong>Signorelli, M.</strong>, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). <a href="https://academic.oup.com/hmg/article/29/5/745/5698697">Longitudinal metabolomic analysis of plasma enables modelling disease progression in Duchenne muscular dystrophy mouse models</a>. Human Molecular Genetics, 29 (5), 745-755.</p></li>
-<li><p>Previtali, S., Gidaro, T. et al [including <strong>Signorelli, M.</strong>] (2020). <a href="https://www.sciencedirect.com/science/article/pii/S1043661820313074">Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy</a>. Pharmacological Research, 159, 104999.</p></li>
-<li><p>Strandberg, K., Ayoglu, B. et al [including <strong>Signorelli, M.</strong>] (2020). <a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd190454">Blood-derived biomarkers correlate with clinical progression in Duchenne muscular dystrophy</a>. Journal of Neuromuscular Diseases, 7 (3), 231-246.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Ebrahimpoor, M. et al. (2021). <a href="http://doi.org/10.15252/emmm.202013328">Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients</a>. <em>EMBO Molecular Medicine</em>, 13, e13328.</p></li>
+<li><p>Koeks, Z., Janson, A. A. et al. [including <strong>Signorelli, M.</strong>] (2021). <a href="https://www.nature.com/articles/s41598-021-84863-w">Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay</a>. <em>Scientific Reports</em>, 11, 5952.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Ayoglu, B. et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517">Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy</a>. <em>Journal of Cachexia, Sarcopenia and Muscle</em>, 11, 505-517.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Mason, A. et al. (2020). <a href="https://www.nature.com/articles/s41598-020-74687-5">Evaluation of blood gene expression levels in facioscapulohumeral muscular dystrophy patients</a>. <em>Scientific Reports</em>, 10, 17547.</p></li>
+<li><p>Tsonaka, R., <strong>Signorelli, M.</strong>, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). <a href="https://academic.oup.com/hmg/article/29/5/745/5698697">Longitudinal metabolomic analysis of plasma enables modelling disease progression in Duchenne muscular dystrophy mouse models</a>. <em>Human Molecular Genetics</em>, 29 (5), 745-755.</p></li>
+<li><p>Previtali, S., Gidaro, T. et al [including <strong>Signorelli, M.</strong>] (2020). <a href="https://www.sciencedirect.com/science/article/pii/S1043661820313074">Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy</a>. <em>Pharmacological Research</em>, 159, 104999.</p></li>
+<li><p>Strandberg, K., Ayoglu, B. et al [including <strong>Signorelli, M.</strong>] (2020). <a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd190454">Blood-derived biomarkers correlate with clinical progression in Duchenne muscular dystrophy</a>. <em>Journal of Neuromuscular Diseases</em>, 7 (3), 231-246.</p></li>
 </ul>
 </div>
 <div id="public-outreach-articles" class="section level3">
 <h3>Public outreach articles</h3>
 <ul>
-<li>Fortuna, M., Vitalini, F., <strong>Signorelli, M.</strong> et al. (2020). <a href="https://journal.r-project.org/archive/2020-2/erum.pdf">e-Rum2020: how we turned a physical conference into a successful virtual event</a>. The R Journal, 12 (2), 416-424.</li>
+<li>Fortuna, M., Vitalini, F., <strong>Signorelli, M.</strong> et al. (2020). <a href="https://journal.r-project.org/archive/2020-2/erum.pdf">e-Rum2020: how we turned a physical conference into a successful virtual event</a>. <em>The R Journal</em>, 12 (2), 416-424.</li>
 </ul>
 </div>
 <div id="conference-proceedings-and-technical-reports" class="section level3">
 <h3>Conference proceedings and technical reports</h3>
 <ul>
-<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2017). Model-based clustering for populations of networks. Proceedings of the 32nd International Workshop on Statistical Modelling, vol. 1, pp. 155-160.</p></li>
-<li><p><strong>Signorelli, M.</strong>, Vinciotti, V., Wit, E. C. (2016). NEAT: an efficient Network Enrichment Analysis Test. Proceedings of the 31st International Workshop on Statistical Modelling, vol. 1, pp. 289-294.</p></li>
-<li><p>Minotti S. C., <strong>Signorelli, M.</strong> (2013). Il modello Tucker3 per l’analisi dei bilanci dei comuni italiani. Technical report number 241 of the Department of Statistics and Quantitative Methods of the University of Milan-Bicocca.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Wit, E. C. (2017). Model-based clustering for populations of networks. <em>Proceedings of the 32nd International Workshop on Statistical Modelling</em>, vol. 1, pp. 155-160.</p></li>
+<li><p><strong>Signorelli, M.</strong>, Vinciotti, V., Wit, E. C. (2016). NEAT: an efficient Network Enrichment Analysis Test. <em>Proceedings of the 31st International Workshop on Statistical Modelling</em>, vol. 1, pp. 289-294.</p></li>
+<li><p>Minotti S. C., <strong>Signorelli, M.</strong> (2013). Il modello Tucker3 per l’analisi dei bilanci dei comuni italiani. <em>Technical report number 241 of the Department of Statistics and Quantitative Methods of the University of Milan-Bicocca</em>.</p></li>
 </ul>
 </div>
 
@@ -443,7 +403,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
