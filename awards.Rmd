@@ -7,7 +7,7 @@ pagetitle: "Mirko Signorelli's awards"
 
 <img src="images/award_YSS_IBS.png" align="right" alt="" width="200" />
 
-In August 2020 I received the [**Young Statistician Award of the International Biometric Society**]((https://www.vvsor.nl/biometrics/news/two-awards-for-bms-aned-members-at-ibc2020)) (IBS).
+In August 2020 I received the [**Young Statistician Award of the International Biometric Society**](https://www.vvsor.nl/biometrics/news/two-awards-for-bms-aned-members-at-ibc2020) (IBS).
 
 This award was based on a world-wide competition whereby young statisticians could submit a short paper with a contribution to be presented at the 30th International Biometric Conference (IBC2020). Five winners, one for each macroregion of IBS, were selected. My short paper, entitled "How to predict a survival outcome using longitudinal and high-dimensional omics data", was the winner for Europe. Its contents were presented during the [Young Statistician Showcase session of IBC2020](https://www.ibc2020.org/scientific-programme/showcases).
 
