@@ -23,7 +23,7 @@ Below you can find more details about my contributions.
 
 **NEAT** is an acronym that stands for *Network Enrichment Analysis Test*, a test that can be used to assess relations between sets of nodes (typically genes) in a network.
 
-The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. BMC Bioinformatics, 17:352, and it is implemented in the R package `neat`, available from CRAN.
+The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. *BMC Bioinformatics*, 17:352, and it is implemented in the R package `neat`, available from CRAN.
 
 If you want to learn more about NEAT, you can:
 
@@ -43,7 +43,7 @@ News: since November 2020, the NEAT test can be computed also using the Biocondu
 
 **ptmixed** is an abbreviation that stands for *Poisson-Tweedie generalized linear mixed model*, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails. 
 
-The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. Statistical Modelling, 20 (1), 9-29, and it is implemented in the R package `ptmixed`, available from CRAN.
+The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. *Statistical Modelling*, and it is implemented in the R package `ptmixed`, available from CRAN.
 
 To find out more about ptmixed:
 
@@ -61,11 +61,11 @@ To find out more about ptmixed:
 
 **pencal** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
 
-The method is described in Signorelli *et al.* (in review). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. arXiv preprint: arXiv:2101.04426, and it is implemented in the R package `pencal`, available from CRAN.
+The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, and it is implemented in the R package `pencal`, available from CRAN.
 
 To find out more about PRC and `pencal`, check out the following resources:
 
-* [read the arXiv preprint](https://arxiv.org/abs/2101.04426) that describes PRC;
+* [read the article](https://doi.org/10.1002/sim.9178) that describes PRC;
 
 * read the [vignette: An introduction to the R package pencal](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
 

@@ -13,12 +13,22 @@
 
 <title>R packages of Mirko Signorelli</title>
 
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -43,11 +53,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -60,32 +65,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
@@ -97,10 +76,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -117,40 +92,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -178,7 +126,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -190,7 +138,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -201,10 +149,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -216,7 +177,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -294,21 +254,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -322,21 +282,21 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -362,7 +322,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -386,7 +346,7 @@ $(document).ready(function () {
 <h3>R package neat</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" align="right" alt="" width="250" /></p>
 <p><strong>NEAT</strong> is an acronym that stands for <em>Network Enrichment Analysis Test</em>, a test that can be used to assess relations between sets of nodes (typically genes) in a network.</p>
-<p>The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. BMC Bioinformatics, 17:352, and it is implemented in the R package <code>neat</code>, available from CRAN.</p>
+<p>The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. <em>BMC Bioinformatics</em>, 17:352, and it is implemented in the R package <code>neat</code>, available from CRAN.</p>
 <p>If you want to learn more about NEAT, you can:</p>
 <ul>
 <li><p><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6">read the paper</a> that describes the method;</p></li>
@@ -400,7 +360,7 @@ $(document).ready(function () {
 <h3>R package ptmixed</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/84284787-f3821f00-ab3c-11ea-85a7-220982ce518c.png" align="right" alt="" width="250" /></p>
 <p><strong>ptmixed</strong> is an abbreviation that stands for <em>Poisson-Tweedie generalized linear mixed model</em>, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails.</p>
-<p>The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. Statistical Modelling, 20 (1), 9-29, and it is implemented in the R package <code>ptmixed</code>, available from CRAN.</p>
+<p>The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. <em>Statistical Modelling</em>, and it is implemented in the R package <code>ptmixed</code>, available from CRAN.</p>
 <p>To find out more about ptmixed:</p>
 <ul>
 <li><p><a href="https://journals.sagepub.com/doi/10.1177/1471082X20936017">read the article</a> that describes the methodology behind ptmixed;</p></li>
@@ -413,10 +373,10 @@ $(document).ready(function () {
 <div id="r-package-pencal" class="section level3">
 <h3>R package pencal</h3>
 <p><strong>pencal</strong> is an abbreviation that stands for <em>Penalized Regression Calibration (PRC)</em>, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.</p>
-<p>The method is described in Signorelli <em>et al.</em> (in review). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. arXiv preprint: arXiv:2101.04426, and it is implemented in the R package <code>pencal</code>, available from CRAN.</p>
+<p>The method is described in Signorelli <em>et al.</em> (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. <em>Statistics in Medicine</em>, and it is implemented in the R package <code>pencal</code>, available from CRAN.</p>
 <p>To find out more about PRC and <code>pencal</code>, check out the following resources:</p>
 <ul>
-<li><p><a href="https://arxiv.org/abs/2101.04426">read the arXiv preprint</a> that describes PRC;</p></li>
+<li><p><a href="https://doi.org/10.1002/sim.9178">read the article</a> that describes PRC;</p></li>
 <li><p>read the <a href="https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html">vignette: An introduction to the R package pencal</a>;</p></li>
 <li><p>visit the <a href="https://cran.r-project.org/web/packages/pencal">package page on CRAN</a>;</p></li>
 <li><p>check out the <a href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package manual</a>.</p></li>
@@ -471,7 +431,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

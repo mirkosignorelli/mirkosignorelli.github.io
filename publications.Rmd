@@ -5,9 +5,9 @@ pagetitle: "Publications of Mirko Signorelli"
 
 ### Methodological articles
 
-* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (accepted). 
-[Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data](https://arxiv.org/abs/2101.04426).
-To appear in *Statistics in Medicine*. arXiv preprint number: arXiv:2101.04426.  
+* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (2021). 
+[Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data](https://doi.org/10.1002/sim.9178).
+*Statistics in Medicine*.  
 <span style="color: orchid;">
 A shorter version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
 </span>
