@@ -5,15 +5,15 @@ pagetitle: "R packages of Mirko Signorelli"
 
 ### Overview
 
-All of the statistical methods that I have developed so far are implemented using the [R programming language](https://www.r-project.org/). When time and funding allowed it, I have created R packages that make it easier to apply these methods; when this was not possible, I have uploaded the R scripts used to estimate a given model on [my github page](https://github.com/mirkosignorelli).
+All of the statistical methods that I have developed so far are implemented using the [`R` programming language](https://www.r-project.org/). When time and funding allowed it, I have created `R` packages that make it easier to apply these methods; when this was not possible, I have uploaded the `R` scripts used to estimate a given model on [my github page](https://github.com/mirkosignorelli).
 
-My involvement in the R community can be summarized as follows:
+My involvement in the `R` community so far can be summarized as follows:
 
-* I am the **author and mantainer of the R packages `neat`, `ptmixed` and `pencal`**;
+* I am the **author and mantainer of the `R` packages `neat`, `ptmixed` and `pencal`**;
 
-* I was one of the organizers of the European R Users Meeting 2020 (e-Rum2020) conference;
+* I was one of the organizers of the **European R Users Meeting 2020 (e-Rum2020) conference**;
 
-* I contributed code to the R package `EnrichmentBrowser`.
+* I contributed code to the `R` packages `EnrichmentBrowser` and `markovchain`.
 
 Below you can find more details about my contributions.
 
