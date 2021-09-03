@@ -5,7 +5,7 @@ pagetitle: "Mirko Signorelli's list of presentations"
 
 ### Invited talks
 
-* "Pencal: a method to predict survival from longitudinal and high-dimensional omic data". [13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
+* "Pencal: a method to predict survival from longitudinal and high-dimensional (omic) data". [13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
 * "How to predict a survival outcome using longitudinal and high-dimensional omics data". 
 [Young Statistician Showcase](https://www.ibc2020.org/scientific-programme/showcases) of the [30th International Biometric Conference](https://www.ibc2020.org/home), Aug. 2020. [Recording of the talk](https://www.youtube.com/watch?v=wRKqmo2U-sc&t=2485s).  
 <span style="color: orchid;">
