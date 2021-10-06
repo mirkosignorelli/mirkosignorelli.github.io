@@ -9,12 +9,11 @@ pagetitle: "Publications of Mirko Signorelli"
 [Penalized regression calibration: A method for the prediction of survival outcomes using complex longitudinal and high-dimensional data](https://doi.org/10.1002/sim.9178).
 *Statistics in Medicine*.  
 <span style="color: orchid;">
-A shorter version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
+A short version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
 </span>
 
 * **Signorelli, M.**, Cutillo, L. (2021). 
-[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). 
-To appear in: *Computational Statistics*.
+[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*.
 
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2020).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017). 

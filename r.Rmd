@@ -91,6 +91,10 @@ If you would like to know more about e-Rum2020, you can:
 
 ### R code used in methodological publications
 
+* [Code for Signorelli et al. (2021)](https://github.com/mirkosignorelli/pencal), Statistics in Medicine
+
+* [Code for Signorelli and Cutillo (2021) (2021)](https://github.com/mirkosignorelli/csv), Computational Statistics
+
 * [Code for Signorelli, Spitali and Tsonaka (2020)](https://github.com/mirkosignorelli/ptmixed), Statistical Modelling
 
 * [Code for Signorelli and Wit (2020)](https://github.com/mirkosignorelli/clustering-populations-of-networks), Statistical Modelling
