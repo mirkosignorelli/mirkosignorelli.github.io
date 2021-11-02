@@ -23,13 +23,13 @@ Below you can find more details about my contributions.
 
 **NEAT** is an acronym that stands for *Network Enrichment Analysis Test*, a test that can be used to assess relations between sets of nodes (typically genes) in a network.
 
-The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. *BMC Bioinformatics*, 17:352, and it is implemented in the R package `neat`, available from CRAN.
+The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an efficient network enrichment analysis test. *BMC Bioinformatics*, 17:352, and it is implemented in the `R` package `neat`, available from CRAN.
 
 If you want to learn more about NEAT, you can:
 
 * [read the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6) that describes the method;
 
-* read the [vignette: An introduction to the R package neat](https://cran.r-project.org/web/packages/neat/vignettes/neat.html);
+* read the [vignette: An introduction to the `R` package `neat`](https://cran.r-project.org/web/packages/neat/vignettes/neat.html);
 
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/neat/);
 
@@ -41,17 +41,17 @@ News: since November 2020, the NEAT test can be computed also using the Biocondu
 
 <img src="https://user-images.githubusercontent.com/20061736/84284787-f3821f00-ab3c-11ea-85a7-220982ce518c.png" align="right" alt="" width="250" />
 
-**ptmixed** is an abbreviation that stands for *Poisson-Tweedie generalized linear mixed model*, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails. 
+**`ptmixed`** is an abbreviation that stands for *Poisson-Tweedie generalized linear mixed model*, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails. 
 
-The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2020). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. *Statistical Modelling*, and it is implemented in the R package `ptmixed`, available from CRAN.
+The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2021). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. *Statistical Modelling*, 21 (6), 520-545, and it is implemented in the `R` package `ptmixed`, available from CRAN.
 
 To find out more about ptmixed:
 
 * [read the article](https://journals.sagepub.com/doi/10.1177/1471082X20936017) that describes the methodology behind ptmixed;
 
-* read the [vignette: An introduction to the R package ptmixed](https://cran.r-project.org/web/packages/ptmixed/vignettes/Overview_functionalities_ptmixed.html);
+* read the [vignette: An introduction to the `R` package `ptmixed`](https://cran.r-project.org/web/packages/ptmixed/vignettes/Overview_functionalities_ptmixed.html);
 
-* have a look at a short [5 minute talk about ptmixed](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s) that I presented at eRum2020;
+* have a look at a short [5 minute talk about `ptmixed`](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s) that I presented at eRum2020;
 
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/ptmixed);
 
@@ -59,15 +59,15 @@ To find out more about ptmixed:
 
 ### R package pencal
 
-**pencal** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
+**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
 
-The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, and it is implemented in the R package `pencal`, available from CRAN.
+The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, and it is implemented in the `R` package `pencal`, available from CRAN.
 
 To find out more about PRC and `pencal`, check out the following resources:
 
 * [read the article](https://doi.org/10.1002/sim.9178) that describes PRC;
 
-* read the [vignette: An introduction to the R package pencal](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
+* read the [vignette: An introduction to the `R` package `pencal`](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
 
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal);
 
@@ -93,9 +93,9 @@ If you would like to know more about e-Rum2020, you can:
 
 * [Code for Signorelli et al. (2021)](https://github.com/mirkosignorelli/pencal), Statistics in Medicine
 
-* [Code for Signorelli and Cutillo (2021) (2021)](https://github.com/mirkosignorelli/csv), Computational Statistics
+* [Code for Signorelli and Cutillo (2021)](https://github.com/mirkosignorelli/csv), Computational Statistics
 
-* [Code for Signorelli, Spitali and Tsonaka (2020)](https://github.com/mirkosignorelli/ptmixed), Statistical Modelling
+* [Code for Signorelli, Spitali and Tsonaka (2021)](https://github.com/mirkosignorelli/ptmixed), Statistical Modelling
 
 * [Code for Signorelli and Wit (2020)](https://github.com/mirkosignorelli/clustering-populations-of-networks), Statistical Modelling
 

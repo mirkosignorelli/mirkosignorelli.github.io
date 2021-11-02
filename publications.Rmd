@@ -15,9 +15,9 @@ A short version of this article was awarded the [Young Statistician Award](award
 * **Signorelli, M.**, Cutillo, L. (2021). 
 [On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*.
 
-* **Signorelli, M.**, Spitali, P., Tsonaka, R. (2020).
-[Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017). 
-*Statistical Modelling*.
+* **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
+[Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20936017). 
+*Statistical Modelling*, 21 (6), 520-545.
 
 * **Signorelli, M.**, Wit, E. C. (2020).
 [Model-based clustering for populations of networks](https://journals.sagepub.com/doi/full/10.1177/1471082X19871128). 

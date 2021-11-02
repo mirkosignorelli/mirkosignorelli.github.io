@@ -12,7 +12,7 @@ pagetitle: Mirko Signorelli - statistician and R programmer
 <div class="col-12 col-md-6" style="margin-top: 10px;">
 ## Mirko Signorelli
 
-#### ASSISTANT PROFESSOR IN STATISTICAL SCIENCE
+#### ASSISTANT PROFESSOR IN STATISTICS
 
 Mathematical Institute  
 Leiden University  
@@ -23,20 +23,20 @@ Office: room 221
 </div>
 </div>
 
-Welcome! My name is **Mirko Signorelli**, and I work as **assistant professor in Statistical Science** at Leiden University. In this website you can find information about my research and work.
+Welcome! My name is **Mirko Signorelli**, and I work as **assistant professor in Statistics** at Leiden University. In this website you can find information about my research and work.
 
 ### Short bio
 
-I currently work as **assistant professor in Statistical Science** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us), where I do research and teach courses for the [Master in Statistics and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) and the [Bachelor in Wiskunde (Mathematics)](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde).
+I currently work as **assistant professor in Statistics** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us), where I do research and teach courses for the [Master in Statistics and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) and the [Bachelor in Wiskunde (Mathematics)](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde).
 
 I received a **double PhD in Statistics** from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
 
 ### Research interests
 
-My [research work](publications.html) deals both with the development of new statistical methods, and with applied research questions.
+My [research work](publications.html) deals with the **development of new statistical methods**, computationally **efficient implementations** of such methods, and with **applied research** questions.
 
-My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. 
+My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. Some of these new methods are implemented in free and publically available [`R` packages](r.html).
 
-As concerns applied research, I have mostly worked on **applications of statistics to biomedical problems and to social network analysis**. In particular, I have worked with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omic data** on muscular dystrophies, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+As concerns applied research, I have mostly worked on **applications of statistics to biomedical problems and to social network analysis**. In particular, I collaborate with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omic data** on muscular dystrophies, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
 </section>
