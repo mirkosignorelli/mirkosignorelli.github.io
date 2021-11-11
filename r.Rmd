@@ -61,7 +61,7 @@ To find out more about ptmixed:
 
 **`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
 
-The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, and it is implemented in the `R` package `pencal`, available from CRAN.
+The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196, and it is implemented in the `R` package `pencal`, available from CRAN.
 
 To find out more about PRC and `pencal`, check out the following resources:
 
