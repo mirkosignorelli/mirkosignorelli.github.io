@@ -14,9 +14,12 @@ Mathematical Institute, Leiden University
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
-* [**Mathematical Statistics 2**](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2), module on **Longitudinal Data Analysis**  (2021-)  
+* [**Mathematical Statistics 2**](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2), module on **Longitudinal Data Analysis**  (2022-)  
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
+
+* [**Quantitative Research Methods**](https://studiegids.universiteitleiden.nl/courses/110357/quantitative-research-methods) (2022)  
+Leiden University College
 
 ### Courses up until 2021
 
