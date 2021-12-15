@@ -2,14 +2,22 @@
 title: "Contact information"
 ---
 
-### Affiliation
+### Affiliation and office
 
 Mirko Signorelli  
 Mathematical Institute  
 Leiden University  
 Niels Bohrweg 1, 2333 CA Leiden (NL)  
-Office: Snellius, room 221  
+**Office: Snellius, room 221**  
 Email: m [dot] signorelli [at] math [dot] leidenuniv [dot] nl
+
+### Postal address
+
+Mirko Signorelli  
+Mathematical Institute  
+P.O. Box 9512  
+2300 RA Leiden  
+The Netherlands  
 
 ### Social media profiles
 
