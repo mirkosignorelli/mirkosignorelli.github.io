@@ -26,14 +26,17 @@ navbar:
     - text: "Teaching"
       icon: fa-chalkboard-teacher
       href: teaching.html
+    - text: "Students"
+      icon: fa-user-graduate
+      href: students.html      
     - text: "Contact"
       icon: fa-info
       href: contact.html
   right:
     - text: ""
-      icon: fa-twitter
+      icon: fab fa-twitter
       href: https://twitter.com/signormirko
     - text: ""
-      icon: fa-github
+      icon: fab fa-github
       href: https://github.com/mirkosignorelli
 output_dir: "."

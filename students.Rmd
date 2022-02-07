@@ -1,0 +1,36 @@
+---
+title: "Students"
+---
+
+### Prospective students
+
+Are you interested in doing your bachelor's / master's thesis project with me? Feel free to get in touch to discuss this possibility!
+
+Before sending me a request for supervision, I would like to ask you to [check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to better assess your request, and to come up with a project that best fits your profile.
+
+### Students
+
+**PhD students**:
+
+* Daniel Gomon (2021 - ). Daniel's research is centered on the development and application of new performance indicators for survival data.
+
+**Master students**:
+
+* Y. Feng (2022).  
+MSc in *Statistics for the Life and Behavioural Sciences*  
+Mathematical Institute, Leiden University  
+
+* G. Talyigas (2021).  
+MSc in *Statistics for the Life and Behavioural Sciences*  
+Mathematical Institute, Leiden University  
+Thesis title: *A systematic comparison of methods for the validation of binary classification models*
+
+* F. Lefeber (2017).    
+MSc in *Education and Communication in Mathematics and Natural Sciences*  
+Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
+Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*
+
+* H. Dijkstra (2016).  
+Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
+MSc in *Mathematics*  
+Thesis title: *Generalized linear models for network analysis*  

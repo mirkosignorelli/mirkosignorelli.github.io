@@ -52,21 +52,3 @@ Leiden University Medical Center
 * **Statistics II** (2012-2013)  
 Master's programmes in *Biostatistics and Experimental Statistics*, and in *Statistics and Economics*  
 Faculty of Statistics, University of Milano-Bicocca
-
-### Supervisions
-
-I am currently (co)supervising Daniel Gomon, who works as PhD student at the Mathematical Institute of Leiden University. Daniel's research is centered on the development and application of new performance indicators for survival data.
-
-I have (co)supervised the following master students:
-
-* G. Talyigas (2021). *A systematic comparison of methods for the validation of binary classification models*  
-Master's programme in *Statistics for the Life and Behavioural Sciences*  
-Mathematical Institute, Leiden University
-
-* F. Lefeber (2017).  *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*  
-Master's programme in *Education and Communication in Mathematics and Natural Sciences*  
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
-
-* H. Dijkstra (2016). *Generalized linear models for network analysis*  
-Master's programme in *Mathematics*  
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
