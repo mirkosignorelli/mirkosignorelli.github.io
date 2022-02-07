@@ -6,9 +6,9 @@ title: "Students"
 
 Are you interested in doing your bachelor's / master's thesis project with me? Feel free to get in touch to discuss this possibility!
 
-Before sending me a request for supervision, I would like to ask you to [check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to better assess your request, and to come up with a project that best fits your profile.
+Before sending me a request for supervision, I would like to ask you to [check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.
 
-### Students
+### Supervised students
 
 **PhD students**:
 
