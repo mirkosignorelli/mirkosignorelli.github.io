@@ -10,27 +10,33 @@ Before sending me a request for supervision, I would like to ask you to [check o
 
 ### Supervised students
 
-**PhD students**:
+#### PhD students
 
 * Daniel Gomon (2021 - ). Daniel's research is centered on the development and application of new performance indicators for survival data.
 
-**Master students**:
+#### Master students
 
-* Y. Feng (2022).  
+* Y. Feng (2022)  
 MSc in *Statistics for the Life and Behavioural Sciences*  
 Mathematical Institute, Leiden University  
 
-* G. Talyigas (2021).  
+* G. Talyigas (2021)  
 MSc in *Statistics for the Life and Behavioural Sciences*  
 Mathematical Institute, Leiden University  
 Thesis title: *A systematic comparison of methods for the validation of binary classification models*
 
-* F. Lefeber (2017).    
+* F. Lefeber (2017)    
 MSc in *Education and Communication in Mathematics and Natural Sciences*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*
 
-* H. Dijkstra (2016).  
+* H. Dijkstra (2016)  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 MSc in *Mathematics*  
 Thesis title: *Generalized linear models for network analysis*  
+
+#### Bachelor students
+
+* E. Rovan (2022)  
+BSc in *Wiskunde (Mathematics)*  
+Mathematical Institute, Leiden University  
