@@ -13,8 +13,8 @@
 
 <title>R packages of Mirko Signorelli</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -254,21 +254,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -282,28 +282,28 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="students.html">
-    <span class="fas fa-user-graduate"></span>
+    <span class="fa fa-user-graduate"></span>
      
     Students
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -340,10 +340,10 @@ $(document).ready(function () {
 
 <div id="overview" class="section level3">
 <h3>Overview</h3>
-<p>All of the statistical methods that I have developed so far are implemented using the <a href="https://www.r-project.org/"><code>R</code> programming language</a>. When time and funding allowed it, I have created <code>R</code> packages that make it easier to apply these methods; when this was not possible, I have uploaded the <code>R</code> scripts used to estimate a given model on <a href="https://github.com/mirkosignorelli">my github page</a>.</p>
+<p>When developing new statistical methods, I usually create <code>R</code> packages that make it easier to apply them. When this is not possible due to time or funding constraints, I upload the <code>R</code> code I used on <a href="https://github.com/mirkosignorelli">my github page</a>.</p>
 <p>My involvement in the <code>R</code> community so far can be summarized as follows:</p>
 <ul>
-<li><p>I am the <strong>author and mantainer of the <code>R</code> packages <code>neat</code>, <code>ptmixed</code> and <code>pencal</code></strong>;</p></li>
+<li><p>I am <strong>author and mantainer of the <code>R</code> packages <code>neat</code>, <code>ptmixed</code> and <code>pencal</code></strong> (see below for more details!);</p></li>
 <li><p>I was one of the organizers of the <strong>European R Users Meeting 2020 (e-Rum2020) conference</strong>;</p></li>
 <li><p>I contributed code to the <code>R</code> packages <code>EnrichmentBrowser</code> and <code>markovchain</code>.</p></li>
 </ul>
@@ -363,6 +363,19 @@ $(document).ready(function () {
 </ul>
 <p>News: since November 2020, the NEAT test can be computed also using the Bioconductor package <code>EnrichmentBrowser</code>.</p>
 </div>
+<div id="r-package-pencal" class="section level3">
+<h3>R package pencal</h3>
+<p><img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" /></p>
+<p><strong><code>pencal</code></strong> is an abbreviation that stands for <em>Penalized Regression Calibration (PRC)</em>, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.</p>
+<p>The method is described in Signorelli <em>et al.</em> (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. <em>Statistics in Medicine</em>, 40 (27), 6178-6196, and it is implemented in the <code>R</code> package <code>pencal</code>, available from CRAN.</p>
+<p>To find out more about PRC and <code>pencal</code>, check out the following resources:</p>
+<ul>
+<li><p><a href="https://doi.org/10.1002/sim.9178">read the article</a> that describes PRC;</p></li>
+<li><p>read the <a href="https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html">vignette: An introduction to the <code>R</code> package <code>pencal</code></a>;</p></li>
+<li><p>visit the <a href="https://cran.r-project.org/web/packages/pencal">package page on CRAN</a>;</p></li>
+<li><p>check out the <a href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package manual</a>.</p></li>
+</ul>
+</div>
 <div id="r-package-ptmixed" class="section level3">
 <h3>R package ptmixed</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/84284787-f3821f00-ab3c-11ea-85a7-220982ce518c.png" align="right" alt="" width="250" /></p>
@@ -377,18 +390,6 @@ $(document).ready(function () {
 <li><p>check out the <a href="https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf">package manual</a>.</p></li>
 </ul>
 </div>
-<div id="r-package-pencal" class="section level3">
-<h3>R package pencal</h3>
-<p><strong><code>pencal</code></strong> is an abbreviation that stands for <em>Penalized Regression Calibration (PRC)</em>, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.</p>
-<p>The method is described in Signorelli <em>et al.</em> (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. <em>Statistics in Medicine</em>, 40 (27), 6178-6196, and it is implemented in the <code>R</code> package <code>pencal</code>, available from CRAN.</p>
-<p>To find out more about PRC and <code>pencal</code>, check out the following resources:</p>
-<ul>
-<li><p><a href="https://doi.org/10.1002/sim.9178">read the article</a> that describes PRC;</p></li>
-<li><p>read the <a href="https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html">vignette: An introduction to the <code>R</code> package <code>pencal</code></a>;</p></li>
-<li><p>visit the <a href="https://cran.r-project.org/web/packages/pencal">package page on CRAN</a>;</p></li>
-<li><p>check out the <a href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package manual</a>.</p></li>
-</ul>
-</div>
 <div id="european-r-users-meeting-2020-conference-e-rum2020" class="section level3">
 <h3>European R Users Meeting 2020 conference (e-Rum2020)</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/84913063-626df380-b0ba-11ea-8781-dbff9962e2c0.png" align="right" alt="" width="250" /></p>
@@ -400,17 +401,21 @@ $(document).ready(function () {
 <li><p>check out the <a href="https://2020.erum.io/">website of e-Rum2020</a>;</p></li>
 <li><p>have a look at my <a href="https://github.com/mirkosignorelli/erum2020">curated list of e-Rum2020 resources</a>.</p></li>
 </ul>
-</div>
-<div id="r-code-used-in-methodological-publications" class="section level3">
-<h3>R code used in methodological publications</h3>
-<ul>
-<li><p><a href="https://github.com/mirkosignorelli/pencal">Code for Signorelli et al. (2021)</a>, Statistics in Medicine</p></li>
-<li><p><a href="https://github.com/mirkosignorelli/csv">Code for Signorelli and Cutillo (2021)</a>, Computational Statistics</p></li>
-<li><p><a href="https://github.com/mirkosignorelli/ptmixed">Code for Signorelli, Spitali and Tsonaka (2021)</a>, Statistical Modelling</p></li>
-<li><p><a href="https://github.com/mirkosignorelli/clustering-populations-of-networks">Code for Signorelli and Wit (2020)</a>, Statistical Modelling</p></li>
-<li><p><a href="https://github.com/mirkosignorelli/penalized-blockmodels">Code for Signorelli and Wit (2018)</a>, JRSS-C</p></li>
-<li><p><a href="https://github.com/mirkosignorelli/neat">Code for Signorelli, Vinciotti and Wit (2016)</a>, BMC Bioinformatics</p></li>
-</ul>
+<!---
+### R code used in methodological publications
+
+* [Code for Signorelli et al. (2021)](https://github.com/mirkosignorelli/pencal), Statistics in Medicine
+
+* [Code for Signorelli and Cutillo (2021)](https://github.com/mirkosignorelli/csv), Computational Statistics
+
+* [Code for Signorelli, Spitali and Tsonaka (2021)](https://github.com/mirkosignorelli/ptmixed), Statistical Modelling
+
+* [Code for Signorelli and Wit (2020)](https://github.com/mirkosignorelli/clustering-populations-of-networks), Statistical Modelling
+
+* [Code for Signorelli and Wit (2018)](https://github.com/mirkosignorelli/penalized-blockmodels), JRSS-C
+
+* [Code for Signorelli, Vinciotti and Wit (2016)](https://github.com/mirkosignorelli/neat), BMC Bioinformatics
+-->
 </div>
 
 

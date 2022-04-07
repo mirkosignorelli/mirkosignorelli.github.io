@@ -5,11 +5,11 @@ pagetitle: "R packages of Mirko Signorelli"
 
 ### Overview
 
-All of the statistical methods that I have developed so far are implemented using the [`R` programming language](https://www.r-project.org/). When time and funding allowed it, I have created `R` packages that make it easier to apply these methods; when this was not possible, I have uploaded the `R` scripts used to estimate a given model on [my github page](https://github.com/mirkosignorelli).
+When developing new statistical methods, I usually create `R` packages that make it easier to apply them. When this is not possible due to time or funding constraints, I upload the `R` code I used on [my github page](https://github.com/mirkosignorelli).
 
 My involvement in the `R` community so far can be summarized as follows:
 
-* I am the **author and mantainer of the `R` packages `neat`, `ptmixed` and `pencal`**;
+* I am **author and mantainer of the `R` packages `neat`, `ptmixed` and `pencal`** (see below for more details!);
 
 * I was one of the organizers of the **European R Users Meeting 2020 (e-Rum2020) conference**;
 
@@ -37,6 +37,24 @@ If you want to learn more about NEAT, you can:
 
 News: since November 2020, the NEAT test can be computed also using the Bioconductor package `EnrichmentBrowser`.
 
+### R package pencal
+
+<img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" />
+
+**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
+
+The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196, and it is implemented in the `R` package `pencal`, available from CRAN.
+
+To find out more about PRC and `pencal`, check out the following resources:
+
+* [read the article](https://doi.org/10.1002/sim.9178) that describes PRC;
+
+* read the [vignette: An introduction to the `R` package `pencal`](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
+
+* visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal);
+
+* check out the [package manual](https://cran.r-project.org/web/packages/pencal/pencal.pdf).
+
 ### R package ptmixed
 
 <img src="https://user-images.githubusercontent.com/20061736/84284787-f3821f00-ab3c-11ea-85a7-220982ce518c.png" align="right" alt="" width="250" />
@@ -57,22 +75,6 @@ To find out more about ptmixed:
 
 * check out the [package manual](https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf).
 
-### R package pencal
-
-**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
-
-The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196, and it is implemented in the `R` package `pencal`, available from CRAN.
-
-To find out more about PRC and `pencal`, check out the following resources:
-
-* [read the article](https://doi.org/10.1002/sim.9178) that describes PRC;
-
-* read the [vignette: An introduction to the `R` package `pencal`](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
-
-* visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal);
-
-* check out the [package manual](https://cran.r-project.org/web/packages/pencal/pencal.pdf).
-
 ### European R Users Meeting 2020 conference (e-Rum2020)
 
 <img src="https://user-images.githubusercontent.com/20061736/84913063-626df380-b0ba-11ea-8781-dbff9962e2c0.png" align="right" alt="" width="250" />
@@ -89,6 +91,7 @@ If you would like to know more about e-Rum2020, you can:
 
 * have a look at my [curated list of e-Rum2020 resources](https://github.com/mirkosignorelli/erum2020).
 
+<!---
 ### R code used in methodological publications
 
 * [Code for Signorelli et al. (2021)](https://github.com/mirkosignorelli/pencal), Statistics in Medicine
@@ -102,3 +105,4 @@ If you would like to know more about e-Rum2020, you can:
 * [Code for Signorelli and Wit (2018)](https://github.com/mirkosignorelli/penalized-blockmodels), JRSS-C
 
 * [Code for Signorelli, Vinciotti and Wit (2016)](https://github.com/mirkosignorelli/neat), BMC Bioinformatics
+-->
