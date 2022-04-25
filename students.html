@@ -13,8 +13,8 @@
 
 <title>Students</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -67,6 +67,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -91,6 +92,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -243,7 +247,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -254,21 +258,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -282,28 +286,28 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="students.html">
-    <span class="fas fa-user-graduate"></span>
+    <span class="fa fa-user-graduate"></span>
      
     Students
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -340,41 +344,55 @@ $(document).ready(function () {
 
 <div id="prospective-students" class="section level3">
 <h3>Prospective students</h3>
-<p>Are you interested in doing your bachelor’s / master’s thesis project with me? Feel free to get in touch to discuss this possibility!</p>
-<p>Before sending me a request for supervision, I would like to ask you to <a href="https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md">check out this document</a> where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.</p>
+<p>Are you interested in doing your bachelor’s / master’s thesis project
+with me? Feel free to get in touch to discuss this possibility!</p>
+<p>Before sending me a request for supervision, I would like to ask you
+to <a
+href="https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md">check
+out this document</a> where I detail the type of information that I need
+to be able to assess your request and come up with a project that best
+fits your profile and our shared interests.</p>
 </div>
 <div id="supervised-students" class="section level3">
 <h3>Supervised students</h3>
 <div id="phd-students" class="section level4">
 <h4>PhD students</h4>
 <ul>
-<li>Daniel Gomon (2021 - ). Daniel’s research is centered on the development and application of new performance indicators for survival data.</li>
+<li><a href="https://github.com/d-gomon">Daniel Gomon</a> (2021 -
+).<br />
+Mathematical Institute, Leiden University</li>
 </ul>
 </div>
 <div id="master-students" class="section level4">
 <h4>Master students</h4>
 <ul>
-<li><p>Y. Feng (2022)<br />
+<li><p><strong>Y. Feng</strong> (2022)<br />
 MSc in <em>Statistics for the Life and Behavioural Sciences</em><br />
 Mathematical Institute, Leiden University</p></li>
-<li><p>G. Talyigas (2021)<br />
+<li><p><strong>G. Talyigas</strong> (2021)<br />
 MSc in <em>Statistics for the Life and Behavioural Sciences</em><br />
 Mathematical Institute, Leiden University<br />
-Thesis title: <em>A systematic comparison of methods for the validation of binary classification models</em></p></li>
-<li><p>F. Lefeber (2017)<br />
-MSc in <em>Education and Communication in Mathematics and Natural Sciences</em><br />
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen<br />
-Thesis title: <em>Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks</em></p></li>
-<li><p>H. Dijkstra (2016)<br />
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen<br />
+Thesis title: <em>A systematic comparison of methods for the validation
+of binary classification models</em></p></li>
+<li><p><strong>F. Lefeber</strong> (2017)<br />
+MSc in <em>Education and Communication in Mathematics and Natural
+Sciences</em><br />
+Johann Bernoulli Institute for Mathematics and Computer Science,
+University of Groningen<br />
+Thesis title: <em>Heterogeneity for the Stochastic Blockmodel and the
+Issue of Separation in Political Networks</em></p></li>
+<li><p><strong>H. Dijkstra</strong> (2016)<br />
+Johann Bernoulli Institute for Mathematics and Computer Science,
+University of Groningen<br />
 MSc in <em>Mathematics</em><br />
-Thesis title: <em>Generalized linear models for network analysis</em></p></li>
+Thesis title: <em>Generalized linear models for network
+analysis</em></p></li>
 </ul>
 </div>
 <div id="bachelor-students" class="section level4">
 <h4>Bachelor students</h4>
 <ul>
-<li>E. Rovan (2022)<br />
+<li><strong>E. Rovan</strong> (2022)<br />
 BSc in <em>Wiskunde (Mathematics)</em><br />
 Mathematical Institute, Leiden University</li>
 </ul>

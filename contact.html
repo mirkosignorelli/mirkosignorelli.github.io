@@ -13,8 +13,8 @@
 
 <title>Contact information</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -67,6 +67,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -91,6 +92,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -243,7 +247,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -254,21 +258,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -282,28 +286,28 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="students.html">
-    <span class="fas fa-user-graduate"></span>
+    <span class="fa fa-user-graduate"></span>
      
     Students
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -338,32 +342,42 @@ $(document).ready(function () {
 </div>
 
 
-<div id="affiliation-and-office" class="section level3">
-<h3>Affiliation and office</h3>
+<div id="affiliation-and-address" class="section level3">
+<h3>Affiliation and address</h3>
 <p>Mirko Signorelli<br />
-Mathematical Institute<br />
+<a
+href="https://www.universiteitleiden.nl/en/science/mathematics">Mathematical
+Institute</a><br />
 Leiden University<br />
-Niels Bohrweg 1, 2333 CA Leiden (NL)<br />
-<strong>Office: Snellius, room 221</strong><br />
-Email: m [dot] signorelli [at] math [dot] leidenuniv [dot] nl</p>
+Niels Bohrweg 1, 2333 CA Leiden (NL)</p>
 </div>
-<div id="postal-address" class="section level3">
-<h3>Postal address</h3>
-<p>Mirko Signorelli<br />
-Mathematical Institute<br />
-P.O. Box 9512<br />
-2300 RA Leiden<br />
-The Netherlands</p>
+<div id="office-and-email" class="section level3">
+<h3>Office and email</h3>
+<ul>
+<li><p>Office: <a
+href="https://www.universiteitleiden.nl/en/locations/snellius">Snellius
+building</a>, <strong>room 221</strong><br />
+Niels Bohrweg 1, 2333 CA Leiden (NL)</p></li>
+<li><p>Email: m [dot] signorelli [at] math [dot] leidenuniv [dot]
+nl</p></li>
+</ul>
 </div>
 <div id="social-media-profiles" class="section level3">
 <h3>Social media profiles</h3>
 <ul>
-<li><p>ResearchGate: <a href="https://www.researchgate.net/profile/Mirko_Signorelli">Mirko_Signorelli</a></p></li>
-<li><p>Twitter: <a href="https://twitter.com/signormirko">signormirko</a></p></li>
-<li><p>Github: <a href="https://github.com/mirkosignorelli">mirkosignorelli</a></p></li>
-<li><p>LinkedIn: <a href="https://www.linkedin.com/in/signorelli">signorelli</a></p></li>
-<li><p>Google Scholar: <a href="https://scholar.google.it/citations?user=ap5ZHWcAAAAJ&amp;hl=it&amp;oi=ao">Mirko Signorelli</a></p></li>
-<li><p>ORCID: <a href="http://orcid.org/0000-0002-8102-3356">0000-0002-8102-3356</a></p></li>
+<li><p>ResearchGate: <a
+href="https://www.researchgate.net/profile/Mirko_Signorelli">Mirko_Signorelli</a></p></li>
+<li><p>Twitter: <a
+href="https://twitter.com/signormirko">signormirko</a></p></li>
+<li><p>Github: <a
+href="https://github.com/mirkosignorelli">mirkosignorelli</a></p></li>
+<li><p>LinkedIn: <a
+href="https://www.linkedin.com/in/signorelli">signorelli</a></p></li>
+<li><p>Google Scholar: <a
+href="https://scholar.google.it/citations?user=ap5ZHWcAAAAJ&amp;hl=it&amp;oi=ao">Mirko
+Signorelli</a></p></li>
+<li><p>ORCID: <a
+href="http://orcid.org/0000-0002-8102-3356">0000-0002-8102-3356</a></p></li>
 </ul>
 </div>
 
