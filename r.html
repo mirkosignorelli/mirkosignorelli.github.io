@@ -13,8 +13,8 @@
 
 <title>R packages of Mirko Signorelli</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -254,21 +254,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fas fa-book"></span>
+    <span class="fa fa-book"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="r.html">
-    <span class="fas fa-laptop"></span>
+    <span class="fa fa-laptop"></span>
      
     R packages
   </a>
@@ -282,28 +282,28 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="talks.html">
-    <span class="fas fa-bullhorn"></span>
+    <span class="fa fa-bullhorn"></span>
      
     Presentations
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="students.html">
-    <span class="fas fa-user-graduate"></span>
+    <span class="fa fa-user-graduate"></span>
      
     Students
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-info"></span>
+    <span class="fa fa-info"></span>
      
     Contact
   </a>
@@ -343,11 +343,12 @@ $(document).ready(function () {
 <p>When developing new statistical methods, I usually create <code>R</code> packages that make it easier to apply them. When this is not possible due to time or funding constraints, I upload the <code>R</code> code I used on <a href="https://github.com/mirkosignorelli">my github page</a>.</p>
 <p>My involvement in the <code>R</code> community so far can be summarized as follows:</p>
 <ul>
-<li><p>I am <strong>author and mantainer of the <code>R</code> packages <code>neat</code>, <code>ptmixed</code> and <code>pencal</code></strong> (see below for more details!);</p></li>
+<li><p>I am the author and mantainer of the <strong><code>R</code> packages <code>neat</code>, <code>ptmixed</code> and <code>pencal</code></strong>;</p></li>
+<li><p>I contributed to the development of the <strong><code>R</code> package <code>success</code></strong>;</p></li>
 <li><p>I was one of the organizers of the <strong>European R Users Meeting 2020 (e-Rum2020) conference</strong>;</p></li>
-<li><p>I contributed code to the <code>R</code> packages <code>EnrichmentBrowser</code> and <code>markovchain</code>.</p></li>
+<li><p>I made minor contributions to the <code>R</code> packages <code>EnrichmentBrowser</code> and <code>markovchain</code>.</p></li>
 </ul>
-<p>Below you can find more details about my contributions.</p>
+<p>Below you can find more details about some of these contributions.</p>
 </div>
 <div id="r-package-neat" class="section level3">
 <h3>R package neat</h3>
@@ -381,13 +382,29 @@ $(document).ready(function () {
 <p><img src="https://user-images.githubusercontent.com/20061736/84284787-f3821f00-ab3c-11ea-85a7-220982ce518c.png" align="right" alt="" width="250" /></p>
 <p><strong><code>ptmixed</code></strong> is an abbreviation that stands for <em>Poisson-Tweedie generalized linear mixed model</em>, a mixed-effects model that has been developed to flexibly model longitudinal count data that feature overdispersion, zero inflation and/or heavy tails.</p>
 <p>The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2021). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. <em>Statistical Modelling</em>, 21 (6), 520-545, and it is implemented in the <code>R</code> package <code>ptmixed</code>, available from CRAN.</p>
-<p>To find out more about ptmixed:</p>
+<p>To find out more about <code>ptmixed</code>:</p>
 <ul>
 <li><p><a href="https://journals.sagepub.com/doi/10.1177/1471082X20936017">read the article</a> that describes the methodology behind ptmixed;</p></li>
 <li><p>read the <a href="https://cran.r-project.org/web/packages/ptmixed/vignettes/Overview_functionalities_ptmixed.html">vignette: An introduction to the <code>R</code> package <code>ptmixed</code></a>;</p></li>
 <li><p>have a look at a short <a href="https://www.youtube.com/watch?v=79lUgThZ4HE&amp;t=738s">5 minute talk about <code>ptmixed</code></a> that I presented at eRum2020;</p></li>
 <li><p>visit the <a href="https://cran.r-project.org/web/packages/ptmixed">package page on CRAN</a>;</p></li>
 <li><p>check out the <a href="https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf">package manual</a>.</p></li>
+</ul>
+</div>
+<div id="r-package-success-work-in-progress" class="section level3">
+<h3>R package success (work in progress!)</h3>
+<p><strong><code>success</code></strong> (short for: Survival Control Charts Estimation Software) is an <code>R</code> package that implements methods to compute and visualize the following charts for quality control of survival outcomes:</p>
+<ol style="list-style-type: decimal">
+<li>funnel plot;</li>
+<li>Bernoulli CUSUM;</li>
+<li>Biswas &amp; Kalbfleisch’s CUSUM (BK-CUSUM);</li>
+<li>Continuous Time Generalized Rapid Response CUSUM (CGR-CUSUM).</li>
+</ol>
+<p>Note that the funnel plot and Bernoulli CUSUM require a dychotomization of the survival outcome into a binary outcome, whereas the CGR-CUSUM and BK-CUSUM can properly handle the survival outcome.</p>
+<p>To find out more about <code>success</code>:</p>
+<ul>
+<li><p>visit the <a href="https://cran.r-project.org/web/packages/success">package page on CRAN</a>;</p></li>
+<li><p>check out this <a href="https://github.com/d-gomon/success/blob/main/README.md">quick example</a> - NB: a more detailed vignette is currently in preparation (stay tuned!)</p></li>
 </ul>
 </div>
 <div id="european-r-users-meeting-2020-conference-e-rum2020" class="section level3">

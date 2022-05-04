@@ -9,13 +9,15 @@ When developing new statistical methods, I usually create `R` packages that make
 
 My involvement in the `R` community so far can be summarized as follows:
 
-* I am **author and mantainer of the `R` packages `neat`, `ptmixed` and `pencal`** (see below for more details!);
+* I am the author and mantainer of the **`R` packages `neat`, `ptmixed` and `pencal`**;
+
+* I contributed to the development of the **`R` package `success`**;
 
 * I was one of the organizers of the **European R Users Meeting 2020 (e-Rum2020) conference**;
 
-* I contributed code to the `R` packages `EnrichmentBrowser` and `markovchain`.
+* I made minor contributions to the `R` packages `EnrichmentBrowser` and `markovchain`.
 
-Below you can find more details about my contributions.
+Below you can find more details about some of these contributions.
 
 ### R package neat
 
@@ -63,7 +65,7 @@ To find out more about PRC and `pencal`, check out the following resources:
 
 The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2021). Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data. *Statistical Modelling*, 21 (6), 520-545, and it is implemented in the `R` package `ptmixed`, available from CRAN.
 
-To find out more about ptmixed:
+To find out more about `ptmixed`:
 
 * [read the article](https://journals.sagepub.com/doi/10.1177/1471082X20936017) that describes the methodology behind ptmixed;
 
@@ -74,6 +76,24 @@ To find out more about ptmixed:
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/ptmixed);
 
 * check out the [package manual](https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf).
+
+### R package success (work in progress!)
+
+**`success`** (short for: Survival Control Charts Estimation Software) is an `R` package that implements methods to compute and visualize the following charts for quality control of survival outcomes:
+
+1. funnel plot;
+2. Bernoulli CUSUM;
+3. Biswas & Kalbfleisch's CUSUM (BK-CUSUM);
+4. Continuous Time Generalized Rapid Response CUSUM (CGR-CUSUM).
+
+Note that the funnel plot and Bernoulli CUSUM require a dychotomization of the survival outcome into a binary outcome, whereas the CGR-CUSUM and BK-CUSUM can properly handle the survival outcome.
+
+To find out more about `success`:
+
+* visit the [package page on CRAN](https://cran.r-project.org/web/packages/success);
+
+* check out this [quick example](https://github.com/d-gomon/success/blob/main/README.md) - NB: a more detailed vignette is currently in preparation (stay tuned!)
+
 
 ### European R Users Meeting 2020 conference (e-Rum2020)
 
