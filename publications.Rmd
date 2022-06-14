@@ -5,15 +5,15 @@ pagetitle: "Publications of Mirko Signorelli"
 
 ### Methodological articles
 
+* **Signorelli, M.**, Cutillo, L. (2022). 
+[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*, 37, 1165–1183.
+
 * **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (2021). 
 [Penalized regression calibration: A method for the prediction of survival outcomes using complex longitudinal and high-dimensional data](https://doi.org/10.1002/sim.9178).
 *Statistics in Medicine*, 40 (27), 6178-6196.  
 <span style="color: orchid;">
 A short version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
 </span>
-
-* **Signorelli, M.**, Cutillo, L. (2021). 
-[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*.
 
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20936017). 
