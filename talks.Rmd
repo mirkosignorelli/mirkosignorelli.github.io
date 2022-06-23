@@ -34,7 +34,7 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 ### Contributed talks
 
 * "Analysing populations of networks with mixtures of generalized linear mixed models". 
-[24$^{th}$ International Conceference on Computational Statistics (COMPSTAT2022)](http://www.compstat2022.org), University of Bologna, Bologna (IT), Aug. 2022.
+[24$^{th}$ International Conference on Computational Statistics (COMPSTAT2022)](http://www.compstat2022.org), University of Bologna, Bologna (IT), Aug. 2022.
 
 * "Penalized Regression Calibration: a statistical method to predict survival from longitudinal and high-dimensional omic data". [31st International Biometric Conference](https://www.ibc2022.org/home), Riga (LV), July 2022.
 
