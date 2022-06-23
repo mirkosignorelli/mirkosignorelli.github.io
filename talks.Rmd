@@ -6,6 +6,7 @@ pagetitle: "Mirko Signorelli's list of presentations"
 ### Invited talks
 
 * "Pencal: a method to predict survival from longitudinal and high-dimensional (omic) data". [13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
+
 * "How to predict a survival outcome using longitudinal and high-dimensional omics data". 
 [Young Statistician Showcase](https://www.ibc2020.org/scientific-programme/showcases) of the [30th International Biometric Conference](https://www.ibc2020.org/home), Aug. 2020. [Recording of the talk](https://www.youtube.com/watch?v=wRKqmo2U-sc&t=2485s).  
 <span style="color: orchid;">
@@ -31,6 +32,12 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 [Workshop on "Network Science and its applications"](https://www.newton.ac.uk/event/snaw02), Isaac Newton Institute, Cambridge (UK), August 2016.
 
 ### Contributed talks
+
+* "Analysing populations of networks with mixtures of generalized linear mixed models". 
+[24$^{th}$ International Conceference on Computational Statistics (COMPSTAT2022)](http://www.compstat2022.org), University of Bologna, Bologna (IT), Aug. 2022.
+
+* "Penalized Regression Calibration: a statistical method to predict survival from longitudinal and high-dimensional omic data". [31st International Biometric Conference](https://www.ibc2022.org/home), Riga (LV), July 2022.
+
 
 * "Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data".
 [8th Channel Network conference](https://cnc21.sciencesconf.org/), Apr. 2021.
@@ -75,16 +82,12 @@ I received the [Best Student Paper Toyota Corporation Award of the Statistical M
 
 ### Seminars
 
-Over the years, I have given presentations in several seminars held at the following institutions: 
+Over the years, I have given presentations in seminars held at the following institutions: 
 
+* Leiden University (NL);
 * Leiden University Medical Center (NL);
-
 * Hogeschool Leiden (NL);
-
 * University of Groningen (NL);
-
 * University of Manchester (UK);
-
 * University of Sheffield (UK);
-
 * University of Padova (IT).
