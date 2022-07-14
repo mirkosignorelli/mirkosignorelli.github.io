@@ -11,7 +11,7 @@ My involvement in the `R` community so far can be summarized as follows:
 
 * I am the author and mantainer of the **`R` packages `neat`, `ptmixed` and `pencal`**;
 
-* I contributed to the development of the **`R` package `success`**;
+* I contributed to the development of the **`R` package `success`** (developed and mantained by [Daniel Gomon](https://github.com/d-gomon));
 
 * I was one of the organizers of the **European R Users Meeting 2020 (e-Rum2020) conference**;
 
@@ -79,6 +79,8 @@ To find out more about `ptmixed`:
 
 ### R package success (work in progress!)
 
+<img src="https://user-images.githubusercontent.com/20061736/178921364-986c04b3-71ec-4cbe-8e46-2c36ede13a7c.png" align="right" alt="" width="250" />
+
 **`success`** (short for: Survival Control Charts Estimation Software) is an `R` package that implements methods to compute and visualize the following charts for quality control of survival outcomes:
 
 1. funnel plot;
@@ -93,7 +95,6 @@ To find out more about `success`:
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/success);
 
 * check out this [quick example](https://github.com/d-gomon/success/blob/main/README.md) - NB: a more detailed vignette is currently in preparation (stay tuned!)
-
 
 ### European R Users Meeting 2020 conference (e-Rum2020)
 
