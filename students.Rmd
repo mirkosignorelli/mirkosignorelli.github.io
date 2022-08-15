@@ -18,8 +18,9 @@ Mathematical Institute, Leiden University
 #### Master students
 
 * **Y. Feng** (2022)  
-MSc in *Statistics for the Life and Behavioural Sciences*  
+MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University  
+Thesis title: *An empirical evaluation of methods for the prediction of survival with many longitudinally-measured predictors*
 
 * **G. Talyigas** (2021)  
 MSc in *Statistics for the Life and Behavioural Sciences*  
@@ -32,8 +33,8 @@ Johann Bernoulli Institute for Mathematics and Computer Science, University of G
 Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*
 
 * **H. Dijkstra** (2016)  
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 MSc in *Mathematics*  
+Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Generalized linear models for network analysis*  
 
 #### Bachelor students
