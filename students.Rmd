@@ -10,16 +10,21 @@ Before sending me a request for supervision, I would like to ask you to [check o
 
 ### Supervised students
 
-#### PhD students
+#### Ongoing supervisions
 
 * [Daniel Gomon](https://github.com/d-gomon) (2021-25).  
+PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
-
-#### Master students
 
 * **S. Retif** (2022-23)  
 MSc in *Mathematical Engineering*  
 Mathematical Institute, Leiden University + Department of Mathematics, Politecnico di Milano, Milan    
+
+* **E. Rovan** (2022-23)  
+BSc in *Wiskunde (Mathematics)*  
+Mathematical Institute, Leiden University  
+
+#### Past supervisions
 
 * **Y. Feng** (2022)  
 MSc in *Statistics and Data Science*  
@@ -40,9 +45,3 @@ Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Sepa
 MSc in *Mathematics*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Generalized linear models for network analysis*  
-
-#### Bachelor students
-
-* **E. Rovan** (2022-23)  
-BSc in *Wiskunde (Mathematics)*  
-Mathematical Institute, Leiden University  
