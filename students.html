@@ -13,7 +13,7 @@
 
 <title>Students</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -67,6 +67,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -91,6 +92,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -243,7 +247,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -340,37 +344,55 @@ $(document).ready(function () {
 
 <div id="prospective-students" class="section level3">
 <h3>Prospective students</h3>
-<p>Are you interested in doing your bachelor’s / master’s thesis project with me? Feel free to get in touch to discuss this possibility!</p>
-<p>Before sending me a request for supervision, I would like to ask you to <a href="https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md">check out this document</a> where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.</p>
+<p>Are you interested in doing your bachelor’s / master’s thesis project
+with me? Feel free to get in touch to discuss this possibility!</p>
+<p>Before sending me a request for supervision, I would like to ask you
+to <a
+href="https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md">check
+out this document</a> where I detail the type of information that I need
+to be able to assess your request and come up with a project that best
+fits your profile and our shared interests.</p>
 </div>
 <div id="supervised-students" class="section level3">
 <h3>Supervised students</h3>
 <div id="phd-students" class="section level4">
 <h4>PhD students</h4>
 <ul>
-<li><a href="https://github.com/d-gomon">Daniel Gomon</a> (2021 - ).<br />
+<li><a href="https://github.com/d-gomon">Daniel Gomon</a>
+(2021-25).<br />
 Mathematical Institute, Leiden University</li>
 </ul>
 </div>
 <div id="master-students" class="section level4">
 <h4>Master students</h4>
 <ul>
+<li><p><strong>S. Retif</strong> (2022-23)<br />
+MSc in <em>Mathematical Engineering</em><br />
+Mathematical Institute, Leiden University + Department of Mathematics,
+Politecnico di Milano, Milan</p></li>
 <li><p><strong>Y. Feng</strong> (2022)<br />
 MSc in <em>Statistics and Data Science</em><br />
 Mathematical Institute, Leiden University<br />
-Thesis title: <em>An empirical evaluation of methods for the prediction of survival with many longitudinally-measured predictors</em></p></li>
+Thesis title: <em>An empirical evaluation of methods for the prediction
+of survival with many longitudinally-measured predictors</em></p></li>
 <li><p><strong>G. Talyigas</strong> (2021)<br />
 MSc in <em>Statistics for the Life and Behavioural Sciences</em><br />
 Mathematical Institute, Leiden University<br />
-Thesis title: <em>A systematic comparison of methods for the validation of binary classification models</em></p></li>
+Thesis title: <em>A systematic comparison of methods for the validation
+of binary classification models</em></p></li>
 <li><p><strong>F. Lefeber</strong> (2017)<br />
-MSc in <em>Education and Communication in Mathematics and Natural Sciences</em><br />
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen<br />
-Thesis title: <em>Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks</em></p></li>
+MSc in <em>Education and Communication in Mathematics and Natural
+Sciences</em><br />
+Johann Bernoulli Institute for Mathematics and Computer Science,
+University of Groningen<br />
+Thesis title: <em>Heterogeneity for the Stochastic Blockmodel and the
+Issue of Separation in Political Networks</em></p></li>
 <li><p><strong>H. Dijkstra</strong> (2016)<br />
 MSc in <em>Mathematics</em><br />
-Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen<br />
-Thesis title: <em>Generalized linear models for network analysis</em></p></li>
+Johann Bernoulli Institute for Mathematics and Computer Science,
+University of Groningen<br />
+Thesis title: <em>Generalized linear models for network
+analysis</em></p></li>
 </ul>
 </div>
 <div id="bachelor-students" class="section level4">

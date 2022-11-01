@@ -12,10 +12,14 @@ Before sending me a request for supervision, I would like to ask you to [check o
 
 #### PhD students
 
-* [Daniel Gomon](https://github.com/d-gomon) (2021 - ).  
+* [Daniel Gomon](https://github.com/d-gomon) (2021-25).  
 Mathematical Institute, Leiden University  
 
 #### Master students
+
+* **S. Retif** (2022-23)  
+MSc in *Mathematical Engineering*  
+Mathematical Institute, Leiden University + Department of Mathematics, Politecnico di Milano, Milan    
 
 * **Y. Feng** (2022)  
 MSc in *Statistics and Data Science*  
