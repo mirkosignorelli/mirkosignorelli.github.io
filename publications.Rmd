@@ -16,7 +16,7 @@ A short version of this article was awarded the [Young Statistician Award](award
 </span>
 
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
-[Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20936017). 
+[Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017).
 *Statistical Modelling*, 21 (6), 520-545.
 
 * **Signorelli, M.**, Wit, E. C. (2020).
