@@ -17,7 +17,7 @@ Mathematical Institute, Leiden University
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
 
-* 2022-2023 course info: TBA
+* [2022-2023 course info](https://studiegids.universiteitleiden.nl/en/courses/115390/mathematical-statistics-2)
 * [2021-2022 course info](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2)
 
 ##### Statistical Computing with R (2021 - now)
