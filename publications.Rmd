@@ -50,6 +50,8 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 ### Applied statistics articles
 
+* van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2022). [Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). *Neurology*.
+
 * **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
 [Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients](http://doi.org/10.15252/emmm.202013328). 
 *EMBO Molecular Medicine*, 13, e13328.
