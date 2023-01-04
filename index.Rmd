@@ -35,7 +35,7 @@ I received a **double PhD in Statistics** from the [University of Groningen](htt
 
 My [research work](publications.html) deals with the **development of new statistical methods**, computationally **efficient implementations** of such methods, and with **applied research** questions.
 
-My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. Some of these new methods are implemented in free and publically available [`R` packages](r.html).
+My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. Some of these new methods are implemented in free and publicly available [`R` packages](r.html).
 
 As concerns applied research, I have mostly worked on **applications of statistics to biomedical problems and to social network analysis**. In particular, I collaborate with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omic data** on muscular dystrophies, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
 
