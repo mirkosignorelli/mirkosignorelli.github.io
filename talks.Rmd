@@ -27,6 +27,10 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 * "Variable selection for (realistic) stochastic blockmodels". 
 [SIS2017 conference on "Statistics and Data Science: New Challenges, New Generations"](http://meetings3.sis-statistica.org/index.php/sis2017/sis2017), Florence (IT), June 2017.
 
+* "Comparing community structures in complex networks". Department of Computer Science, University of Sheffield (UK), Feb. 2017.
+
+* "Comparing community structures in complex networks". University of Manchester (UK), Feb. 2017.
+
 * "Reconstructing collaborations between political parties from bill cosponsorship networks". 
 1st meeting of the [European Cooperation for Statistics of Network Data Science](http://www.cost.eu/COST_Actions/ca/CA15109), Ribno (SL), September 2016.
 
@@ -81,15 +85,3 @@ I received the [Best Student Paper Toyota Corporation Award of the Statistical M
 
 * "PNEA: a parametric test for network enrichment analysis". 
 [44th annual Meeting of Dutch Statisticians and Probabilists](https://homepages.cwi.nl/~colette/lunteren2015.html), Lunteren (NL), November 2015.
-
-### Seminars
-
-Over the years, I have given presentations in seminars held at the following institutions: 
-
-* Leiden University (NL);
-* Leiden University Medical Center (NL);
-* Hogeschool Leiden (NL);
-* University of Groningen (NL);
-* University of Manchester (UK);
-* University of Sheffield (UK);
-* University of Padova (IT).
