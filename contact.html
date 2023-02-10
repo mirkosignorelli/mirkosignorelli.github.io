@@ -13,7 +13,7 @@
 
 <title>Contact information</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -189,8 +189,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -198,16 +198,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -369,6 +362,11 @@ nl</p></li>
 <div id="social-media-profiles" class="section level3">
 <h3>Social media profiles</h3>
 <ul>
+<li><p>Leiden University website: <a
+href="https://www.universiteitleiden.nl/en/staffmembers/mirko-signorelli#tab-1">personal
+page</a> / <a
+href="https://www.universiteitleiden.nl/en/science/mathematics">Mathematical
+Institute</a></p></li>
 <li><p>ResearchGate: <a
 href="https://www.researchgate.net/profile/Mirko_Signorelli">Mirko_Signorelli</a></p></li>
 <li><p>Twitter: <a
