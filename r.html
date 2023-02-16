@@ -13,7 +13,7 @@
 
 <title>R packages of Mirko Signorelli</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -189,8 +189,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -198,16 +198,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -391,8 +384,7 @@ An introduction to the <code>R</code> package
 <code>neat</code></a>;</p></li>
 <li><p>visit the <a
 href="https://cran.r-project.org/web/packages/neat/">package page on
-CRAN</a>;</p></li>
-<li><p>check out the <a
+CRAN</a>, and check out the <a
 href="https://cran.r-project.org/web/packages/neat/neat.pdf">package
 manual</a>.</p></li>
 </ul>
@@ -423,8 +415,7 @@ An introduction to the <code>R</code> package
 <code>pencal</code></a>;</p></li>
 <li><p>visit the <a
 href="https://cran.r-project.org/web/packages/pencal">package page on
-CRAN</a>;</p></li>
-<li><p>check out the <a
+CRAN</a>, and check out the <a
 href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package
 manual</a>.</p></li>
 </ul>
@@ -457,14 +448,13 @@ talk about <code>ptmixed</code></a> that I presented at
 eRum2020;</p></li>
 <li><p>visit the <a
 href="https://cran.r-project.org/web/packages/ptmixed">package page on
-CRAN</a>;</p></li>
-<li><p>check out the <a
+CRAN</a>, and check out the <a
 href="https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf">package
 manual</a>.</p></li>
 </ul>
 </div>
-<div id="r-package-success-work-in-progress" class="section level3">
-<h3>R package success (work in progress!)</h3>
+<div id="r-package-success" class="section level3">
+<h3>R package success</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/178921364-986c04b3-71ec-4cbe-8e46-2c36ede13a7c.png" align="right" alt="" width="250" /></p>
 <p><strong><code>success</code></strong> (short for: Survival Control
 Charts Estimation Software) is an <code>R</code> package that implements
@@ -485,9 +475,13 @@ the CGR-CUSUM and BK-CUSUM can properly handle the survival outcome.</p>
 href="https://cran.r-project.org/web/packages/success">package page on
 CRAN</a>;</p></li>
 <li><p>check out this <a
-href="https://github.com/d-gomon/success/blob/main/README.md">quick
-example</a> - NB: a more detailed vignette is currently in preparation
-(stay tuned!)</p></li>
+href="https://arxiv.org/abs/2302.07658">article</a> that illustrates how
+the package works and what you can do with it;</p></li>
+<li><p>visit the <a
+href="https://cran.r-project.org/web/packages/success">package page on
+CRAN</a>, and check out the <a
+href="https://cran.r-project.org/web/packages/success/success.pdf">package
+manual</a>.</p></li>
 </ul>
 </div>
 <div id="european-r-users-meeting-2020-conference-e-rum2020"
