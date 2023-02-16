@@ -13,7 +13,7 @@
 
 <title>Publications of Mirko Signorelli</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -189,8 +189,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -198,16 +198,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -349,6 +342,10 @@ $(document).ready(function () {
 <div id="methodological-articles" class="section level3">
 <h3>Methodological articles</h3>
 <ul>
+<li><p>Gomon, D., Fiocco, M., Putter, H., <strong>Signorelli,
+M.</strong> (in review). <strong>SUrvival Control Chart EStimation
+Software in R: the success package</strong>. arXiv preprint: <a
+href="https://arxiv.org/abs/2302.07658">arXiv:2302.07658</a></p></li>
 <li><p><strong>Signorelli, M.</strong>, Cutillo, L. (2022). <a
 href="https://doi.org/10.1007/s00180-021-01156-6">On community structure
 validation in real networks</a>. <em>Computational Statistics</em>, 37,
