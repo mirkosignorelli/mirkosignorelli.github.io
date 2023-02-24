@@ -12,7 +12,7 @@ Before sending me a request for supervision, I would like to ask you to [check o
 
 #### Ongoing supervisions
 
-* [Daniel Gomon](https://github.com/d-gomon) (2021-25)  
+* [Daniel Gomon](https://github.com/d-gomon) (2021-25; joint supervision with Marta Fiocco and Hein Putter)  
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
@@ -24,7 +24,7 @@ Mathematical Institute, Leiden University + Department of Mathematics, Politecni
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 
-* **E. Rovan** (2022-23)  
+* **E. Rovan** (2022-23; joint supervision with Salvatore Battaglia)  
 BSc in *Wiskunde (Mathematics)*  
 Mathematical Institute, Leiden University  
 
@@ -35,17 +35,17 @@ MSc in *Statistics and Data Science*
 Mathematical Institute, Leiden University  
 Thesis title: *An empirical evaluation of methods for the prediction of survival with many longitudinally-measured predictors*
 
-* **G. Talyigas** (2021)  
+* **G. Talyigas** (2021; joint supervision with Marta Fiocco)  
 MSc in *Statistics for the Life and Behavioural Sciences*  
 Mathematical Institute, Leiden University  
 Thesis title: *A systematic comparison of methods for the validation of binary classification models*
 
-* **F. Lefeber** (2017)    
+* **F. Lefeber** (2017; joint supervision with Ernst Wit)    
 MSc in *Education and Communication in Mathematics and Natural Sciences*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*
 
-* **H. Dijkstra** (2016)  
+* **H. Dijkstra** (2016; joint supervision with Ernst Wit)  
 MSc in *Mathematics*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Generalized linear models for network analysis*  
