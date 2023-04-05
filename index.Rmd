@@ -1,5 +1,5 @@
 ---
-pagetitle: Mirko Signorelli - statistician and R programmer
+pagetitle: Mirko Signorelli - assistant professor in Statistics
 ---
 
 ##
