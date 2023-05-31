@@ -24,9 +24,13 @@ Mathematical Institute, Leiden University + Department of Mathematics, Politecni
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 
-* **J. Hazenbosch** (2023; joint supervision with Marjolijn Das)  
+* **J. Hazenbosch** (2023; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
-Mathematical Institute, Leiden University  
+Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
+
+* **Lana Broer (2023-24; external supervisor: Alessio Crippa)
+MSc in *Statistics and Data Science*  
+Mathematical Institute, Leiden University + Karolinska Institute
 
 * **E. Rovan** (2022-23; joint supervision with Salvatore Battaglia)  
 BSc in *Wiskunde (Mathematics)*  

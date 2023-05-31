@@ -4,11 +4,12 @@ title: "Teaching"
 
 ### Courses from 2021 onwards
 
-##### Advanced Statistical Computing (2021 - now)
+##### Computational Statistics (2021 - now)
 
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
+* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/122111/computational-statistics)
 * [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
 * [2021  course info](https://studiegids.universiteitleiden.nl/en/courses/105113/advanced-statistical-computing)
@@ -18,6 +19,7 @@ Mathematical Institute, Leiden University
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
 
+* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/118249/mathematical-statistics-2)
 * [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/115390/mathematical-statistics-2)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2)
 
@@ -26,6 +28,7 @@ Mathematical Institute, Leiden University
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
+* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/121707/statistical-computing-with-r)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/115518/statistical-computing-with-r)
 * [2021 course info](https://studiegids.universiteitleiden.nl/en/courses/110098/statistical-computing-with-r)
 
