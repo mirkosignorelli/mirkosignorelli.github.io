@@ -52,9 +52,9 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 ### Applied statistics articles
 
-* **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3): e0283869.
+* **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
 
-* Johansson, C., Junt, H., **Signorelli, M.** et al. (accepted). Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers. To appear in: *Clinical Proteomics*.
+* Johansson, C., Junt, H., **Signorelli, M.** et al. (2023). [Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers](https://doi.org/10.1186/s12014-023-09412-1). *Clinical Proteomics*, 20, 23.
 
 * van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2023). [Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). *Neurology*, 100 (9), e975-e984.
 
