@@ -1,5 +1,8 @@
 ---
 title: "Teaching"
+output:
+  html_document:
+    toc: true
 ---
 
 ### Courses from 2021 onwards

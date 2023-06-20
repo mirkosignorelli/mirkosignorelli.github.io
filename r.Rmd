@@ -1,6 +1,9 @@
 ---
 title: "R packages and contributions"
 pagetitle: "R packages of Mirko Signorelli"
+output:
+  html_document:
+    toc: true
 ---
 
 ### Overview

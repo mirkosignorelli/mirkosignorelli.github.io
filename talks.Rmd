@@ -1,6 +1,9 @@
 ---
 title: "Talks"
 pagetitle: "Mirko Signorelli's list of presentations"
+output:
+  html_document:
+    toc: true
 ---
 
 ### Invited talks

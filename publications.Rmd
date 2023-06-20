@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 pagetitle: "Publications of Mirko Signorelli"
+output:
+  html_document:
+    toc: true
 ---
 
 ### Methodological articles
@@ -19,13 +22,16 @@ A short version of this article was awarded the [Young Statistician Award](award
 
 * **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017).
-*Statistical Modelling*, 21 (6), 520-545.
+*Statistical Modelling*, 21 (6), 520-545.  
+<span style="color: orchid;">
+This article received a [honourable mention](awards.html) from the jury of the Hans van Houwelingen Award.
+</span>
 
 * **Signorelli, M.**, Wit, E. C. (2020).
 [Model-based clustering for populations of networks](https://journals.sagepub.com/doi/full/10.1177/1471082X19871128). 
 *Statistical Modelling*, 20 (1), 9-29.  
 <span style="color: orchid;">
-A conference proceedings version of this article was awarded the [Best Student Paper Award of the Statistical Modelling Society](awards.html) (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
+A conference proceedings version of this article was awarded the [Best Student Paper Award](awards.html) of the Statistical Modelling Society (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
 </span>
 
 * **Signorelli, M.**, Wit, E. C. (2018). 
@@ -36,7 +42,7 @@ A conference proceedings version of this article was awarded the [Best Student P
 ISBN: 978-90-367-9575-3.  
 NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.  
 <span style="color: orchid;">
-My PhD thesis was awarded the [Best PhD Thesis Award of the Italian Statistical Society](awards.html) (SIS) in the category Applied Statistics.
+My PhD thesis was awarded the [Best PhD Thesis Award](awards.html) of the Italian Statistical Society (SIS) in the category Applied Statistics.
 </span>
 
 * **Signorelli, M.** (2017). 

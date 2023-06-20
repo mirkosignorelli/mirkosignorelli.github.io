@@ -1,5 +1,8 @@
 ---
 title: "Students"
+output:
+  html_document:
+    toc: true
 ---
 
 ### Prospective students
