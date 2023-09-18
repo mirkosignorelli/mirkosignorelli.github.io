@@ -85,6 +85,9 @@ I received the [Best Student Paper Toyota Corporation Award of the Statistical M
 
 ### Poster presentations
 
+* "Dynamic prediction of survival with many longitudinal covariates: a review and empirical comparison". 
+[9th Survival Analysis for Junior Researchers conference](https://www.uni-ulm.de/mawi/statistics/upcoming-events/safjr2023), Reisenburg (GE), September 2023.
+
 * "Inferring Community-driven Structure in Complex Networks". 
 [SemStat Winter School "Statistical Network Science"](https://www.eurandom.tue.nl/events/workshops/2017/SEMSTAT/SEMSTAT_index.html), Eurandom, Eindhoven (NL), March 2017.
 

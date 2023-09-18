@@ -44,15 +44,15 @@ News: since November 2020, the NEAT test can be computed also using the Biocondu
 
 <img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" />
 
-**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured.
+**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured. PRC is implemented in the `R` package `pencal`, available from CRAN.
 
-The method is described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196, and it is implemented in the `R` package `pencal`, available from CRAN.
+PRC was first described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196. A detailed description of how to use PRC to do dynamic prediction of survival can be found in Signorelli (in review). `pencal`: an `R` Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors.
 
 To find out more about PRC and `pencal`, check out the following resources:
 
-* [read the article](https://doi.org/10.1002/sim.9178) that describes PRC;
+* read the [Statistics in Medicine article](https://doi.org/10.1002/sim.9178) where PRC was proposed;
 
-* read the [vignette: An introduction to the `R` package `pencal`](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html);
+* read the article [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://cran.r-project.org/web/packages/pencal/vignettes/vignette.pdf);
 
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal), and check out the [package manual](https://cran.r-project.org/web/packages/pencal/pencal.pdf).
 
