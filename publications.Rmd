@@ -8,7 +8,7 @@ output:
 
 ### Methodological articles
 
-* **Signorelli, M.** (in review). *pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors*. Preprint: [CRAN vignette](https://cran.r-project.org/web/packages/pencal/vignettes/vignette.pdf)
+* **Signorelli, M.** (in review). *pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors*. Preprint: [arXiv.2309.15600](https://doi.org/10.48550/arXiv.2309.15600)
 
 * Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (in review). *Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach*.
 
