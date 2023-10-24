@@ -19,9 +19,9 @@ Before sending me a request for supervision, I would like to ask you to [check o
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
-* **H. van der Pol** (2022-23)  
-MSc in *Mathematics*  
-Mathematical Institute, Leiden University  
+* **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale)  
+MSc in *Statistics*  
+Mathematical Institute, Leiden University + Department of Statistics, University of Padova  
 
 * **J. Hazenbosch** (2023; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
@@ -31,6 +31,10 @@ Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Karolinska Institute
 
+* **A. Stulemeijer** (2023-24; external supervisor: Christian Steglich)  
+MSc in *Statistics and Data Science*  
+Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
+
 * **E. Rovan** (2022-23; joint supervision with Salvatore Battaglia)  
 BSc in *Wiskunde (Mathematics)*  
 Mathematical Institute, Leiden University  
@@ -39,8 +43,13 @@ Mathematical Institute, Leiden University
 
 * **S. Retif** (2022-23; internal supervisor: Francesca Ieva)  
 MSc in *Mathematical Engineering*  
-Mathematical Institute, Leiden University + Department of Mathematics, Politecnico di Milano, Milan  
+Mathematical Institute, Leiden University + Department of Mathematics, Politecnico di Milano, Milan   
 Thesis title: *Dynamic prediction of survival with many longitudinal predictors: an empirical evaluation*
+
+* **H. van der Pol** (2022-23)  
+MSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+Project title: *A comparison of methods for the selection of the tuning parameters in penalized regression*. 
 
 * **Y. Feng** (2022)  
 MSc in *Statistics and Data Science*  
