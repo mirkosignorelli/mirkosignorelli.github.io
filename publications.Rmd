@@ -62,7 +62,7 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 ### Applied statistics articles
 
-* Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (in review). *Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance*. Preprint: [Research Square rs.3.rs-309](https://doi.org/10.21203/rs.3.rs-3091208).
+* Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
 
 * **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
 
