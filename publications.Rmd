@@ -14,6 +14,8 @@ output:
 
 * Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (in review). *SUrvival Control Chart EStimation Software in R: the success package*. Preprint: [arXiv:2302.07658](https://arxiv.org/abs/2302.07658)
 
+* Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
+
 * **Signorelli, M.**, Cutillo, L. (2022). 
 [On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*, 37, 1165–1183.
 
@@ -61,8 +63,6 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 </span>
 
 ### Applied statistics articles
-
-* Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
 
 * **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
 
