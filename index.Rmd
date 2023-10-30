@@ -29,7 +29,7 @@ Welcome! My name is **Mirko Signorelli**, and I work as **assistant professor in
 
 I currently work as **assistant professor in Statistics** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us), where I do research and teach courses for the [Master in Statistics and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) and the [Bachelor in Wiskunde (Mathematics)](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde).
 
-I received a **double PhD in Statistics** from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked for 4 years as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
+I received a double PhD in Statistics from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked for 4 years as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
 
 ### Research interests
 
