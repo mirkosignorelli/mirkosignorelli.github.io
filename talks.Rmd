@@ -42,6 +42,8 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 
 ### Contributed talks
 
+* "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors", [16th International Conference on Computational and Methodological Statistics (CMStatistics2023)](http://www.cmstatistics.org/CMStatistics2023/index.php), Berlin (GE), Dec. 2023
+
 * "Handling many longitudinal predictors in survival analysis: a penalized regression calibration approach". [34th European Meeting of Statisticians (EMS2023)](https://ems2023.org), University of Warsaw, Warsaw (PL), July 2023.
 
 * "Analysing populations of networks with mixtures of generalized linear mixed models". 
