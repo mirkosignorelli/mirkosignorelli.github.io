@@ -10,9 +10,9 @@ output:
 
 * **Signorelli, M.** (in review). *pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors*. Preprint: [arXiv.2309.15600](https://doi.org/10.48550/arXiv.2309.15600)
 
-* Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (in review). *Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach*.
+* Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (in review). *SUrvival Control Chart EStimation Software in R: the success package*. Preprint: [arXiv:2302.07658](https://arxiv.org/abs/2302.07658).
 
-* Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (in review). *SUrvival Control Chart EStimation Software in R: the success package*. Preprint: [arXiv:2302.07658](https://arxiv.org/abs/2302.07658)
+* Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). [Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631). *Statistical Methods in Medical Research*.
 
 * Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
 
