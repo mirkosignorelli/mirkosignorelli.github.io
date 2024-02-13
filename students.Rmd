@@ -19,27 +19,31 @@ Before sending me a request for supervision, I would like to ask you to [check o
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
+* **I. Liolios** (2024)  
+MSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+
 * **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale)  
 MSc in *Statistics*  
 Mathematical Institute, Leiden University + Department of Statistics, University of Padova  
 
-* **J. Hazenbosch** (2023; external supervisor: Marjolijn Das)  
+* **J. Hazenbosch** (2023-24; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
-
-* **L. Broer** (2023-24; external supervisor: Alessio Crippa)  
-MSc in *Statistics and Data Science*  
-Mathematical Institute, Leiden University + Karolinska Institute
-
 * **A. Stulemeijer** (2023-24; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
 
-* **E. Rovan** (2022-23; joint supervision with Salvatore Battaglia)  
+* **E. Rovan** (2022-24; joint supervision with Salvatore Battaglia)  
 BSc in *Wiskunde (Mathematics)*  
 Mathematical Institute, Leiden University  
 
 #### Past supervisions
+
+* **L. Broer** (2023-24; external supervisor: Alessio Crippa)  
+MSc in *Statistics and Data Science*  
+Mathematical Institute, Leiden University + Karolinska Institute  
+Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
 
 * **S. Retif** (2022-23; internal supervisor: Francesca Ieva)  
 MSc in *Mathematical Engineering*  
