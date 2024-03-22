@@ -23,10 +23,6 @@ Mathematical Institute, Leiden University
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 
-* **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
-MSc in *Statistics*  
-Mathematical Institute, Leiden University + Department of Statistics, University of Padova  
-
 * **J. Hazenbosch** (2023-24; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
@@ -40,6 +36,11 @@ BSc in *Wiskunde (Mathematics)*
 Mathematical Institute, Leiden University  
 
 #### Past supervisions
+
+* **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
+MSc in *Statistical Science*  
+Mathematical Institute, Leiden University + Department of Statistics, University of Padova  
+Thesis title: *Statistical modelling of time-stamped hypergraphs: a model-based clustering approach*
 
 * **L. Broer** (2023-24; external supervisor: Alessio Crippa)  
 MSc in *Statistics and Data Science*  
