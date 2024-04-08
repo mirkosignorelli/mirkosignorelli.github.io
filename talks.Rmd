@@ -8,6 +8,8 @@ output:
 
 ### Invited talks
 
+* "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors". Department of Statistics, University of Padova (IT), Apr. 2024
+
 * "Model-based clustering for populations of networks". Department of Economics, Business and Statistics, University of Palermo (IT), Mar. 2023
 
 * "Pencal: a method to predict survival from longitudinal and high-dimensional (omic) data". [13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
