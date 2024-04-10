@@ -8,7 +8,7 @@ output:
 
 ### Methodological articles
 
-* **Signorelli, M.** (in review). *pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors*. Preprint: [arXiv.2309.15600](https://doi.org/10.48550/arXiv.2309.15600).
+* **Signorelli, M.** (accepted). [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://doi.org/10.48550/arXiv.2309.15600). To appear in: *The R Journal*.
 
 * **Signorelli, M.**, Retif, S. (in review). *An empirical appraisal of methods for the dynamic prediction of survival with numerous longitudinal predictors*. Preprint: [arXiv:2403.14336](https://arxiv.org/abs/2403.14336).
 
