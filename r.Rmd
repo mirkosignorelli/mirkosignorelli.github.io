@@ -91,7 +91,7 @@ The `R` package is described in: Gomon, D., Fiocco, M., Putter, H., **Signorelli
 
 To find out more about `success`:
 
-* read the article [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://arxiv.org/abs/2302.07658);
+* read the article [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095);
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/success), and check out the [package manual](https://cran.r-project.org/web/packages/success/success.pdf).
 
 ### European R Users Meeting 2020 conference (e-Rum2020)
