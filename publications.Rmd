@@ -14,7 +14,7 @@ output:
 
 * Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). [Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631). *Statistical Methods in Medical Research*, 33 (2), 256-272.
 
-* Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in R: the success package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
+* Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
 
 * Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
 

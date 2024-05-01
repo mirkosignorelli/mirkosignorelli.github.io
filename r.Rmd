@@ -87,12 +87,11 @@ To find out more about `ptmixed`:
 
 Note that the funnel plot and Bernoulli CUSUM require a dychotomization of the survival outcome into a binary outcome, whereas the CGR-CUSUM and BK-CUSUM can properly handle the survival outcome.
 
+The `R` package is described in: Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
+
 To find out more about `success`:
 
-* visit the [package page on CRAN](https://cran.r-project.org/web/packages/success);
-
-* check out this [article](https://arxiv.org/abs/2302.07658) that illustrates how the package works and what you can do with it;
-
+* read the article [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://arxiv.org/abs/2302.07658);
 * visit the [package page on CRAN](https://cran.r-project.org/web/packages/success), and check out the [package manual](https://cran.r-project.org/web/packages/success/success.pdf).
 
 ### European R Users Meeting 2020 conference (e-Rum2020)
