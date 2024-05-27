@@ -12,22 +12,22 @@ output:
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
+* [2025 course info](https://studiegids.universiteitleiden.nl/en/courses/123870/computational-statistics)
 * [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/122111/computational-statistics)
 
-#### Mathematical Statistics 2: module on Longitudinal Data Analysis and GLMMs (2022 - now)
+#### Onderwerpen in de Statistiek / Topics in Statistics: module on Longitudinal Data Analysis and GLMMs (2025 - now)
 
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
 
-* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/118249/mathematical-statistics-2)
-* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/115390/mathematical-statistics-2)
-* [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2)
+* [2025 course info](https://studiegids.universiteitleiden.nl/courses/129970/onderwerpen-in-de-statistiek)
 
 #### Statistical Computing with R (2021 - now)
 
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
+* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/124033/statistical-computing-with-r)
 * [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/121707/statistical-computing-with-r)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/115518/statistical-computing-with-r)
 * [2021 course info](https://studiegids.universiteitleiden.nl/en/courses/110098/statistical-computing-with-r)
@@ -42,6 +42,15 @@ Mathematical Institute, Leiden University
 * [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
 * [2021  course info](https://studiegids.universiteitleiden.nl/en/courses/105113/advanced-statistical-computing)
+
+#### Mathematical Statistics 2: module on Longitudinal Data Analysis and GLMMs (2022 - 2024)
+
+Bachelor's programme in *Mathematics (Wiskunde)*  
+Mathematical Institute, Leiden University
+
+* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/118249/mathematical-statistics-2)
+* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/115390/mathematical-statistics-2)
+* [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2)
 
 #### Courses up until 2021
 

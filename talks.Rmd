@@ -44,6 +44,10 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 
 ### Contributed talks
 
+* "A critical appraisal of recent developments in the methodology for the dynamic prediction of survival". [Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
+
+* "Dynamic Prediction with Numerous Longitudinal Covatiates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024
+
 * "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors", [16th International Conference on Computational and Methodological Statistics (CMStatistics2023)](http://www.cmstatistics.org/CMStatistics2023/index.php), Berlin (GE), Dec. 2023
 
 * "Handling many longitudinal predictors in survival analysis: a penalized regression calibration approach". [34th European Meeting of Statisticians (EMS2023)](https://ems2023.org), University of Warsaw, Warsaw (PL), July 2023.
