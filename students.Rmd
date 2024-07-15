@@ -31,10 +31,6 @@ Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
 
-* **E. Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
-BSc in *Wiskunde (Mathematics)*  
-Mathematical Institute, Leiden University  
-
 #### Past supervisions
 
 * **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
@@ -46,6 +42,11 @@ Thesis title: *Statistical modelling of time-stamped hypergraphs: a model-based 
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Karolinska Institute  
 Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
+
+* **E. Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
+BSc in *Wiskunde (Mathematics)*  
+Mathematical Institute, Leiden University  
+Thesis title: *In the Shadows of History: A Competing Risks Analysis of Child Mortality in 19th Century Amsterdam*
 
 * **S. Retif** (2022-23; internal supervisor: Francesca Ieva)  
 MSc in *Mathematical Engineering*  

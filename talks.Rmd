@@ -8,11 +8,17 @@ output:
 
 ### Invited talks
 
-* "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors". Department of Statistics, University of Padova (IT), Apr. 2024
+* "Dynamic prediction with numerous longitudinal covariates made easy: the R package pencal". 
+[18th International Conference on Computational and Methodological Statistics (CMStatistics2024)](https://www.cmstatistics.org/CFECMStatistics2024/index.php), London, Dec. 2024
 
-* "Model-based clustering for populations of networks". Department of Economics, Business and Statistics, University of Palermo (IT), Mar. 2023
+* "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors". 
+Department of Statistics, University of Padova (IT), Apr. 2024
 
-* "Pencal: a method to predict survival from longitudinal and high-dimensional (omic) data". [13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
+* "Model-based clustering for populations of networks". 
+Department of Economics, Business and Statistics, University of Palermo (IT), Mar. 2023
+
+* "Pencal: a method to predict survival from longitudinal and high-dimensional (omic) data". 
+[13th Conference of the Italian region of the International Biometric Society](https://ibs-italy.org/?page_id=1349&lang=it), Sep. 2021.
 
 * "How to predict a survival outcome using longitudinal and high-dimensional omics data". 
 [Young Statistician Showcase](https://www.ibc2020.org/scientific-programme/showcases) of the [30th International Biometric Conference](https://www.ibc2020.org/home), Aug. 2020. [Recording of the talk](https://www.youtube.com/watch?v=wRKqmo2U-sc&t=2485s).  
@@ -32,9 +38,11 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 * "Variable selection for (realistic) stochastic blockmodels". 
 [SIS2017 conference on "Statistics and Data Science: New Challenges, New Generations"](http://meetings3.sis-statistica.org/index.php/sis2017/sis2017), Florence (IT), June 2017.
 
-* "Comparing community structures in complex networks". Department of Computer Science, University of Sheffield (UK), Feb. 2017.
+* "Comparing community structures in complex networks". 
+Department of Computer Science, University of Sheffield (UK), Feb. 2017.
 
-* "Comparing community structures in complex networks". University of Manchester (UK), Feb. 2017.
+* "Comparing community structures in complex networks". 
+University of Manchester (UK), Feb. 2017.
 
 * "Reconstructing collaborations between political parties from bill cosponsorship networks". 
 1st meeting of the [European Cooperation for Statistics of Network Data Science](http://www.cost.eu/COST_Actions/ca/CA15109), Ribno (SL), September 2016.
@@ -44,18 +52,22 @@ I was invited to give this presentation at the Scientific meeting of the Italian
 
 ### Contributed talks
 
-* "A critical appraisal of recent developments in the methodology for the dynamic prediction of survival". [Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
+* "A critical appraisal of recent developments in the methodology for the dynamic prediction of survival". 
+[Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
 
 * "Dynamic Prediction with Numerous Longitudinal Covatiates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024
 
-* "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors", [16th International Conference on Computational and Methodological Statistics (CMStatistics2023)](http://www.cmstatistics.org/CMStatistics2023/index.php), Berlin (GE), Dec. 2023
+* "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors".
+[16th International Conference on Computational and Methodological Statistics (CMStatistics2023)](http://www.cmstatistics.org/CMStatistics2023/index.php), Berlin (GE), Dec. 2023
 
-* "Handling many longitudinal predictors in survival analysis: a penalized regression calibration approach". [34th European Meeting of Statisticians (EMS2023)](https://ems2023.org), University of Warsaw, Warsaw (PL), July 2023.
+* "Handling many longitudinal predictors in survival analysis: a penalized regression calibration approach". 
+[34th European Meeting of Statisticians (EMS2023)](https://ems2023.org), University of Warsaw, Warsaw (PL), July 2023.
 
 * "Analysing populations of networks with mixtures of generalized linear mixed models". 
 [24th International Conference on Computational Statistics (COMPSTAT2022)](http://www.compstat2022.org), University of Bologna, Bologna (IT), Aug. 2022.
 
-* "Penalized Regression Calibration: a statistical method to predict survival from longitudinal and high-dimensional omic data". [31st International Biometric Conference](https://www.ibc2022.org/home), Riga (LV), July 2022.
+* "Penalized Regression Calibration: a statistical method to predict survival from longitudinal and high-dimensional omic data". 
+[31st International Biometric Conference](https://www.ibc2022.org/home), Riga (LV), July 2022.
 
 
 * "Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data".
