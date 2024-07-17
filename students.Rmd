@@ -40,7 +40,7 @@ Thesis title: *Statistical modelling of time-stamped hypergraphs: a model-based 
 
 * **L. Broer** (2023-24; external supervisor: Alessio Crippa)  
 MSc in *Statistics and Data Science*  
-Mathematical Institute, Leiden University + Karolinska Institute  
+Mathematical Institute, Leiden University + Department of Medical Epidemiology and Biostatistics, Karolinska Institute  
 Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
 
 * **E. Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
