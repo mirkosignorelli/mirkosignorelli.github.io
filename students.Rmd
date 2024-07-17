@@ -19,61 +19,61 @@ Before sending me a request for supervision, I would like to ask you to [check o
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
-* **I. Liolios** (2024)  
+* **Ioannis Liolios** (2024)  
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 
-* **J. Hazenbosch** (2023-24; external supervisor: Marjolijn Das)  
+* **Jelle Hazenbosch** (2023-24; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
 
-* **A. Stulemeijer** (2023-24; external supervisor: Christian Steglich)  
+* **Astrid Stulemeijer** (2023-24; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
 
 #### Past supervisions
 
-* **E. Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
+* **Eugenia Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
 MSc in *Statistical Science*  
 Mathematical Institute, Leiden University + Department of Statistics, University of Padova  
 Thesis title: *Statistical modelling of time-stamped hypergraphs: a model-based clustering approach*
 
-* **L. Broer** (2023-24; external supervisor: Alessio Crippa)  
+* **Lana Broer** (2023-24; external supervisor: Alessio Crippa)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Medical Epidemiology and Biostatistics, Karolinska Institute  
 Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
 
-* **E. Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
+* **Eva Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
 BSc in *Wiskunde (Mathematics)*  
 Mathematical Institute, Leiden University  
 Thesis title: *In the Shadows of History: A Competing Risks Analysis of Child Mortality in 19th Century Amsterdam*
 
-* **S. Retif** (2022-23; internal supervisor: Francesca Ieva)  
+* **Sophie Retif** (2022-23; internal supervisor: Francesca Ieva)  
 MSc in *Mathematical Engineering*  
 Mathematical Institute, Leiden University + Department of Mathematics, Politecnico di Milano, Milan   
 Thesis title: *Dynamic prediction of survival with many longitudinal predictors: an empirical evaluation*
 
-* **H. van der Pol** (2022-23)  
+* **Henk van der Pol** (2022-23)  
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 Project title: *A comparison of methods for the selection of the tuning parameters in penalized regression*. 
 
-* **Y. Feng** (2022)  
+* **Yibin Feng** (2022)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University  
 Thesis title: *An empirical evaluation of methods for the prediction of survival with many longitudinally-measured predictors*
 
-* **G. Talyigas** (2021;  co-supervisor: Marta Fiocco)  
+* **Gergely Talyigas** (2021;  co-supervisor: Marta Fiocco)  
 MSc in *Statistics for the Life and Behavioural Sciences*  
 Mathematical Institute, Leiden University  
 Thesis title: *A systematic comparison of methods for the validation of binary classification models*
 
-* **F. Lefeber** (2017; co-supervisor: Ernst Wit)    
+* **Frank Lefeber** (2017; co-supervisor: Ernst Wit)    
 MSc in *Education and Communication in Mathematics and Natural Sciences*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Heterogeneity for the Stochastic Blockmodel and the Issue of Separation in Political Networks*
 
-* **H. Dijkstra** (2016; co-supervisor: Ernst Wit)  
+* **Harmen Dijkstra** (2016; co-supervisor: Ernst Wit)  
 MSc in *Mathematics*  
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Generalized linear models for network analysis*  
