@@ -102,7 +102,7 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 ### Public outreach articles
 
 * Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (2020). 
-[e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/archive/2020-2/erum.pdf). 
+[e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/news/RJ-2020-2-erum). 
 *The R Journal*, 12 (2), 416-424.
 
 ### Conference proceedings and technical reports
