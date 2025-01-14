@@ -52,6 +52,9 @@ University of Manchester (UK), Feb. 2017.
 
 ### Contributed talks
 
+* "Dynamic prediction with numerous longitudinal predictors: how to combine the best of both worlds (landmarking and joint modelling) through penalized regression calibration". 
+[10th Survival Analysis for Junior Researchers conference](https://safjr2025.uni-bonn.de), Bonn (GE), March 2025.
+
 * "A critical appraisal of recent developments in the methodology for the dynamic prediction of survival". 
 [Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
 
