@@ -19,17 +19,23 @@ Before sending me a request for supervision, I would like to ask you to [check o
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
-* **Ioannis Liolios** (2024)  
+* **Ioannis Liolios** (2024-25)  
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 
-* **Jelle Hazenbosch** (2023-24; external supervisor: Marjolijn Das)  
+* **Xiang Li** (2025)  
+MSc in *Statistics and Data Science*  
+Mathematical Institute, Leiden University
+
+* **Jelle Hazenbosch** (2023-25; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
+Thesis title: *Using registration data to evaluate social induction of solar panel adoption*
 
-* **Astrid Stulemeijer** (2023-24; external supervisor: Christian Steglich)  
+* **Astrid Stulemeijer** (2023-25; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
+Thesis title: *Measurement error in longitudinal social network data: the sensitivity of stochastic actor-oriented models*
 
 #### Past supervisions
 

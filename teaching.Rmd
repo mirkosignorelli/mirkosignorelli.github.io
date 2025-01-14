@@ -7,6 +7,13 @@ output:
 
 ### Active courses
 
+#### Computational Statistics and Longitudinal Data Analysis (2025 - now)
+
+Bachelor's programme in *Mathematics (Wiskunde)* and Master's programme in *Mathematics*  
+Mathematical Institute, Leiden University
+
+* Information: TBA
+
 #### Computational Statistics (2024 - now)
 
 Master's programme in *Statistics \& Data Science*  
