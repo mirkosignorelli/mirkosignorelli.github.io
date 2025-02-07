@@ -27,6 +27,14 @@ Mathematical Institute, Leiden University
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University
 
+* **Wouter Ockers** (2025)  
+BSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+
+* **Jana Krabbendam** (2025; cosupervisor: Pietro Spitali)  
+BSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+
 * **Jelle Hazenbosch** (2023-25; external supervisor: Marjolijn Das)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
@@ -50,7 +58,7 @@ Mathematical Institute, Leiden University + Department of Medical Epidemiology a
 Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
 
 * **Eva Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
-BSc in *Wiskunde (Mathematics)*  
+BSc in *Mathematics*  
 Mathematical Institute, Leiden University  
 Thesis title: *In the Shadows of History: A Competing Risks Analysis of Child Mortality in 19th Century Amsterdam*
 
