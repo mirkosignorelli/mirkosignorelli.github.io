@@ -70,7 +70,7 @@ Thesis title: *Dynamic prediction of survival with many longitudinal predictors:
 * **Henk van der Pol** (2022-23)  
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
-Project title: *A comparison of methods for the selection of the tuning parameters in penalized regression*. 
+Project title: *A comparison of methods for the selection of the tuning parameters in penalized regression* 
 
 * **Yibin Feng** (2022)  
 MSc in *Statistics and Data Science*  
