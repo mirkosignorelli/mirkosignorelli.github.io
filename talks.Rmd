@@ -38,8 +38,7 @@ I was invited to give this presentation at IBC2020's Young Statistician Showcase
 </li>
 
 <li> "Inferring community-driven structure in complex networks". 
-[49th Scientific meeting of the Italian Statistical Society](http://meetings3.sis-statistica.org/index.php/sis2018), Palermo (IT), June 2018. </li>
- 
+[49th Scientific meeting of the Italian Statistical Society](http://meetings3.sis-statistica.org/index.php/sis2018), Palermo (IT), June 2018.  
 <span style="color: orchid;">
 I was invited to give this presentation at the Scientific meeting of the Italian Statistical Society (SIS) after winning the [Best PhD Thesis Award from SIS](awards.html) in the category Applied Statistics.
 </span>
