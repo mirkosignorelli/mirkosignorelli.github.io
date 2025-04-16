@@ -6,122 +6,163 @@ output:
     toc: true
 ---
 
-### Methodological articles
+### Methodological and computational statistics
 
-* **Signorelli, M.** (accepted). [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://doi.org/10.48550/arXiv.2309.15600). To appear in: *The R Journal*.
+<ol reversed class="spacedList">
 
-* **Signorelli, M.**, Retif, S. (in review). *An empirical appraisal of methods for the dynamic prediction of survival with numerous longitudinal predictors*. Preprint: [arXiv:2403.14336](https://arxiv.org/abs/2403.14336).
+<li> **Signorelli, M.** (accepted). [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://doi.org/10.48550/arXiv.2309.15600). To appear in: *The R Journal*.
+</li>
 
-* Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). [Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631). *Statistical Methods in Medical Research*, 33 (2), 256-272.
+<li> **Signorelli, M.**, Retif, S. (in review). *An empirical appraisal of methods for the dynamic prediction of survival with numerous longitudinal predictors*. Preprint: [arXiv:2403.14336](https://arxiv.org/abs/2403.14336).
+</li>
 
-* Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
+<li> Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). [Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631). *Statistical Methods in Medical Research*, 33 (2), 256-272.
+</li>
 
-* Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
+<li> Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
+</li>
 
-* **Signorelli, M.**, Cutillo, L. (2022). 
+<li> Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2023). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*.
+</li>
+
+<li> **Signorelli, M.**, Cutillo, L. (2022). 
 [On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*, 37, 1165–1183.
+</li>
 
-* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (2021). 
+<li> **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (2021). 
 [Penalized regression calibration: A method for the prediction of survival outcomes using complex longitudinal and high-dimensional data](https://doi.org/10.1002/sim.9178).
 *Statistics in Medicine*, 40 (27), 6178-6196.  
 <span style="color: orchid;">
 A short version of this article was awarded the [Young Statistician Award](awards.html) by the International Biometric Society.
 </span>
+</li>
 
-* **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
+<li> **Signorelli, M.**, Spitali, P., Tsonaka, R. (2021).
 [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017).
 *Statistical Modelling*, 21 (6), 520-545.  
 <span style="color: orchid;">
 This article received a [honourable mention](awards.html) from the jury of the Hans van Houwelingen Award.
 </span>
+</li>
 
-* **Signorelli, M.**, Wit, E. C. (2020).
+<li> **Signorelli, M.**, Wit, E. C. (2020).
 [Model-based clustering for populations of networks](https://journals.sagepub.com/doi/full/10.1177/1471082X19871128). 
 *Statistical Modelling*, 20 (1), 9-29.  
 <span style="color: orchid;">
 A conference proceedings version of this article was awarded the [Best Student Paper Award](awards.html) of the Statistical Modelling Society (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
 </span>
+</li>
 
-* **Signorelli, M.**, Wit, E. C. (2018). 
+<li> **Signorelli, M.**, Wit, E. C. (2018). 
 [A penalized inference approach to stochastic block modelling of community structure in the Italian Parliament](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12234). 
 *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, 67 (2), 355-369. 
+</li>
 
-* **Signorelli, M.** (2017). [Inferring Community-driven Structure in Complex Networks](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). University of Groningen and University of Padova.
+<li> **Signorelli, M.** (2017). [Inferring Community-driven Structure in Complex Networks](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). University of Groningen and University of Padova.
 ISBN: 978-90-367-9575-3.  
 NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.  
 <span style="color: orchid;">
 My PhD thesis was awarded the [Best PhD Thesis Award](awards.html) of the Italian Statistical Society (SIS) in the category Applied Statistics.
 </span>
+</li>
 
-* **Signorelli, M.** (2017). 
+<li> **Signorelli, M.** (2017). 
 [Variable selection for (realistic) stochastic blockmodels](https://www.researchgate.net/publication/315716028_Variable_selection_for_realistic_stochastic_blockmodels). 
 In: Petrucci, A., Verde, R. (editors), *SIS 2017. Statistics and Data Science: new challenges, new generations*, pp. 927-934. Firenze University Press. ISBN: 978-88-6453-521-0.
+</li>
 
-* **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
+<li> **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
 [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6).
 *BMC Bioinformatics*, 17, 352.  
 <span style="color: orchid;">
 With this article I won the competition for the [Research Award 2016](awards.html) of the Department of Statistical Sciences of the University of Padova.
 </span>
+</li>
 
-### Applied statistics articles
+</ol>
 
-* **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
+### Applied statistics
 
-* Johansson, C., Junt, H., **Signorelli, M.** et al. (2023). [Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers](https://doi.org/10.1186/s12014-023-09412-1). *Clinical Proteomics*, 20, 23.
+<ol reversed class="spacedList">
 
-* van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2023). [Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). *Neurology*, 100 (9), e975-e984.
+<li> **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
+</li>
 
-* **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
+<li> Johansson, C., Junt, H., **Signorelli, M.** et al. (2023). [Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers](https://doi.org/10.1186/s12014-023-09412-1). *Clinical Proteomics*, 20, 23.
+</li>
+
+<li> van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2023). [Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). *Neurology*, 100 (9), e975-e984.
+</li>
+
+<li> **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
 [Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients](http://doi.org/10.15252/emmm.202013328). 
 *EMBO Molecular Medicine*, 13, e13328.
+</li>
 
-* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (2021). 
+<li> Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (2021). 
 [Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay](https://www.nature.com/articles/s41598-021-84863-w).
 *Scientific Reports*, 11, 5952.
+</li>
 
-* **Signorelli, M.**, Ayoglu, B. et al. (2020). 
+<li> **Signorelli, M.**, Ayoglu, B. et al. (2020). 
 [Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517). 
 *Journal of Cachexia, Sarcopenia and Muscle*, 11, 505-517.
+</li>
 
-* **Signorelli, M.**, Mason, A. et al. (2020). 
+<li> **Signorelli, M.**, Mason, A. et al. (2020). 
 [Evaluation of blood gene expression levels in facioscapulohumeral muscular dystrophy patients](https://www.nature.com/articles/s41598-020-74687-5). 
 *Scientific Reports*, 10, 17547.
+</li>
 
-* Tsonaka, R., **Signorelli, M.**, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). 
+<li> Tsonaka, R., **Signorelli, M.**, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). 
 [Longitudinal metabolomic analysis of plasma enables modelling disease progression in Duchenne muscular dystrophy mouse models](https://academic.oup.com/hmg/article/29/5/745/5698697). 
 *Human Molecular Genetics*, 29 (5), 745-755.
+</li>
 
-* Previtali, S., Gidaro, T. et al [including **Signorelli, M.**] (2020). 
+<li> Previtali, S., Gidaro, T. et al [including **Signorelli, M.**] (2020). 
 [Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy](https://www.sciencedirect.com/science/article/pii/S1043661820313074). *Pharmacological Research*, 159, 104999.
+</li>
 
-* Strandberg, K., Ayoglu, B. et al [including **Signorelli, M.**] (2020). 
+<li> Strandberg, K., Ayoglu, B. et al [including **Signorelli, M.**] (2020). 
 [Blood-derived biomarkers correlate with clinical progression in Duchenne muscular dystrophy](https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd190454). 
 *Journal of Neuromuscular Diseases*, 7 (3), 231-246.
+</li>
 
-### Public outreach articles
+</ol>
 
-* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (2020). 
+### Outreach
+
+<ol reversed class="spacedList">
+
+<li> Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (2020). 
 [e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/news/RJ-2020-2-erum). 
 *The R Journal*, 12 (2), 416-424.
+</li>
+
+</ol>
 
 ### Conference proceedings and technical reports
 
-* **Signorelli, M.**, Wit, E. C. (2017). 
+<ol reversed class="spacedList">
+
+<li> **Signorelli, M.**, Wit, E. C. (2017). 
 Model-based clustering for populations of networks. 
 *Proceedings of the 32nd International Workshop on Statistical Modelling*, vol. 1, pp. 155-160.
+</li>
 
-* **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
+<li> **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
 NEAT: an efficient Network Enrichment Analysis Test. 
 *Proceedings of the 31st International Workshop on Statistical Modelling*, vol. 1, pp. 289-294.
+</li>
 
-* Minotti S. C., **Signorelli, M.** (2013). 
+<li> Minotti S. C., **Signorelli, M.** (2013). 
 Il modello Tucker3 per l’analisi dei bilanci dei comuni italiani. 
 *Technical report number 241 of the Department of Statistics and Quantitative Methods of the University of Milan-Bicocca*.
+</li>
 
+</ol>
 
-<!-- the part below is a fix to the menu not displaying properly
-on the mobile version -->
+<!-- the part below is a fix to the menu not displaying properly on the mobile version -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
