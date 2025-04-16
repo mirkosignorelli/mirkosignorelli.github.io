@@ -12,3 +12,6 @@ body {
   max-width: 800px !important;
 }
 
+.spacedList li {
+  margin-bottom: 10px;
+}
