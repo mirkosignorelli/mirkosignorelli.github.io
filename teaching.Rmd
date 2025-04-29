@@ -9,10 +9,10 @@ output:
 
 #### Computational Statistics and Longitudinal Data Analysis (2025 - now)
 
-Bachelor's programme in *Mathematics (Wiskunde)* and Master's programme in *Mathematics*  
+Bachelor's programme in *Mathematics (Wiskunde)* and Master's programme in *Mathematics* (this is a "Bachelor-Master" course)  
 Mathematical Institute, Leiden University
 
-* Information: TBA
+* 2025 course info: TBA
 
 #### Computational Statistics (2024 - now)
 
@@ -22,14 +22,16 @@ Mathematical Institute, Leiden University
 * [2025 course info](https://studiegids.universiteitleiden.nl/en/courses/123870/computational-statistics)
 * [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/122111/computational-statistics)
 
-#### Onderwerpen in de Statistiek / Topics in Statistics: module on Longitudinal Data Analysis and GLMMs (2025 - now)
+### Past courses
+
+#### Onderwerpen in de Statistiek / Topics in Statistics: module on Longitudinal Data Analysis and GLMMs (2025)
 
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
 
 * [2025 course info](https://studiegids.universiteitleiden.nl/courses/129970/onderwerpen-in-de-statistiek)
 
-#### Statistical Computing with R (2021 - now)
+#### Statistical Computing with R (2021 - 2024)
 
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
@@ -38,8 +40,6 @@ Mathematical Institute, Leiden University
 * [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/121707/statistical-computing-with-r)
 * [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/115518/statistical-computing-with-r)
 * [2021 course info](https://studiegids.universiteitleiden.nl/en/courses/110098/statistical-computing-with-r)
-
-### Past courses
 
 #### Advanced Statistical Computing (2021 - 2023)
 
