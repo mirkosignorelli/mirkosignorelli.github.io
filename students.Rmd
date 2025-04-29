@@ -35,17 +35,17 @@ Mathematical Institute, Leiden University
 BSc in *Mathematics*  
 Mathematical Institute, Leiden University + Department of Human Genetics, Leiden University Medical Center  
 
-* **Jelle Hazenbosch** (2023-25; external supervisor: Marjolijn Das)  
-MSc in *Statistics and Data Science*  
-Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
-Thesis title: *Using registration data to evaluate social induction of solar panel adoption*
+#### Past supervisions
 
 * **Astrid Stulemeijer** (2023-25; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Sociology, University of Groningen  
 Thesis title: *Measurement error in longitudinal social network data: the sensitivity of stochastic actor-oriented models*
 
-#### Past supervisions
+* **Jelle Hazenbosch** (2023-25; external supervisor: Marjolijn Das)  
+MSc in *Statistics and Data Science*  
+Mathematical Institute, Leiden University + Centrale Bureau voor de Statistiek  
+Thesis title: *Using registration data to evaluate social induction of solar panel adoption*
 
 * **Eugenia Driusso** (2023-24; internal supervisor: Alessandra Brazzale, co-supervisor: Ernst Wit)  
 MSc in *Statistical Science*  
