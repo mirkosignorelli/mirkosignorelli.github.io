@@ -10,8 +10,12 @@ output:
 
 <ol reversed class="spacedList">
 
+<li> "What's cooking in the dynamic prediction pot". 
+[Dynalife BioNetworks Workshop](https://www.dynalife.eu/cetinje-2025), Cetinje (ME), Jul. 2025
+</li>
+
 <li> "Dynamic prediction with numerous longitudinal covariates made easy: the R package pencal". 
-[18th International Conference on Computational and Methodological Statistics (CMStatistics2024)](https://www.cmstatistics.org/CFECMStatistics2024/index.php), London, Dec. 2024
+[18th International Conference on Computational and Methodological Statistics (CMStatistics2024)](https://www.cmstatistics.org/CFECMStatistics2024/index.php), London (UK), Dec. 2024
 </li>
 
 <li> "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors". 
