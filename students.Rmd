@@ -11,31 +11,31 @@ Are you interested in doing your bachelor's / master's thesis project with me? F
 
 Before sending me a request for supervision, I would like to ask you to [check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.
 
-### Supervised students
+### PhD students
 
-#### Ongoing supervisions
+* **Xiang Li** (2025+)  
+PhD student in *Statistics*  
+Mathematical Institute, Leiden University  
+
+* [Lorenzo Carvisiglia](https://www.unibo.it/sitoweb/lorenzo.carvisiglia/en) (2023+, supervisor: Saverio Ranciati)  
+PhD student in *Statistics*  
+Department of Statistical Sciences, University of Bologna  
 
 * [Daniel Gomon](https://github.com/d-gomon) (2021-25; co-supervisors: Marta Fiocco and Hein Putter)  
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
+### Master students
+
 * **Ioannis Liolios** (2024-25)  
 MSc in *Mathematics*  
 Mathematical Institute, Leiden University  
+Thesis title: *Co-clustering on binary hypergraphs*
 
 * **Xiang Li** (2025)  
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University
-
-* **Wouter Ockers** (2025)  
-BSc in *Mathematics*  
-Mathematical Institute, Leiden University  
-
-* **Jana Krabbendam** (2025; cosupervisor: Pietro Spitali)  
-BSc in *Mathematics*  
-Mathematical Institute, Leiden University + Department of Human Genetics, Leiden University Medical Center  
-
-#### Past supervisions
+Thesis title: 
 
 * **Astrid Stulemeijer** (2023-25; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
@@ -56,11 +56,6 @@ Thesis title: *Statistical modelling of time-stamped hypergraphs: a model-based 
 MSc in *Statistics and Data Science*  
 Mathematical Institute, Leiden University + Department of Medical Epidemiology and Biostatistics, Karolinska Institute  
 Thesis title: *Investigating the prognostic value of prostate-specific antigen in metastatic prostate cancer: a joint modeling and landmark approach*
-
-* **Eva Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
-BSc in *Mathematics*  
-Mathematical Institute, Leiden University  
-Thesis title: *In the Shadows of History: A Competing Risks Analysis of Child Mortality in 19th Century Amsterdam*
 
 * **Sophie Retif** (2022-23; internal supervisor: Francesca Ieva)  
 MSc in *Mathematical Engineering*  
@@ -92,6 +87,22 @@ MSc in *Mathematics*
 Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen  
 Thesis title: *Generalized linear models for network analysis*  
 
+### Bachelor students
+
+* **Wouter Ockers** (2025)  
+BSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+Thesis title: *A comparative study of estimation methods for clustered data: Evaluating the GLMM and HGLM frameworks*
+
+* **Jana Krabbendam** (2025; cosupervisor: Pietro Spitali)  
+BSc in *Mathematics*  
+Mathematical Institute, Leiden University + Department of Human Genetics, Leiden University Medical Center  
+Thesis title: *Identifying Potential Biomarkers for Duchenne Muscular Dystrophy in Urinary Metabolomics Data*  
+
+* **Eva Rovan** (2022-24; co-supervisor: Salvatore Battaglia)  
+BSc in *Mathematics*  
+Mathematical Institute, Leiden University  
+Thesis title: *In the Shadows of History: A Competing Risks Analysis of Child Mortality in 19th Century Amsterdam*
 
 <!-- the part below is a fix to the menu not displaying properly
 on the mobile version -->
