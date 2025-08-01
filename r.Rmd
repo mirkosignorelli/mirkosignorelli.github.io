@@ -22,6 +22,20 @@ My involvement in the `R` community so far can be summarized as follows:
 
 Below you can find more details about some of these contributions.
 
+### R package pencal
+
+<img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" />
+
+**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome using predictors that are measured repeatedly over time ("longitudinal data"). PRC is implemented in the `R` package `pencal`, available from CRAN.
+
+PRC was first described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196. A detailed description of how to use PRC for dynamic prediction can be found in Signorelli (2024). `pencal`: an `R` Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors. *The `R` Journal*, 16 (2), 134-153.
+
+To find out more about PRC and `pencal`:
+
+* read the **article** [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://journal.r-project.org/articles/RJ-2024-014/);
+* check out the **video** of my [UseR!2024 talk about `pencal`](https://youtu.be/jnpiSldbTko);
+* visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal).
+
 ### R package neat
 
 <img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" align="right" alt="" width="250" />
@@ -33,26 +47,10 @@ The method is described in Signorelli, Vinciotti and Wit (2016). NEAT: an effici
 If you want to learn more about NEAT, you can:
 
 * [read the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6) that describes the method;
-
 * read the [vignette: An introduction to the `R` package `neat`](https://cran.r-project.org/web/packages/neat/vignettes/neat.html);
-
-* visit the [package page on CRAN](https://cran.r-project.org/web/packages/neat/), and check out the [package manual](https://cran.r-project.org/web/packages/neat/neat.pdf).
+* visit the [package page on CRAN](https://cran.r-project.org/web/packages/neat/).
 
 News: since November 2020, the NEAT test can be computed also using the Bioconductor package `EnrichmentBrowser`.
-
-### R package pencal
-
-<img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" />
-
-**`pencal`** is an abbreviation that stands for *Penalized Regression Calibration (PRC)*, a method that can be used to predict a survival outcome given a set of predictors that are high-dimensional and longitudinally measured. PRC is implemented in the `R` package `pencal`, available from CRAN.
-
-PRC was first described in Signorelli *et al.* (2021). Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*, 40 (27), 6178-6196. A detailed description of how to use PRC to do dynamic prediction of survival can be found in Signorelli (2024). `pencal`: an `R` Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors. *The `R` Journal*, 16 (2), 134-153.
-
-To find out more about PRC and `pencal`, check out the following resources:
-
-* read the article [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://journal.r-project.org/articles/RJ-2024-014/);
-
-* visit the [package page on CRAN](https://cran.r-project.org/web/packages/pencal), and check out the [package manual](https://cran.r-project.org/web/packages/pencal/pencal.pdf).
 
 ### R package ptmixed
 
@@ -65,12 +63,9 @@ The model is described in Signorelli, M., Spitali, P., Tsonaka, R. (2021). Poiss
 To find out more about `ptmixed`:
 
 * [read the article](https://journals.sagepub.com/doi/10.1177/1471082X20936017) that describes the methodology behind ptmixed;
-
 * read the [vignette: An introduction to the `R` package `ptmixed`](https://cran.r-project.org/web/packages/ptmixed/vignettes/Overview_functionalities_ptmixed.html);
-
-* have a look at a short [5 minute talk about `ptmixed`](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s) that I presented at eRum2020;
-
-* visit the [package page on CRAN](https://cran.r-project.org/web/packages/ptmixed), and check out the [package manual](https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf).
+* check out the **video** of my [eRum2020 short talk about `ptmixed`](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s);
+* visit the [package page on CRAN](https://cran.r-project.org/web/packages/ptmixed).
 
 ### R package success
 

@@ -341,10 +341,10 @@ $(document).ready(function () {
 <div id="TOC">
 <ul>
 <li><a href="#overview" id="toc-overview">Overview</a></li>
-<li><a href="#r-package-neat" id="toc-r-package-neat">R package
-neat</a></li>
 <li><a href="#r-package-pencal" id="toc-r-package-pencal">R package
 pencal</a></li>
+<li><a href="#r-package-neat" id="toc-r-package-neat">R package
+neat</a></li>
 <li><a href="#r-package-ptmixed" id="toc-r-package-ptmixed">R package
 ptmixed</a></li>
 <li><a href="#r-package-success" id="toc-r-package-success">R package
@@ -379,6 +379,36 @@ Meeting 2020 (e-Rum2020) conference</strong>;</p></li>
 <p>Below you can find more details about some of these
 contributions.</p>
 </div>
+<div id="r-package-pencal" class="section level3">
+<h3>R package pencal</h3>
+<p><img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" /></p>
+<p><strong><code>pencal</code></strong> is an abbreviation that stands
+for <em>Penalized Regression Calibration (PRC)</em>, a method that can
+be used to predict a survival outcome using predictors that are measured
+repeatedly over time (“longitudinal data”). PRC is implemented in the
+<code>R</code> package <code>pencal</code>, available from CRAN.</p>
+<p>PRC was first described in Signorelli <em>et al.</em> (2021).
+Penalized regression calibration: a method for the prediction of
+survival outcomes using complex longitudinal and high-dimensional data.
+<em>Statistics in Medicine</em>, 40 (27), 6178-6196. A detailed
+description of how to use PRC for dynamic prediction can be found in
+Signorelli (2024). <code>pencal</code>: an <code>R</code> Package for
+the Dynamic Prediction of Survival with Many Longitudinal Predictors.
+<em>The <code>R</code> Journal</em>, 16 (2), 134-153.</p>
+<p>To find out more about PRC and <code>pencal</code>:</p>
+<ul>
+<li>read the <strong>article</strong> <a
+href="https://journal.r-project.org/articles/RJ-2024-014/">pencal: an R
+Package for the Dynamic Prediction of Survival with Many Longitudinal
+Predictors</a>;</li>
+<li>check out the <strong>video</strong> of my <a
+href="https://youtu.be/jnpiSldbTko">UseR!2024 talk about
+<code>pencal</code></a>;</li>
+<li>visit the <a
+href="https://cran.r-project.org/web/packages/pencal">package page on
+CRAN</a>.</li>
+</ul>
+</div>
 <div id="r-package-neat" class="section level3">
 <h3>R package neat</h3>
 <p><img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" align="right" alt="" width="250" /></p>
@@ -391,51 +421,19 @@ Bioinformatics</em>, 17:352, and it is implemented in the <code>R</code>
 package <code>neat</code>, available from CRAN.</p>
 <p>If you want to learn more about NEAT, you can:</p>
 <ul>
-<li><p><a
+<li><a
 href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6">read
-the paper</a> that describes the method;</p></li>
-<li><p>read the <a
+the paper</a> that describes the method;</li>
+<li>read the <a
 href="https://cran.r-project.org/web/packages/neat/vignettes/neat.html">vignette:
 An introduction to the <code>R</code> package
-<code>neat</code></a>;</p></li>
-<li><p>visit the <a
+<code>neat</code></a>;</li>
+<li>visit the <a
 href="https://cran.r-project.org/web/packages/neat/">package page on
-CRAN</a>, and check out the <a
-href="https://cran.r-project.org/web/packages/neat/neat.pdf">package
-manual</a>.</p></li>
+CRAN</a>.</li>
 </ul>
 <p>News: since November 2020, the NEAT test can be computed also using
 the Bioconductor package <code>EnrichmentBrowser</code>.</p>
-</div>
-<div id="r-package-pencal" class="section level3">
-<h3>R package pencal</h3>
-<p><img src="https://user-images.githubusercontent.com/20061736/162180793-072613f0-a93e-4ef6-b0c4-b8d8a45d770a.png" align="right" alt="" width="250" /></p>
-<p><strong><code>pencal</code></strong> is an abbreviation that stands
-for <em>Penalized Regression Calibration (PRC)</em>, a method that can
-be used to predict a survival outcome given a set of predictors that are
-high-dimensional and longitudinally measured. PRC is implemented in the
-<code>R</code> package <code>pencal</code>, available from CRAN.</p>
-<p>PRC was first described in Signorelli <em>et al.</em> (2021).
-Penalized regression calibration: a method for the prediction of
-survival outcomes using complex longitudinal and high-dimensional data.
-<em>Statistics in Medicine</em>, 40 (27), 6178-6196. A detailed
-description of how to use PRC to do dynamic prediction of survival can
-be found in Signorelli (2024). <code>pencal</code>: an <code>R</code>
-Package for the Dynamic Prediction of Survival with Many Longitudinal
-Predictors. <em>The <code>R</code> Journal</em>, 16 (2), 134-153.</p>
-<p>To find out more about PRC and <code>pencal</code>, check out the
-following resources:</p>
-<ul>
-<li><p>read the article <a
-href="https://journal.r-project.org/articles/RJ-2024-014/">pencal: an R
-Package for the Dynamic Prediction of Survival with Many Longitudinal
-Predictors</a>;</p></li>
-<li><p>visit the <a
-href="https://cran.r-project.org/web/packages/pencal">package page on
-CRAN</a>, and check out the <a
-href="https://cran.r-project.org/web/packages/pencal/pencal.pdf">package
-manual</a>.</p></li>
-</ul>
 </div>
 <div id="r-package-ptmixed" class="section level3">
 <h3>R package ptmixed</h3>
@@ -452,22 +450,19 @@ analysis of longitudinal RNA-seq data. <em>Statistical Modelling</em>,
 <code>ptmixed</code>, available from CRAN.</p>
 <p>To find out more about <code>ptmixed</code>:</p>
 <ul>
-<li><p><a
+<li><a
 href="https://journals.sagepub.com/doi/10.1177/1471082X20936017">read
-the article</a> that describes the methodology behind ptmixed;</p></li>
-<li><p>read the <a
+the article</a> that describes the methodology behind ptmixed;</li>
+<li>read the <a
 href="https://cran.r-project.org/web/packages/ptmixed/vignettes/Overview_functionalities_ptmixed.html">vignette:
 An introduction to the <code>R</code> package
-<code>ptmixed</code></a>;</p></li>
-<li><p>have a look at a short <a
-href="https://www.youtube.com/watch?v=79lUgThZ4HE&amp;t=738s">5 minute
-talk about <code>ptmixed</code></a> that I presented at
-eRum2020;</p></li>
-<li><p>visit the <a
+<code>ptmixed</code></a>;</li>
+<li>check out the <strong>video</strong> of my <a
+href="https://www.youtube.com/watch?v=79lUgThZ4HE&amp;t=738s">eRum2020
+short talk about <code>ptmixed</code></a>;</li>
+<li>visit the <a
 href="https://cran.r-project.org/web/packages/ptmixed">package page on
-CRAN</a>, and check out the <a
-href="https://cran.r-project.org/web/packages/ptmixed/ptmixed.pdf">package
-manual</a>.</p></li>
+CRAN</a>.</li>
 </ul>
 </div>
 <div id="r-package-success" class="section level3">
