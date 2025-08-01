@@ -82,7 +82,7 @@ University of Manchester (UK), Feb. 2017.
 [Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
 </li>
 
-<li> "Dynamic Prediction with Numerous Longitudinal Covatiates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024
+<li> "Dynamic Prediction with Numerous Longitudinal Covatiates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024. **Video recording available** [here](https://youtu.be/jnpiSldbTko)
 </li>
 
 <li> "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors".
@@ -110,7 +110,7 @@ University of Manchester (UK), Feb. 2017.
 </li>
 
 <li> "ptmixed: an R package for flexible modelling of longitudinal overdispersed count data".
-[European R users meeting (e-Rum2020)](https://2020.erum.io), June 2020. [Recording of the talk](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s).
+[European R users meeting (e-Rum2020)](https://2020.erum.io), June 2020. Video recording available [here](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s).
 </li>
 
 <li> "From NEAT to NEWTON: ideas on how to eradicate dichotomania in network enrichment analysis".
