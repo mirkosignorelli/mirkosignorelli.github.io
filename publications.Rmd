@@ -145,6 +145,11 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 <ol reversed class="spacedList">
 
+<li> Cipriani, M., Alfò, M., **Signorelli, M.**, (2025). 
+Extending landmarking to mixture cure models with time-varying covariates. 
+*Proceedings of the 39th International Workshop on Statistical Modelling*, vol. 1, pp. 471-474.
+</li>
+
 <li> **Signorelli, M.**, Wit, E. C. (2017). 
 Model-based clustering for populations of networks. 
 *Proceedings of the 32nd International Workshop on Statistical Modelling*, vol. 1, pp. 155-160.
