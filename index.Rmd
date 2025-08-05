@@ -23,24 +23,33 @@ Office: Gorlaeus building, BW 1.44
 </div>
 </div>
 
-Welcome! My name is **Mirko Signorelli**, and I work as **assistant professor in Statistics** at Leiden University. In this website you can find information about my research and work.
+Welcome! My name is **Mirko Signorelli**, and I work as an **Assistant Professor of Statistics** at Leiden University. On this website, you can find information about my research and academic activities.
 
 ### Short bio
 
-I currently work as **assistant professor in Statistics** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us), where I do research and teach courses for the [Bachelor in Wiskunde (Mathematics)](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde), the [Master in Statistics and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) and the [Master in Mathematics](https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics).
+I currently work as **assistant professor in Statistics** at the [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics) of [Leiden University](https://www.universiteitleiden.nl/en/about-us/profile/history), where I conduct research in **biostatistics** and **computational statistics** (see next section), and I teach courses in the [Bachelor's programme in Wiskunde (Mathematics)](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde) and the Master's programmes in [Mathematics](https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics) and in [Statistics and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science).
 
-I received a double PhD in Statistics from the [University of Groningen](https://www.rug.nl) and from the [University of Padova](https://www.unipd.it/en/) in 2017. After that, I worked for 4 years as postdoctoral researcher at the [Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) (section of Medical Statistics) of the [Leiden University Medical Center](https://www.lumc.nl/research/introduction).
+I received a double PhD in Statistics from the [University of Groningen](https://www.rug.nl/about-ug/profile/) (NL) and from the [University of Padova](https://www.unipd.it/en/history) (IT) in 2017. After that, I worked for 4 years as Postdoctoral Researcher in Biostatistics at the [Leiden University Medical Center](https://www.lumc.nl/research/introduction) (NL).
 
 ### Research interests
 
-My [research work](publications.html) deals with the **development of new statistical methods**, computationally **efficient implementations** of such methods, and with **applied research** questions.
+My research is centered on the **development of new statistical methods** that are primarily motivated by **applied research** questions, and on the implementation of such methods in **statistical software**.  
 
-My methodological research is centered on the **development of new statistical models** for the analysis of **dependent data** and **high-dimensional data**, focusing in particular on **longitudinal data**, **survival data**, and **complex networks**. Some of these new methods are implemented in free and publicly available [`R` packages](r.html).
+Main research interests:
 
-As concerns applied research, I have mostly worked on **applications of statistics to biomedical problems and to social network analysis**. In particular, I collaborate with a [team of biologists, doctors and neurologists](https://www.spierziektencentrum.nl/location/lumc/), on the analysis of a variety of **clinical and omic data** on muscular dystrophies, with a particular focus on the identification of prognostic biomarkers for Duchenne muscular dystrophy.
+* biostatistics and biomedical applications
+* computational statistics
+* dynamic prediction of time to event outcomes
+* high-dimensional inference
+* longitudinal data analysis
+* mixed effects models
+* `R` programming language
+* statistical network science
+* survival analysis
+
+You can find more information about my research on the [publications](publications.html) and the [R packages](r.html) pages.
 
 </section>
-
 
 <!-- the part below is a fix to the menu not displaying properly
 on the mobile version -->
