@@ -26,7 +26,7 @@ Before sending me a request for supervision, I would like to ask you to [check o
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
-* [Lorenzo Carvisiglia](https://www.unibo.it/sitoweb/lorenzo.carvisiglia/en) (2023+, supervisor: Saverio Ranciati)  
+* [Lorenzo Carvisiglia](https://www.unibo.it/sitoweb/lorenzo.carvisiglia/en) (2023+, co-supervisor: Saverio Ranciati)  
 PhD student in *Statistics*  
 Department of Statistical Sciences, University of Bologna  
 
@@ -43,8 +43,8 @@ Thesis title: *Co-clustering on binary hypergraphs*
 
 * **Xiang Li** (2025)  
 MSc in *Statistics and Data Science*  
-Mathematical Institute, Leiden University
-Thesis title: 
+Mathematical Institute, Leiden University  
+Thesis title: *A Comparative Study of EstimationTechniques for Generalized Linear Mixed Models*
 
 * **Astrid Stulemeijer** (2023-25; external supervisor: Christian Steglich)  
 MSc in *Statistics and Data Science*  
@@ -103,7 +103,7 @@ BSc in *Mathematics*
 Mathematical Institute, Leiden University  
 Thesis title: *A comparative study of estimation methods for clustered data: Evaluating the GLMM and HGLM frameworks*
 
-* **Jana Krabbendam** (2025; cosupervisor: Pietro Spitali)  
+* **Jana Krabbendam** (2025; co-supervisor: Pietro Spitali)  
 BSc in *Mathematics*  
 Mathematical Institute, Leiden University + Department of Human Genetics, Leiden University Medical Center  
 Thesis title: *Identifying Potential Biomarkers for Duchenne Muscular Dystrophy in Urinary Metabolomics Data*  

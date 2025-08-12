@@ -10,16 +10,20 @@ output:
 
 <ol reversed class="spacedList">
 
-<li> "What's cooking in the dynamic prediction pot". 
+<li> "What's cooking in the dynamic prediction pot".
+Department of Statistical Sciences "Paolo Fortunati", University of Bologna (IT), Sep. 2025
+</li>
+
+<li> "What's cooking in the dynamic prediction pot".
 [Dynalife BioNetworks Workshop](https://www.dynalife.eu/cetinje-2025), Cetinje (ME), Jul. 2025
 </li>
 
-<li> "Dynamic prediction with numerous longitudinal covariates made easy: the R package pencal". 
+<li> "Dynamic prediction with numerous longitudinal covariates made easy: the R package pencal".
 [18th International Conference on Computational and Methodological Statistics (CMStatistics2024)](https://www.cmstatistics.org/CFECMStatistics2024/index.php), London (UK), Dec. 2024
 </li>
 
 <li> "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors". 
-Department of Statistics, University of Padova (IT), Apr. 2024
+Department of Statistical Sciences, University of Padova (IT), Apr. 2024
 </li>
 
 <li> "Model-based clustering for populations of networks". 
@@ -74,6 +78,9 @@ University of Manchester (UK), Feb. 2017.
 
 <ol reversed class="spacedList">
 
+<li> "An overview and empirical appraisal of recent methodological developments for the dynamic prediction of time-to-event outcomes". [65th ISI World Statistics Congress](https://www.isi-next.org/conferences/isi-wsc2025), The Hague (NL), Oct. 2025.
+</li>
+
 <li> "Dynamic prediction with numerous longitudinal predictors: how to combine the best of both worlds (landmarking and joint modelling) through penalized regression calibration". 
 [10th Survival Analysis for Junior Researchers conference](https://safjr2025.uni-bonn.de), Bonn (GE), March 2025.
 </li>
@@ -110,7 +117,7 @@ University of Manchester (UK), Feb. 2017.
 </li>
 
 <li> "ptmixed: an R package for flexible modelling of longitudinal overdispersed count data".
-[European R users meeting (e-Rum2020)](https://2020.erum.io), June 2020. Video recording available [here](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s).
+[European R users meeting (e-Rum2020)](https://2020.erum.io), June 2020. **Video recording available** [here](https://www.youtube.com/watch?v=79lUgThZ4HE&t=738s).
 </li>
 
 <li> "From NEAT to NEWTON: ideas on how to eradicate dichotomania in network enrichment analysis".
