@@ -64,6 +64,10 @@ Department of Computer Science, University of Sheffield (UK), Feb. 2017.
 University of Manchester (UK), Feb. 2017.
 </li>
 
+<li> "Inferring political collaboration from bill cosponsorship networks". 
+Johann Bernoulli Institute, University of Groningen, September 2016.
+</li>
+
 <li> "Reconstructing collaborations between political parties from bill cosponsorship networks". 
 1st meeting of the [European Cooperation for Statistics of Network Data Science](http://www.cost.eu/COST_Actions/ca/CA15109), Ribno (SL), September 2016.
 </li>
