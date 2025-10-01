@@ -89,11 +89,11 @@ Johann Bernoulli Institute, University of Groningen, September 2016.
 [10th Survival Analysis for Junior Researchers conference](https://safjr2025.uni-bonn.de), Bonn (GE), March 2025.
 </li>
 
-<li> "A critical appraisal of recent developments in the methodology for the dynamic prediction of survival". 
+<li> "Statistical methods for the dynamic prediction of survival in settings with numerous longitudinal predictors: a critical appraisal". 
 [Bernoulli-IMS 11$^{th}$ World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org), Ruhr University Bochum, Bochum (GE), Aug. 2024 
 </li>
 
-<li> "Dynamic Prediction with Numerous Longitudinal Covatiates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024. **Video recording available** [here](https://youtu.be/jnpiSldbTko)
+<li> "`pencal`: Dynamic Prediction with Numerous Longitudinal Covariates". [UseR!2024](https://events.linuxfoundation.org/user/), Salzburg (AT), July 2024. **Video recording available** [here](https://youtu.be/jnpiSldbTko)
 </li>
 
 <li> "pencal: an R package for the dynamic prediction of survival with many longitudinal predictors".
