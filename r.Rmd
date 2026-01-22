@@ -12,9 +12,9 @@ When developing new statistical methods, I usually create `R` packages that make
 
 My involvement in the `R` community so far can be summarized as follows:
 
-* I am the author and mantainer of the **`R` packages `neat`, `ptmixed` and `pencal`**;
+* I am the author and maintainer of the **`R` packages `neat`, `ptmixed` and `pencal`**;
 
-* I contributed to the development of the **`R` package `success`** (developed and mantained by [Daniel Gomon](https://github.com/d-gomon));
+* I contributed to the development of the **`R` package `success`** (developed and maintained by [Daniel Gomon](https://github.com/d-gomon));
 
 * I was one of the organizers of the **European R Users Meeting 2020 (e-Rum2020) conference**;
 
