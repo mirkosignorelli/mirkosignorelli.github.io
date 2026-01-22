@@ -86,6 +86,10 @@ Johann Bernoulli Institute, University of Groningen, September 2016.
 
 <ol reversed class="spacedList">
 
+<li> "Benchmarking R packages for the estimation of mixed-effects models for longitudinal data". [33rd International Biometric Conference](https://www.ibc2026.org/home), Seoul (SK), July 2026.
+</li>
+
+
 <li> "An overview and empirical appraisal of recent methodological developments for the dynamic prediction of time-to-event outcomes". [65th ISI World Statistics Congress](https://www.isi-next.org/conferences/isi-wsc2025), The Hague (NL), Oct. 2025.
 </li>
 
