@@ -12,7 +12,8 @@ output:
 Bachelor's and Master's programmes in *Mathematics*  
 Mathematical Institute, Leiden University
 
-* [2025 course info](https://studiegids.universiteitleiden.nl/en/courses/136205/computational-statistics-and-longitudinal-data-analysis)
+* [2026 course info](https://studiegids.universiteitleiden.nl/modules/4082CSLDAY)
+* [2025 course info](https://studiegids-archief.leidenuniv.nl/en/courses/136205/computational-statistics-and-longitudinal-data-analysis)
 
 NB: this is a "Bachelor-Master" course, accessible to all MSc students as well as to third year BSc students in Mathematics
 
@@ -21,9 +22,10 @@ NB: this is a "Bachelor-Master" course, accessible to all MSc students as well a
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
-* [2026 course info](https://studiegids.universiteitleiden.nl/en/courses/131643/computational-statistics)
-* [2025 course info](https://studiegids.universiteitleiden.nl/en/courses/123870/computational-statistics)
-* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/122111/computational-statistics)
+* [2027 course info](https://studiegids.universiteitleiden.nl/modules/4433COMSTY)
+* [2026 course info](https://studiegids-archief.leidenuniv.nl/en/courses/131643/computational-statistics)
+* [2025 course info](https://studiegids-archief.leidenuniv.nl/en/courses/123870/computational-statistics)
+* [2024 course info](https://studiegids-archief.leidenuniv.nl/en/courses/122111/computational-statistics)
 
 ### Past courses
 
@@ -32,35 +34,33 @@ Mathematical Institute, Leiden University
 Bachelor's programme in *Mathematics (Wiskunde)*  
 Mathematical Institute, Leiden University
 
-* [2025 course info](https://studiegids.universiteitleiden.nl/courses/129970/onderwerpen-in-de-statistiek)
+* [2025 course info](https://studiegids-archief.leidenuniv.nl/courses/129970/onderwerpen-in-de-statistiek)
+
+Up until 2024, this course was called "Mathematical Statistics II":
+
+* [2024 course info](https://studiegids-archief.leidenuniv.nl/en/courses/118249/mathematical-statistics-2)
+* [2023 course info](https://studiegids-archief.leidenuniv.nl/en/courses/115390/mathematical-statistics-2)
+* [2022 course info](https://studiegids-archief.leidenuniv.nl/en/courses/109613/mathematical-statistics-2)
+
 
 #### Statistical Computing with R (2021 - 2024)
 
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
-* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/124033/statistical-computing-with-r)
-* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/121707/statistical-computing-with-r)
-* [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/115518/statistical-computing-with-r)
-* [2021 course info](https://studiegids.universiteitleiden.nl/en/courses/110098/statistical-computing-with-r)
-
-#### Mathematical Statistics 2: module on Longitudinal Data Analysis and GLMMs (2022 - 2024)
-
-Bachelor's programme in *Mathematics (Wiskunde)*  
-Mathematical Institute, Leiden University
-
-* [2024 course info](https://studiegids.universiteitleiden.nl/en/courses/118249/mathematical-statistics-2)
-* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/115390/mathematical-statistics-2)
-* [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/109613/mathematical-statistics-2)
+* [2024 course info](https://studiegids-archief.leidenuniv.nl/en/courses/124033/statistical-computing-with-r)
+* [2023 course info](https://studiegids-archief.leidenuniv.nl/en/courses/121707/statistical-computing-with-r)
+* [2022 course info](https://studiegids-archief.leidenuniv.nl/en/courses/115518/statistical-computing-with-r)
+* [2021 course info](https://studiegids-archief.leidenuniv.nl/en/courses/110098/statistical-computing-with-r)
 
 #### Advanced Statistical Computing (2021 - 2023)
 
 Master's programme in *Statistics \& Data Science*  
 Mathematical Institute, Leiden University
 
-* [2023 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
-* [2022 course info](https://studiegids.universiteitleiden.nl/en/courses/114185/advanced-statistical-computing)
-* [2021  course info](https://studiegids.universiteitleiden.nl/en/courses/105113/advanced-statistical-computing)
+* [2023 course info](https://studiegids-archief.leidenuniv.nl/en/courses/114185/advanced-statistical-computing)
+* [2022 course info](https://studiegids-archief.leidenuniv.nl/en/courses/114185/advanced-statistical-computing)
+* [2021  course info](https://studiegids-archief.leidenuniv.nl/en/courses/105113/advanced-statistical-computing)
 
 #### Courses up until 2021
 
