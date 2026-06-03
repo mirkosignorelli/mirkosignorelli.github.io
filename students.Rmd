@@ -32,7 +32,7 @@ Mathematical Institute, Leiden University
 PhD student in *Statistics*  
 Department of Statistical Sciences, University of Bologna  
 
-* [Daniel Gomon](https://github.com/d-gomon) (2021-25; co-supervisors: Marta Fiocco and Hein Putter)  
+* [Daniel Gomon](https://d-gomon.github.io/) (2021-25; co-supervisors: Marta Fiocco and Hein Putter)  
 PhD student in *Statistics*  
 Mathematical Institute, Leiden University  
 
@@ -41,6 +41,7 @@ Mathematical Institute, Leiden University
 * **Erin Tran** (2026)  
 MSc in *Methods and Statistics*  
 Tilburg University  
+Project title: *Assessing the impact of different summaries on the predictive performance of penalized regression calibration* 
 
 * **Ioannis Liolios** (2024-25)  
 MSc in *Mathematics*  
