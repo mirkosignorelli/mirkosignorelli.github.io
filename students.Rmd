@@ -9,20 +9,25 @@ output:
 
 #### PhD students and postdocs
 
+<!--
 I currently have a **vacancy for a PhD student**: [click here](https://careers.universiteitleiden.nl/job/PhD-position-in-Statistics-%28survival-analysis%29/16189-en_US/) for information about it
+-->
+I do not have open vacancies in my group at the moment.
 
-Feel free to contact me in case
+Feel free to contact me in case you are:
 
-1. you are currently pursuing a PhD or working as postdoc, and would like to explore the possibility of working together;
-2. you are looking for a PhD or postdoc position, and would like to inquire about open vacancies or future opportunities.
+1. already pursuing a PhD or working as postdoc, and would like to explore the possibility of working together;
+2. looking for a PhD or postdoc position, and would like to inquire about open vacancies or future opportunities.
 
 #### BSc and MSc students
 
-Are you interested in doing your bachelor's / master's thesis project with me? Feel free to get in touch to discuss this possibility!
-
-Before sending me a request for supervision, I would like to ask you to [check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.
+Are you interested in doing your bachelor's / master's thesis project with me? Feel free to get in touch to discuss this possibility! Before sending me a request for supervision, please [have a look at this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md) where I detail the type of information that I need to be able to assess your request and come up with a project that best fits your profile and our shared interests.
 
 ### PhD students
+
+* **Andrei Secuiu** (2026+)  
+PhD student in *Statistics*  
+Mathematical Institute, Leiden University  
 
 * [Xiang Li](https://www.universiteitleiden.nl/en/staffmembers/1/xiang-li#tab-1) (2025+)  
 PhD student in *Statistics*  
