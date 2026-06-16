@@ -10,7 +10,7 @@ output:
 
 <ol reversed class="spacedList">
 
-<li> Li, X., **Signorelli, M.** (in review). *A Comparative Study of Estimation Techniques for Generalized Linear Mixed Models*.  
+<li> Li, X., **Signorelli, M.** (in review). *A Comparison of `R` Packages for Estimating Generalized Linear Mixed Models*.  
 Preprint: [arXiv:2606.15933](https://arxiv.org/abs/2606.15933).
 </li>
 
