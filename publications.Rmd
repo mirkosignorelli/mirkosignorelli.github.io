@@ -152,6 +152,13 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 <ol reversed class="spacedList">
 
+<li> Carvisiglia, L., Ranciati, L., **Signorelli, M.**, (2025). 
+[On the Computation of Prediction Intervals for Survival Times in Dynamic Prediction Problems](https://doi.org/10.1007/978-3-032-30877-1_80).  
+In: Martella, F., Arima, S., Marino, M.F., Mollica, C. (eds). *Statistical Science: From Theory to Applied Research II*, Springer.
+
+*Statistical Science: From Theory to Applied Research II*, vol. 1, pp. 471-474.
+</li>
+
 <li> Cipriani, M., Alfò, M., **Signorelli, M.**, (2025). 
 Extending landmarking to mixture cure models with time-varying covariates. 
 *Proceedings of the 39th International Workshop on Statistical Modelling*, vol. 1, pp. 471-474.
