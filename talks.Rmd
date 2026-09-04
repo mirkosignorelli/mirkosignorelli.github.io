@@ -15,7 +15,7 @@ LUMC Survival Analysis Seminar, LUMC (NL), Apr. 2026.
 </li>
 
 <li> "What's cooking in the dynamic prediction pot".
-Health Data Science special interest group, Leiden University (NL), Feb. 2026.
+[Health Data Science special interest group](https://www.universiteitleiden.nl/en/research/research-projects/data-science-research-programme/sig-health-data-science), Leiden University (NL), Feb. 2026.
 </li>
 
 <li> "What's cooking in the dynamic prediction pot".
