@@ -22,7 +22,7 @@ In June 2023, I was awarded an **eScience Center Fellowship** from the Netherlan
 
 My fellowship project aims to improve the efficiency, accessibility and visibility of the `R` package `pencal`. To find more about `pencal`, see the [`R` packages](r.html) page.
 
-### Honourable mention from the jury of the Hans van Houwelingen Award (BMS-ANed)
+### Hans van Houwelingen Award: honourable mention (BMS-ANed)
 
 <img src="images/HvH_award_honourable_mention.png" align="right" alt="" width="200" />
 
