@@ -10,30 +10,48 @@ output:
 
 <ol reversed class="spacedList">
 
-<li> Li, X., **Signorelli, M.** (in review). *A Comparison of R Packages for Estimating Generalized Linear Mixed Models*.  
+<li> Carvisiglia, L., Ranciati, S., **Signorelli, M.** (in review). 
+*Dynamic prediction intervals for survival times*.
+</li>
+
+<li> Li, X., **Signorelli, M.** (in review). 
+*A Comparison of R Packages for Estimating Generalized Linear Mixed Models*.
 Preprint: [arXiv:2606.15933](https://arxiv.org/abs/2606.15933).
 </li>
 
-<li> Cipriani, M., Alfò, M., **Signorelli, M.** (in review). *Dynamic Prediction in Mixture Cure Models: A Model-Based Landmarking Approach*. Preprint: [arXiv:2509.18875](https://arxiv.org/abs/2509.18875).
+<li> Cipriani, M., Alfò, M., **Signorelli, M.** (in review). 
+*Dynamic Prediction in Mixture Cure Models: A Model-Based Landmarking Approach*. 
+Preprint: [arXiv:2509.18875](https://arxiv.org/abs/2509.18875).
 </li>
 
-<li> **Signorelli, M.**, Retif, S. (2026). [Benchmarking multi-step methods for the dynamic prediction of survival with numerous longitudinal predictors](https://www.degruyterbrill.com/document/doi/10.1515/ijb-2025-0049/html). *The International Journal of Biostatistics*, 22 (1), 65-85.
+<li> **Signorelli, M.**, Retif, S. (2026). 
+[Benchmarking multi-step methods for the dynamic prediction of survival with numerous longitudinal predictors](https://www.degruyterbrill.com/document/doi/10.1515/ijb-2025-0049/html).
+*The International Journal of Biostatistics*, 22 (1), 65-85.
 </li>
 
-<li> **Signorelli, M.** (2024). [pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://journal.r-project.org/articles/RJ-2024-014/). *The R Journal*, 16 (2), 134-153.
+<li> **Signorelli, M.** (2024). 
+[pencal: an R Package for the Dynamic Prediction of Survival with Many Longitudinal Predictors](https://journal.r-project.org/articles/RJ-2024-014/).
+*The R Journal*, 16 (2), 134-153.
 </li>
 
-<li> Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). [Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631). *Statistical Methods in Medical Research*, 33 (2), 256-272.
+<li> Gomon, D., Putter, H., Fiocco, M., **Signorelli, M.** (2024). 
+[Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach](https://doi.org/10.1177/09622802231224631).
+*Statistical Methods in Medical Research*, 33 (2), 256-272.
 </li>
 
-<li> Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2024). [Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). *Health Services and Outcomes Research Methodology*, 24, 281-303.
+<li> Gomon, D., Simons, J. et al. [including **Signorelli, M.**] (2024). 
+[Inspecting the quality of care: a comparison of CUSUM methods for inter hospital performance](https://doi.org/10.1007/s10742-023-00315-0). 
+*Health Services and Outcomes Research Methodology*, 24, 281-303.
 </li>
 
-<li> Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). [SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). *The R Journal*, 15 (4), 270-291.
+<li> Gomon, D., Fiocco, M., Putter, H., **Signorelli, M.** (2023). 
+[SUrvival Control Chart EStimation Software in `R`: the `success` package](https://doi.org/10.32614/RJ-2023-095). 
+*The R Journal*, 15 (4), 270-291.
 </li>
 
-<li> **Signorelli, M.**, Cutillo, L. (2022). 
-[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). *Computational Statistics*, 37, 1165–1183.
+<li> **Signorelli, M.**, Cutillo, L. (2022).
+[On community structure validation in real networks](https://doi.org/10.1007/s00180-021-01156-6). 
+*Computational Statistics*, 37, 1165–1183.
 </li>
 
 <li> **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (2021). 
@@ -65,8 +83,9 @@ A conference proceedings version of this article was awarded the [Best Student P
 *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, 67 (2), 355-369. 
 </li>
 
-<li> **Signorelli, M.** (2017). [Inferring Community-driven Structure in Complex Networks](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). University of Groningen and University of Padova.
-ISBN: 978-90-367-9575-3.  
+<li> **Signorelli, M.** (2017). 
+[Inferring Community-driven Structure in Complex Networks](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). 
+University of Groningen and University of Padova. ISBN: 978-90-367-9575-3.  
 NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.  
 <span style="color: orchid;">
 My PhD thesis was awarded the [Best PhD Thesis Award](awards.html) of the Italian Statistical Society (SIS) in the category Applied Statistics.
@@ -92,13 +111,19 @@ With this article I won the competition for the [Research Award 2016](awards.htm
 
 <ol reversed class="spacedList">
 
-<li> **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). [Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). *PLOS ONE*, 18(3), e0283869.
+<li> **Signorelli, M.**, Tsonaka, R., Aartsma-Rus, A., Spitali, P. (2023). 
+[Multiomic characterization of disease progression in mice lacking dystrophin](https://doi.org/10.1371/journal.pone.0283869). 
+*PLOS ONE*, 18(3), e0283869.
 </li>
 
-<li> Johansson, C., Hunt, H., **Signorelli, M.** et al. (2023). [Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers](https://doi.org/10.1186/s12014-023-09412-1). *Clinical Proteomics*, 20, 23.
+<li> Johansson, C., Hunt, H., **Signorelli, M.** et al. (2023). 
+[Orthogonal proteomics methods warrant the development of Duchenne Muscular Dystrophy biomarkers](https://doi.org/10.1186/s12014-023-09412-1). 
+*Clinical Proteomics*, 20, 23.
 </li>
 
-<li> van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2023). [Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). *Neurology*, 100 (9), e975-e984.
+<li> van de Velde, M., Koeks, Z., **Signorelli, M.** et al. (2023). 
+[Longitudinal Assessment of Creatine Kinase, Creatine/Creatinine ratio and Myostatin as Monitoring Biomarkers in Becker Muscular Dystrophy](https://doi.org/10.1212/WNL.0000000000201609). 
+*Neurology*, 100 (9), e975-e984.
 </li>
 
 <li> **Signorelli, M.**, Ebrahimpoor, M. et al. (2021). 
