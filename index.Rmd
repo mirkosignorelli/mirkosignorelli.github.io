@@ -39,11 +39,10 @@ My research is centered on the **development of new statistical methods** that a
 Currently, my main research interests include:
 
 * **biostatistics** and biomedical applications
-* **computational** statistics
+* **computational** statistics and statistical software
 * **dynamic prediction** of time-to-event outcomes
 * **longitudinal** data analysis
 * **mixed-effects models**
-* **`R`** programming language
 * **survival** analysis
 
 Further interests of mine include statistical network science and high-dimensional inference.
