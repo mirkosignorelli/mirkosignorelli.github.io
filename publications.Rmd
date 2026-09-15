@@ -12,6 +12,7 @@ output:
 
 <li> Carvisiglia, L., Ranciati, S., **Signorelli, M.** (in review). 
 *Dynamic prediction intervals for survival times*.
+Preprint: [arXiv:2609.10409](https://arxiv.org/abs/2609.10409).
 </li>
 
 <li> Li, X., **Signorelli, M.** (in review). 
