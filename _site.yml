@@ -34,8 +34,8 @@ navbar:
       href: contact.html
   right:
     - text: ""
-      icon: fab fa-twitter
-      href: https://twitter.com/signormirko
+      icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/signorelli
     - text: ""
       icon: fab fa-github
       href: https://github.com/mirkosignorelli
