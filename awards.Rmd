@@ -1,69 +1,58 @@
 ---
-title: "Awards and Fellowships"
+title: "Awards and Grants"
 pagetitle: "Mirko Signorelli's awards and fellowships"
 output:
   html_document:
     toc: true
 ---
 
-### VIDI grant (NWO - Dutch Research Council)
+### Vidi grant (NWO - Dutch Research Council)
 
 <img src="images/NWO_logo.jpg" align="right" alt="" width="200" />
 
-In October 2024, I was awarded a **VIDI grant** from NWO (Dutch Research Council). This is a personal grant that can be used to appoint scientific staff who performs research related to a 5-years long research project proposed and led by the applicant.
+In October 2024, the Dutch Research Council (NWO) awarded me a [**Vidi grant**](https://www.nwo.nl/en/calls/nwo-talent-programme). A "Vidi" is a personal research grant that provides researchers with funding to develop their own innovative research line and build an independent research group.
 
-My project focuses on the development of **new statistical methods and software** for the **dynamic prediction** of survival outcomes in settings with numerous longitudinal predictors.
+[My research project](https://www.nwo.nl/projecten/ssxqw87450) focuses on the development of **new statistical methods and software** for **dynamic prediction** in settings with numerous longitudinal predictors and complex survival outcomes.
+
+### Hans van Houwelingen Award: honourable mention (BMS-ANed)
+
+<img src="images/HvH_award_honourable_mention.png" align="left" alt="" width="200" />
+
+In June 2023, my article [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017) was awarded a **honourable mention by the jury of the Hans van Houwelingen Biometry Award**. This prize is awarded every two years to a publication that has contributed significantly to the development or application of biometry. 
 
 ### e-Science Center Fellowship
 
 <img src="images/eScience_Center.png" align="right" alt="" width="220" />
 
-In June 2023, I was awarded an **eScience Center Fellowship** from the Netherlands eScience Center. The [Fellowship Programme](https://www.esciencecenter.nl/fellowship-programme) aims to raise awareness on the importance of properly developing and maintaining research software, and tries to increase recognition and rewards around it.
+In June 2023, the Netherlands eScience Center awarded me an **eScience Center Fellowship**. The fellowship programme, now discontinued, supported researchers in developing, improving and promoting the use of open and sustainable research software. 
 
-My fellowship project aims to improve the efficiency, accessibility and visibility of the `R` package `pencal`. To find more about `pencal`, see the [`R` packages](r.html) page.
-
-### Hans van Houwelingen Award: honourable mention (BMS-ANed)
-
-<img src="images/HvH_award_honourable_mention.png" align="right" alt="" width="200" />
-
-In June 2023, I received a **honourable mention from the jury of the Hans van Houwelingen Award** for my article [Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017) that is published in *Statistical Modelling*.
-
-The Hans van Houwelingen Award Biometry Award from the [BMS-ANed](https://www.vvsor.nl/biometrics/) (Biometrics section of the Dutch Society for Statistics and Operations Research, as well as Dutch section of the International Biometric Society) is awarded every two years to a publication that has contributed significantly to the development or application of biometry. 
+[My fellowship project](https://www.esciencecenter.nl/fellowship-programme/mirko-signorelli/) contributed to improving the efficiency, accessibility and visibility of the `R` package `pencal` (see the [`R` packages](r.html) page for info about it).
 
 ### Young Statistician Award (International Biometric Society)
 
-<img src="images/award_YSS_IBS.png" align="right" alt="" width="200" />
+<img src="images/award_YSS_IBS.png" align="left" alt="" width="200" />
 
-In August 2020, I received the [**Young Statistician Award of the International Biometric Society**](https://www.vvsor.nl/biometrics/news/two-awards-for-bms-aned-members-at-ibc2020) (IBS).
-
-This award was based on a world-wide competition whereby young statisticians could submit a short paper with a contribution to be presented at the 30th International Biometric Conference (IBC2020). Five winners, one for each macroregion of IBS, were selected. My short paper, entitled "How to predict a survival outcome using longitudinal and high-dimensional omics data", was the winner for Europe. Its contents were presented during the [Young Statistician Showcase session of IBC2020](https://www.ibc2020.org/scientific-programme/showcases).
+In August 2020, I was awarded the [**Young Statistician Award of the International Biometric Society**](https://www.vvsor.nl/biometrics/news/two-awards-for-bms-aned-members-at-ibc2020) (IBS). My short paper, entitled "How to predict a survival outcome using longitudinal and high-dimensional omics data", was the winner for European macroregion of IBS. Its contents were presented during the [Young Statistician Showcase session of IBC2020](https://www.ibc2020.org/scientific-programme/showcases).
 
 ### Best PhD Thesis Award (Italian Statistical Society)
 
 <img src="images/award_best_phd_thesis_SIS.png" align="right" alt="" width="200" />
 
-In June 2018, I received the **Best PhD Thesis Award of the Italian Statistical Society**. 
+In June 2018, the Italian Statistical Society (SIS) awarded me their **Best PhD Thesis Award in Applied Statistics** for [my PhD thesis](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). The prize is awarded every other year to the best PhD theses in statistics and demography.
 
-This award is awarded every other year to PhD theses belonging to one of the following categories: methological statistics, applied statistics and demography. My PhD thesis, entitled ["Inferring Community-driven Structure in Complex Networks"](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks), was selected for the award in the applied statistics category.
-
-After I received the award, I was interviewed by the Italian newspaper *Corriere della Sera*; [you can read the interview (in Italian) here](https://bergamo.corriere.it/notizie/cronaca/18_ottobre_05/da-chiuduno-all-olanda-premiato-la-ricerca-statistica-politica-8bce14cc-c87b-11e8-81ab-863c582a99f0.shtml).
+After receiving the award, I was interviewed by the Italian newspaper *Corriere della Sera*; [you can read the interview (in Italian) here](https://bergamo.corriere.it/notizie/cronaca/18_ottobre_05/da-chiuduno-all-olanda-premiato-la-ricerca-statistica-politica-8bce14cc-c87b-11e8-81ab-863c582a99f0.shtml).
 
 ### Best Student Paper Award (Statistical Modelling Society)
 
-<img src="images/award_best_student_paper_IWSM.png" align="right" alt="" width="200" />
+<img src="images/award_best_student_paper_IWSM.png" align="left" alt="" width="200" />
 
-In July 2017, I received the [**Best Student Paper Toyota Corporation Award of the Statistical Modelling Society**](https://journals.sagepub.com/doi/full/10.1177/1471082X17726638).
-
-This award was based on a competition between all short papers submitted by PhD students for a contributed talk at the 32nd International Workshop on Statistical Modelling (IWSM).
+In July 2017, the Statistical Modelling Society awarded me the [**Best Student Paper Toyota Corporation Award**](https://journals.sagepub.com/doi/full/10.1177/1471082X17726638) at the 32nd International Workshop on Statistical Modelling (IWSM).
 
 ### Research Award 2016 (Dept. of Statistics, University of Padova)
 
-<img src="images/scienze_statistiche_unipd.jpeg" align="right" alt="" width="200" />
+<img src="images/scienze_statistiche_unipd.jpeg" align="right" alt="" width="170" />
 
-In 2017, I received the **Research Award 2016 of the Department of Statistical Sciences of the University of Padova**.
-
-This award is based on a competition whereby all junior researchers affiliated to the Department of Statistical Sciences can submit one of their published articles for consideration. I received the award based on my article [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6) that is published in BMC Bioinformatics.
-
+In 2017, the Department of Statistical Sciences of the University of Padova awarded me the **Research Award 2016 of ** for my article [NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6).
 
 <!-- the part below is a fix to the menu not displaying properly
 on the mobile version -->
